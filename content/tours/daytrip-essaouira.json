@@ -1,0 +1,266 @@
+{
+  "title": "Essaouira Day Trip",
+  "type": "daytrip",
+  "category": "daytrip",
+  "order": 604,
+  "show_on_home": true,
+  "home_extra": [],
+  "price": "",
+  "image": "/images/dt-essaouira.jpg",
+  "image_position": "center 42%",
+  "meta_description": "Essaouira day trip from Marrakech: argan trees, the blue fishing boats of the harbour, the UNESCO-listed Medina and the Skala, seafood lunch, beach time and an argan oil cooperative.",
+  "eyebrow": {
+    "en": "Marrakech · Essaouira · Marrakech",
+    "es": "Marrakech · Esauira · Marrakech",
+    "it": "Marrakech · Essaouira · Marrakech"
+  },
+  "title_line1": {
+    "en": "Essaouira",
+    "es": "Excursión de un día",
+    "it": "Escursione di un giorno"
+  },
+  "title_line2": {
+    "en": "Day Trip",
+    "es": "a Esauira",
+    "it": "a Essaouira"
+  },
+  "duration": {
+    "en": "Full day",
+    "es": "Día completo",
+    "it": "Giornata intera"
+  },
+  "duration_short": {
+    "en": "Full day",
+    "es": "Día completo",
+    "it": "Giornata intera"
+  },
+  "start": "Marrakech",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "Essaouira Day Trip",
+      "es": "Excursión a Essaouira",
+      "it": "Escursione a Essaouira"
+    },
+    "highlights": {
+      "en": "",
+      "es": "",
+      "it": ""
+    },
+    "route": [
+      "Marrakech"
+    ],
+    "image_alt": "Essaouira Coastal Day Trip from Marrakech, Morocco"
+  },
+  "overview": [
+    {
+      "en": "Embark on an Essaouira day trip from Marrakech to explore a hidden gem along the Atlantic coast. Also called Mogador, this charming city is famed for its fortified Medina and vibrant fishing port. With its artistic, bohemian vibe and pleasant climate year-round, Essaouira has become a favorite escape from Marrakech. The scenic drive takes just 2 hours and 30 minutes, making it a perfect day trip. Daily excursions depart from Marrakech, and only one participant is needed to secure your spot.",
+      "es": "Embárcate en una excursión de un día a Esauira desde Marrakech para descubrir una joya escondida de la costa atlántica. También llamada Mogador, esta encantadora ciudad es famosa por su medina amurallada y su animado puerto pesquero. Con su ambiente artístico y bohemio y su clima agradable todo el año, Esauira se ha convertido en la escapada favorita desde Marrakech. El bonito trayecto dura solo 2 horas y 30 minutos, lo que la convierte en una excursión de un día perfecta. Hay salidas diarias desde Marrakech y basta con un solo participante para reservar tu plaza.",
+      "it": "Parti per un’escursione di un giorno a Essaouira da Marrakech per scoprire una gemma nascosta della costa atlantica. Chiamata anche Mogador, questa affascinante città è famosa per la sua medina fortificata e il suo vivace porto di pescatori. Con la sua atmosfera artistica e bohémien e il clima piacevole tutto l’anno, Essaouira è diventata la fuga preferita da Marrakech. Il panoramico tragitto dura solo 2 ore e 30 minuti, il che la rende un’escursione di un giorno perfetta. Le partenze da Marrakech sono giornaliere e basta un solo partecipante per assicurarti il posto."
+    }
+  ],
+  "highlights": [],
+  "route": [
+    "Marrakech",
+    "Argan groves",
+    "Essaouira",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Departure from Marrakech",
+        "es": "Salida de Marrakech",
+        "it": "Partenza da Marrakech"
+      },
+      "text": {
+        "en": "Your day starts with a pick-up from your accommodation in Marrakech. Relax in a comfortable, air-conditioned vehicle as you journey west towards the coast. Along the 2-hour 30-minute scenic drive, enjoy the changing landscapes, including the famous argan tree groves, where you might spot goats climbing the trees.",
+        "es": "Tu día empieza con la recogida en tu alojamiento de Marrakech. Relájate en un vehículo cómodo con aire acondicionado mientras viajas hacia el oeste, rumbo a la costa. Durante el bonito trayecto de 2 horas y 30 minutos, disfruta de los paisajes cambiantes, entre ellos los famosos bosques de arganes, donde quizá veas cabras subidas a los árboles.",
+        "it": "La tua giornata inizia con il prelievo presso il tuo alloggio a Marrakech. Rilassati in un veicolo confortevole con aria condizionata mentre viaggi verso ovest, in direzione della costa. Durante il panoramico tragitto di 2 ore e 30 minuti, goditi i paesaggi che cambiano, tra cui i famosi boschi di argan, dove potresti vedere le capre arrampicate sugli alberi."
+      },
+      "label": {
+        "en": "8:00 AM",
+        "es": "8:00 AM",
+        "it": "8:00 AM"
+      }
+    },
+    {
+      "title": {
+        "en": "Arrival in Essaouira",
+        "es": "Llegada a Esauira",
+        "it": "Arrivo a Essaouira"
+      },
+      "text": {
+        "en": "Upon arrival, you'll feel the fresh Atlantic breeze as you begin your exploration of Essaouira, also known as Mogador. Your first stop is the harbor, where you’ll see the traditional blue fishing boats and a bustling fish market.",
+        "es": "Al llegar, sentirás la brisa fresca del Atlántico mientras comienzas a explorar Esauira, también conocida como Mogador. La primera parada es el puerto, donde verás las tradicionales barcas de pesca azules y un animado mercado de pescado.",
+        "it": "All’arrivo sentirai la fresca brezza dell’Atlantico mentre inizi a esplorare Essaouira, conosciuta anche come Mogador. La prima tappa è il porto, dove vedrai le tradizionali barche da pesca blu e un vivace mercato del pesce."
+      },
+      "label": {
+        "en": "10:30 AM",
+        "es": "10:30 AM",
+        "it": "10:30 AM"
+      }
+    },
+    {
+      "title": {
+        "en": "Visit the Medina",
+        "es": "Visita de la medina",
+        "it": "Visita della medina"
+      },
+      "text": {
+        "en": "Wander through Essaouira’s UNESCO-listed Medina, known for its distinct architecture and artsy atmosphere. Stroll through narrow, vibrant streets filled with artisan shops offering handmade crafts, jewelry, and local products like argan oil. Don’t miss the impressive city walls and the historical Skala, which offers stunning views of the ocean.",
+        "es": "Recorre la medina de Esauira, declarada Patrimonio de la UNESCO, conocida por su arquitectura singular y su ambiente artístico. Pasea por calles estrechas y animadas llenas de tiendas de artesanos con artesanía hecha a mano, joyas y productos locales como el aceite de argán. No te pierdas las impresionantes murallas y la histórica Skala, que ofrece unas vistas espectaculares del océano.",
+        "it": "Passeggia nella medina di Essaouira, Patrimonio dell’UNESCO, nota per la sua architettura particolare e l’atmosfera artistica. Percorri strette e vivaci stradine piene di botteghe artigiane con oggetti fatti a mano, gioielli e prodotti locali come l’olio di argan. Non perderti le imponenti mura della città e la storica Skala, che offre viste mozzafiato sull’oceano."
+      },
+      "label": {
+        "en": "11:00 AM",
+        "es": "11:00 AM",
+        "it": "11:00 AM"
+      }
+    },
+    {
+      "title": {
+        "en": "Lunch Break",
+        "es": "Pausa para almorzar",
+        "it": "Pausa pranzo"
+      },
+      "text": {
+        "en": "Enjoy a lunch of fresh seafood at a local restaurant near the port or in one of the charming cafes lining the Medina’s streets. Essaouira is renowned for its seafood, so this is the perfect chance to savor dishes like grilled sardines or a traditional fish tagine.",
+        "es": "Disfruta de un almuerzo de pescado y marisco fresco en un restaurante local cerca del puerto o en uno de los encantadores cafés de las calles de la medina. Esauira es famosa por su pescado, así que es la ocasión perfecta para probar platos como sardinas a la parrilla o un tajín de pescado tradicional.",
+        "it": "Goditi un pranzo a base di pesce fresco in un ristorante locale vicino al porto o in uno dei graziosi caffè lungo le vie della medina. Essaouira è famosa per il suo pesce, quindi è l’occasione perfetta per assaggiare piatti come le sardine alla griglia o un tradizionale tajine di pesce."
+      },
+      "label": {
+        "en": "12:30 PM",
+        "es": "12:30 PM",
+        "it": "12:30 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Free Time and Beach Walk",
+        "es": "Tiempo libre y paseo por la playa",
+        "it": "Tempo libero e passeggiata in spiaggia"
+      },
+      "text": {
+        "en": "After lunch, take some time to enjoy the beach or continue exploring on your own. You can relax by the shoreline, try camel or horse riding along the beach, or visit the local art galleries and museums.",
+        "es": "Después del almuerzo, tómate un tiempo para disfrutar de la playa o seguir explorando por tu cuenta. Puedes relajarte junto a la orilla, montar en camello o a caballo por la playa, o visitar las galerías de arte y los museos locales.",
+        "it": "Dopo pranzo, prenditi del tempo per goderti la spiaggia o continuare a esplorare da solo. Puoi rilassarti in riva al mare, fare un giro in cammello o a cavallo sulla spiaggia, o visitare le gallerie d’arte e i musei locali."
+      },
+      "label": {
+        "en": "2:00 PM",
+        "es": "2:00 PM",
+        "it": "2:00 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Departure from Essaouira",
+        "es": "Salida de Esauira",
+        "it": "Partenza da Essaouira"
+      },
+      "text": {
+        "en": "Bid farewell to Essaouira and begin your return journey to Marrakech. You’ll stop briefly at an argan oil cooperative, where you can learn about the production process and shop for high-quality products.",
+        "es": "Despídete de Esauira y comienza el viaje de regreso a Marrakech. Harás una breve parada en una cooperativa de aceite de argán, donde podrás conocer el proceso de producción y comprar productos de gran calidad.",
+        "it": "Saluta Essaouira e inizia il viaggio di ritorno verso Marrakech. Farai una breve sosta in una cooperativa di olio di argan, dove potrai scoprire il processo di produzione e acquistare prodotti di alta qualità."
+      },
+      "label": {
+        "en": "3:30 PM",
+        "es": "3:30 PM",
+        "it": "3:30 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Return to Marrakech",
+        "es": "Regreso a Marrakech",
+        "it": "Rientro a Marrakech"
+      },
+      "text": {
+        "en": "You’ll arrive back in Marrakech, where you’ll be dropped off at your accommodation, bringing your day trip to a close.",
+        "es": "Llegada a Marrakech, donde te dejaremos en tu alojamiento, poniendo fin a tu excursión de un día.",
+        "it": "Arrivo a Marrakech, dove sarai riaccompagnato al tuo alloggio, a conclusione della tua escursione di un giorno."
+      },
+      "label": {
+        "en": "6:00 PM",
+        "es": "6:00 PM",
+        "it": "6:00 PM"
+      }
+    }
+  ],
+  "itinerary_note": {
+    "en": "This itinerary offers a balance of guided sightseeing and free time, making it perfect for those looking to experience the unique charm of Essaouira.",
+    "es": "Este itinerario combina visitas guiadas y tiempo libre, perfecto para quienes quieren vivir el encanto único de Esauira.",
+    "it": "Questo itinerario unisce visite guidate e tempo libero, perfetto per chi vuole vivere il fascino unico di Essaouira."
+  },
+  "included": [
+    {
+      "en": "Pick-up & drop off at/from your accommodation",
+      "es": "Recogida y regreso a tu alojamiento",
+      "it": "Prelievo e rientro presso il tuo alloggio"
+    },
+    {
+      "en": "Transport by private modern vehicle with A/C",
+      "es": "Transporte en vehículo privado moderno con aire acondicionado",
+      "it": "Trasporto in veicolo privato moderno con aria condizionata"
+    },
+    {
+      "en": "Experienced English/Spanish speaking Driver/Guide",
+      "es": "Chófer/guía con experiencia que habla inglés y español",
+      "it": "Autista/guida esperto che parla inglese e spagnolo"
+    },
+    {
+      "en": "Car Fuel",
+      "es": "Combustible",
+      "it": "Carburante"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Pick-up from your accommodation",
+        "es": "Recogida en tu alojamiento",
+        "it": "Prelievo presso il tuo alloggio"
+      }
+    },
+    {
+      "name": "Argan groves",
+      "description": {
+        "en": "Argan trees on the way to the coast",
+        "es": "Arganes de camino a la costa",
+        "it": "Alberi di argan verso la costa"
+      }
+    },
+    {
+      "name": "Essaouira",
+      "description": {
+        "en": "Harbour, UNESCO Medina, Skala, seafood lunch and beach",
+        "es": "Puerto, medina UNESCO, Skala, almuerzo de pescado y playa",
+        "it": "Porto, medina UNESCO, Skala, pranzo di pesce e spiaggia"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Drop-off at your accommodation",
+        "es": "Regreso a tu alojamiento",
+        "it": "Rientro al tuo alloggio"
+      }
+    }
+  ],
+  "map_route": [
+    "Marrakech, Morocco",
+    "Essaouira, Morocco",
+    "Marrakech, Morocco"
+  ],
+  "planner": {
+    "show": true,
+    "days": 1,
+    "start": "marrakech",
+    "tags": [
+      "cities"
+    ]
+  }
+}

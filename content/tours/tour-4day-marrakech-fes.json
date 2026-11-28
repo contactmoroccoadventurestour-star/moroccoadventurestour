@@ -1,0 +1,376 @@
+{
+  "title": "4 Days from Marrakech to Fes via Desert",
+  "type": "tour",
+  "category": "marrakech",
+  "order": 3,
+  "show_on_home": true,
+  "home_extra": [],
+  "price": "",
+  "image": "/images/tour-merzouga4.jpg",
+  "image_position": "60% 62%",
+  "meta_description": "Private 4-day tour from Marrakech to Fes via the Sahara: Ait Ben Haddou, Ouarzazate, Dades Valley, Todra Gorge, a night in the Erg Chebbi dunes, Ziz Valley, Midelt, Azrou cedar forest and Ifrane.",
+  "eyebrow": {
+    "en": "Private desert tour · one way",
+    "es": "Tour privado al desierto · solo ida",
+    "it": "Tour privato nel deserto · sola andata"
+  },
+  "title_line1": {
+    "en": "4 Days from Marrakech",
+    "es": "4 días desde Marrakech",
+    "it": "4 giorni da Marrakech"
+  },
+  "title_line2": {
+    "en": "to Fes via the Desert",
+    "es": "a Fez por el desierto",
+    "it": "a Fes attraverso il deserto"
+  },
+  "duration": {
+    "en": "4 days · 3 nights",
+    "es": "4 días · 3 noches",
+    "it": "4 giorni · 3 notti"
+  },
+  "duration_short": {
+    "en": "4 days",
+    "es": "4 días",
+    "it": "4 giorni"
+  },
+  "start": "Marrakech",
+  "end": "Fes",
+  "card": {
+    "title": {
+      "en": "4 Days from Marrakech to Fes via Desert",
+      "es": "4 días de Marrakech a Fez por el desierto",
+      "it": "4 giorni da Marrakech a Fes nel deserto"
+    },
+    "highlights": {
+      "en": "Dades · Todra · Erg Chebbi camp · Ziz Valley · Midelt · Azrou · Ifrane",
+      "es": "Dades · Todra · campamento en Erg Chebbi · valle del Ziz · Midelt · Azrou · Ifrane",
+      "it": "Dades · Todra · campo a Erg Chebbi · valle dello Ziz · Midelt · Azrou · Ifrane"
+    },
+    "route": [
+      "Marrakech",
+      "Merzouga",
+      "Midelt",
+      "Fes"
+    ],
+    "image_alt": "4 Days from Marrakech to Fes via Desert"
+  },
+  "overview": [
+    {
+      "en": "The relaxed way from Marrakech to Fes: four days across the High Atlas, into the Sahara and up through the Middle Atlas, with one more night on the road so every stage is easy and every stop has time.",
+      "es": "La forma tranquila de ir de Marrakech a Fez: cuatro días cruzando el Alto Atlas, entrando en el Sáhara y subiendo por el Medio Atlas, con una noche más en ruta para que cada etapa sea cómoda y cada parada tenga su tiempo.",
+      "it": "Il modo rilassato per andare da Marrakech a Fes: quattro giorni attraverso l’Alto Atlante, nel Sahara e su per il Medio Atlante, con una notte in più lungo la strada perché ogni tappa sia comoda e ogni sosta abbia il suo tempo."
+    },
+    {
+      "en": "You visit Ait Ben Haddou and Ouarzazate, sleep in the Dades Valley, walk in the Todra Gorge and ride a camel into the Erg Chebbi dunes for a night in a desert camp.",
+      "es": "Visitas Ait Ben Haddou y Ouarzazate, duermes en el valle del Dades, caminas por la garganta del Todra y montas en camello por las dunas de Erg Chebbi para pasar una noche en un campamento.",
+      "it": "Visiti Ait Ben Haddou e Ouarzazate, dormi nella valle del Dades, cammini nella gola del Todra ed entri in cammello tra le dune di Erg Chebbi per una notte in un campo tendato."
+    },
+    {
+      "en": "The road north follows the palm groves of the Ziz Valley to Midelt, then crosses the cedar forests of Azrou — home of the Barbary macaques — and Ifrane, the “Switzerland of Morocco”, before Fes.",
+      "es": "La carretera al norte sigue los palmerales del valle del Ziz hasta Midelt y cruza los bosques de cedros de Azrou, hogar de los macacos, e Ifrane, la “Suiza de Marruecos”, antes de llegar a Fez.",
+      "it": "La strada verso nord segue i palmeti della valle dello Ziz fino a Midelt, poi attraversa le foreste di cedri di Azrou, casa dei macachi berberi, e Ifrane, la “Svizzera del Marocco”, prima di Fes."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "Ait Ben Haddou & Ouarzazate",
+        "es": "Ait Ben Haddou y Ouarzazate",
+        "it": "Ait Ben Haddou e Ouarzazate"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Dades Valley & Todra Gorge",
+        "es": "Valle del Dades y garganta del Todra",
+        "it": "Valle del Dades e gola del Todra"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Camel trek & desert camp",
+        "es": "Camello y campamento",
+        "it": "Cammello e campo tendato"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Ziz Valley palm groves",
+        "es": "Palmerales del valle del Ziz",
+        "it": "Palmeti della valle dello Ziz"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Azrou cedars & macaques",
+        "es": "Cedros y macacos de Azrou",
+        "it": "Cedri e macachi di Azrou"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Ifrane, the Switzerland of Morocco",
+        "es": "Ifrane, la Suiza de Marruecos",
+        "it": "Ifrane, la Svizzera del Marocco"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Marrakech",
+    "Ait Ben Haddou",
+    "Dades",
+    "Merzouga",
+    "Midelt",
+    "Ifrane",
+    "Fes"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Marrakech – Ait Ben Haddou – Dades Valley",
+        "es": "Marrakech – Ait Ben Haddou – valle del Dades",
+        "it": "Marrakech – Ait Ben Haddou – valle del Dades"
+      },
+      "text": {
+        "en": "Leave Marrakech in the morning and cross the High Atlas over the Tizi n’Tichka pass at 2,260 m. Explore the UNESCO ksar of Ait Ben Haddou and climb to the top for the view, then visit Ouarzazate and its Taourirt kasbah, and the Atlas film studios if time allows. Through the Rose Valley you reach the Dades Valley for a Moroccan dinner and the night.",
+        "es": "Salimos de Marrakech por la mañana y cruzamos el Alto Atlas por el puerto de Tizi n’Tichka, a 2.260 m. Recorres el ksar de Ait Ben Haddou (UNESCO) y subes a lo alto; luego visitas Ouarzazate y su kasbah de Taourirt, y los estudios Atlas si hay tiempo. Por el valle de las Rosas llegas al Dades para cenar y dormir.",
+        "it": "Partenza da Marrakech al mattino e attraversamento dell’Alto Atlante sul passo del Tizi n’Tichka, a 2.260 m. Esplori lo ksar di Ait Ben Haddou (UNESCO) e sali in cima, poi visiti Ouarzazate e la kasbah di Taourirt, e gli studi Atlas se c’è tempo. Attraverso la valle delle Rose arrivi al Dades per cena e pernottamento."
+      },
+      "overnight": {
+        "en": "Hotel or riad in Dades Valley",
+        "es": "Hotel o riad en el valle del Dades",
+        "it": "Hotel o riad nella valle del Dades"
+      },
+      "breakfast": false,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Dades – Todra Gorge – Merzouga",
+        "es": "Dades – garganta del Todra – Merzouga",
+        "it": "Dades – gola del Todra – Merzouga"
+      },
+      "text": {
+        "en": "Walk along the river in the Todra Gorge, where red cliffs rise over 300 metres. Continue through Berber villages and palm groves to Erfoud, known for its fossil workshops, and on to Merzouga. In the late afternoon, ride a camel into the Erg Chebbi dunes at sunset to reach your camp for dinner, Berber music and a night under the stars.",
+        "es": "Caminas junto al río en la garganta del Todra, entre paredes rojas de más de 300 metros. Seguimos por pueblos bereberes y palmerales hasta Erfoud, famoso por sus fósiles, y luego a Merzouga. Al final de la tarde montas en camello por las dunas de Erg Chebbi hasta el campamento para cenar, escuchar música bereber y dormir bajo las estrellas.",
+        "it": "Cammini lungo il fiume nella gola del Todra, tra pareti rosse alte oltre 300 metri. Proseguiamo tra villaggi berberi e palmeti fino a Erfoud, famosa per i fossili, e poi a Merzouga. Nel tardo pomeriggio entri in cammello tra le dune di Erg Chebbi fino al campo per cena, musica berbera e una notte sotto le stelle."
+      },
+      "overnight": {
+        "en": "Desert camp in Merzouga",
+        "es": "Campamento en Merzouga",
+        "it": "Campo tendato a Merzouga"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga – Ziz Valley – Midelt",
+        "es": "Merzouga – valle del Ziz – Midelt",
+        "it": "Merzouga – valle dello Ziz – Midelt"
+      },
+      "text": {
+        "en": "Sunrise over the dunes, breakfast at the camp and back to Merzouga by camel or 4×4. Drive north along the palm groves of the Ziz Valley, with stops at its viewpoints, to Midelt, the town of apple orchards at the foot of the mountains. Night in a guesthouse with a warm dinner.",
+        "es": "Amanecer sobre las dunas, desayuno en el campamento y vuelta a Merzouga en camello o 4×4. Vamos al norte por los palmerales del valle del Ziz, con paradas en sus miradores, hasta Midelt, el pueblo de los manzanos al pie de las montañas. Noche en una casa de huéspedes con una buena cena.",
+        "it": "Alba sulle dune, colazione al campo e ritorno a Merzouga in cammello o 4×4. Saliamo a nord lungo i palmeti della valle dello Ziz, con soste ai belvedere, fino a Midelt, la città dei meleti ai piedi delle montagne. Notte in una guesthouse con una buona cena."
+      },
+      "overnight": {
+        "en": "Guesthouse in Midelt",
+        "es": "Casa de huéspedes en Midelt",
+        "it": "Guesthouse a Midelt"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Midelt – Azrou – Ifrane – Fes",
+        "es": "Midelt – Azrou – Ifrane – Fez",
+        "it": "Midelt – Azrou – Ifrane – Fes"
+      },
+      "text": {
+        "en": "Cross the Middle Atlas to Azrou and walk in its cedar forest, where you may meet the Barbary macaques. Stop in Ifrane, the alpine-style town known as the Switzerland of Morocco, then arrive in Fes in the late afternoon, where we drop you at your accommodation.",
+        "es": "Cruzamos el Medio Atlas hasta Azrou y paseamos por su bosque de cedros, donde quizá veas a los macacos. Paramos en Ifrane, el pueblo de estilo alpino conocido como la Suiza de Marruecos, y llegamos a Fez a última hora de la tarde, donde te dejamos en tu alojamiento.",
+        "it": "Attraversiamo il Medio Atlante fino ad Azrou e passeggiamo nella sua foresta di cedri, dove potresti incontrare i macachi. Sosta a Ifrane, la cittadina in stile alpino detta la Svizzera del Marocco, poi arrivo a Fes nel tardo pomeriggio, dove ti accompagniamo al tuo alloggio."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Pick-up in Marrakech and drop-off at your accommodation in Fes",
+      "es": "Recogida en Marrakech y traslado a tu alojamiento en Fez",
+      "it": "Ritiro a Marrakech e accompagnamento al tuo alloggio a Fes"
+    },
+    {
+      "en": "Private air-conditioned vehicle, fuel included",
+      "es": "Vehículo privado con aire acondicionado, combustible incluido",
+      "it": "Veicolo privato climatizzato, carburante incluso"
+    },
+    {
+      "en": "Professional English-speaking driver-guide",
+      "es": "Conductor-guía profesional que habla inglés",
+      "it": "Autista-guida professionale che parla inglese"
+    },
+    {
+      "en": "1 night in Dades Valley and 1 night in Midelt",
+      "es": "1 noche en el valle del Dades y 1 noche en Midelt",
+      "it": "1 notte nella valle del Dades e 1 notte a Midelt"
+    },
+    {
+      "en": "1 night in a desert camp in Erg Chebbi",
+      "es": "1 noche en un campamento en Erg Chebbi",
+      "it": "1 notte in un campo tendato a Erg Chebbi"
+    },
+    {
+      "en": "Camel trek into the dunes",
+      "es": "Paseo en camello por las dunas",
+      "it": "Escursione in cammello tra le dune"
+    },
+    {
+      "en": "3 breakfasts and 3 dinners",
+      "es": "3 desayunos y 3 cenas",
+      "it": "3 colazioni e 3 cene"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Start",
+        "es": "Salida",
+        "it": "Partenza"
+      }
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "description": {
+        "en": "UNESCO ksar",
+        "es": "Ksar UNESCO",
+        "it": "Ksar UNESCO"
+      }
+    },
+    {
+      "name": "Ouarzazate",
+      "description": {
+        "en": "Taourirt kasbah",
+        "es": "Kasbah de Taourirt",
+        "it": "Kasbah di Taourirt"
+      }
+    },
+    {
+      "name": "Dades Valley",
+      "description": {
+        "en": "Night 1",
+        "es": "Noche 1",
+        "it": "Notte 1"
+      }
+    },
+    {
+      "name": "Todra Gorge",
+      "description": {
+        "en": "300 m cliffs",
+        "es": "Paredes de 300 m",
+        "it": "Pareti di 300 m"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Desert camp · night 2",
+        "es": "Campamento · noche 2",
+        "it": "Campo tendato · notte 2"
+      }
+    },
+    {
+      "name": "Midelt",
+      "description": {
+        "en": "Night 3",
+        "es": "Noche 3",
+        "it": "Notte 3"
+      }
+    },
+    {
+      "name": "Azrou & Ifrane",
+      "description": {
+        "en": "Cedars & macaques",
+        "es": "Cedros y macacos",
+        "it": "Cedri e macachi"
+      }
+    },
+    {
+      "name": "Fes",
+      "description": {
+        "en": "End",
+        "es": "Fin",
+        "it": "Fine"
+      }
+    }
+  ],
+  "map_route": [
+    "Marrakech",
+    "Ait Ben Haddou",
+    "Ouarzazate",
+    "Boumalne Dades",
+    "Tinghir",
+    "Merzouga",
+    "Midelt",
+    "Azrou",
+    "Ifrane",
+    "Fes"
+  ],
+  "planner": {
+    "show": true,
+    "days": 4,
+    "start": "marrakech",
+    "tags": [
+      "desert",
+      "cities",
+      "mountains"
+    ]
+  }
+}

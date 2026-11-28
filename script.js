@@ -10007,53 +10007,53 @@ document.querySelectorAll('.flip').forEach(f => {
   if (!root) return;
   // [file, title, days, start, image, tags d=desert c=cities m=mountains]
   const T = [
-    ['daytrip-agafay.html','Agafay Day Trip',1,'marrakech','day-agafay.jpg','d'],
-    ['daytrip-ouarzazate.html','Ouarzazate & Ait Ben Haddou Day Trip',1,'marrakech','day-ouarzazate.jpg','cm'],
-    ['daytrip-high-atlas.html','High Atlas Mountains Day Trip',1,'marrakech','day-highatlas.jpg','mc'],
-    ['daytrip-ouzoud.html','Ouzoud Waterfalls Day Trip',1,'marrakech','day-ouzoud.jpg','m'],
-    ['daytrip-essaouira.html','Essaouira Day Trip',1,'marrakech','day-essaouira.jpg','c'],
-    ['daytrip-ourika.html','Ourika Valley Day Trip',1,'marrakech','day-ourika.jpg','m'],
-    ['daytrip-imlil.html','Imlil Valley Day Trip',1,'marrakech','day-imlil.jpg','m'],
-    ['tour-2day-zagora.html','2 Days from Marrakech to the Zagora Desert',2,'marrakech','tour-zagora.jpg','dc'],
-    ['tour-3day-merzouga.html','3 Days Tour from Marrakech to Merzouga Desert',3,'marrakech','tour-merzouga3.jpg','dm'],
-    ['tour-3day-marrakech-fes.html','3 Days from Marrakech to Fes Desert Tour',3,'marrakech','tour-fes.jpg','dc'],
-    ['tour-4day-marrakech-fes.html','4 Days from Marrakech to Fes via Desert',4,'marrakech','tour-merzouga4.jpg','dcm'],
-    ['tour-5day-marrakech.html','5 Days Morocco Desert Tour from Marrakech',5,'marrakech','tour-mk5.jpg','dm'],
-    ['special-honeymoon.html','Morocco Honeymoon Desert Tour From Marrakech',5,'marrakech','tour-honeymoon.jpg','dm'],
-    ['tour-6day-chefchaouen.html','6 Days From Marrakech to Chefchaouen via Sahara',6,'marrakech','tour-chef6.jpg','dcm'],
-    ['tour-7day-marrakech.html','7 Days from Marrakech: Morocco Sahara Desert Tour',7,'marrakech','tour-mk7.jpg','dm'],
-    ['tour-8day-marrakech.html','8 Days Essential Morocco Tour from Marrakech',8,'marrakech','tour-mk8.jpg','dcm'],
-    ['tour-12day-marrakech.html','12 Days From Marrakech',12,'marrakech','tour-mk12.jpg','dcm'],
-    ['tour-2day-fes-merzouga.html','2 Days from Fes to Merzouga Desert',2,'fes','tour-fes-merzouga2.jpg','d'],
-    ['tour-3day-fes-desert.html','3 Days Morocco Sahara Desert Tour from Fes',3,'fes','tour-fes-merzouga3.jpg','dm'],
-    ['tour-3day-fes-marrakech.html','3 Days Desert Tour from Fes to Marrakech',3,'fes','tour-fes-marrakech3.jpg','dm'],
-    ['tour-4day-fes-marrakech.html','4 Days Morocco Desert Tour from Fes to Marrakech',4,'fes','tour-fes-marrakech4.jpg','dm'],
-    ['tour-5day-fes-marrakech.html','5 Days from Fes to Marrakech Morocco Desert Tour',5,'fes','tour-fes5.jpg','dm'],
-    ['tour-7day-fes.html','7 Days Tour in Morocco from Fes',7,'fes','tour-fs7.jpg','dcm'],
-    ['special-photography.html','Morocco Photography Desert Tour From Fes',7,'fes','tour-photography.jpg','dcm'],
-    ['tour-4day-casablanca.html','4 Days Morocco Tour from Casablanca',4,'casablanca','tour-cs4.jpg','c'],
-    ['tour-5day-casablanca.html','5 Days Morocco Itinerary from Casablanca',5,'casablanca','tour-cs5.jpg','c'],
-    ['tour-6day-casablanca.html','6 Days Morocco Itinerary from Casablanca',6,'casablanca','tour-cs6.jpg','dc'],
-    ['tour-7day-casablanca.html','7 Days Morocco Itinerary from Casablanca',7,'casablanca','tour-cs7.jpg','dc'],
-    ['special-jewish-heritage.html','Morocco Jewish Heritage Tour From Casablanca',8,'casablanca','tour-jewish.jpg','c'],
-    ['tour-9day-casablanca.html','9 Days Morocco Itinerary from Casablanca',9,'casablanca','tour-cs9.jpg','dcm'],
-    ['tour-12day-casablanca.html','12 Days Morocco Itinerary from Casablanca',12,'casablanca','tour-cs12.jpg','dcm'],
-    ['tour-5day-tangier-marrakech.html','5 Days Tour from Tangier to Marrakech',5,'tangier','tour-tg5.jpg','dc'],
-    ['tour-6day-tangier-marrakech.html','6 Days Tour from Tangier to Marrakech',6,'tangier','tour-tg6.jpg','dc'],
-    ['tour-7day-tangier-marrakech.html','7 Days Tour from Tangier to Marrakech',7,'tangier','tour-tg7.jpg','dcm'],
-    ['special-student-group.html','Morocco Student Group Tour From Tangier',7,'tangier','tour-student.jpg','dcm'],
-    ['tour-8day-tangier-marrakech.html','8 Days Tour from Tangier to Marrakech',8,'tangier','tour-tg8.jpg','dcm'],
-    ['tour-10day-tangier.html','10 Days Holiday in Morocco from Tangier',10,'tangier','tour-tg10.jpg','dcm'],
-    ['tour-12day-tangier.html','12 Days Absolute Morocco Tour from Tangier',12,'tangier','tour-tg12.jpg','dcm'],
-    ['tour-2day-errachidia-merzouga.html','2 Days Errachidia to Merzouga Desert Tour',2,'errachidia','tour-er2.jpg','d'],
-    ['tour-3day-errachidia-merzouga.html','3 Days Errachidia to Merzouga Desert Tour',3,'errachidia','tour-er3.jpg','dm'],
-    ['tour-4day-errachidia-fes.html','4 Days From Errachidia to Fes via Merzouga',4,'errachidia','tour-erf4.jpg','dc'],
-    ['tour-4day-errachidia-marrakech.html','4 Days From Errachidia to Marrakech via Merzouga',4,'errachidia','tour-er4.jpg','dm'],
-    ['tour-5day-errachidia-marrakech.html','5 Days From Errachidia to Marrakech via Sahara Desert',5,'errachidia','tour-er5.jpg','dm'],
-    ['tour-3day-ouarzazate-fes.html','3 Days Tour from Ouarzazate to Fes',3,'ouarzazate','tour-oz3.jpg','dc'],
-    ['tour-3day-ouarzazate-marrakech.html','3 Days Tour from Ouarzazate to Marrakech',3,'ouarzazate','tour-ozm3.jpg','dm'],
-    ['tour-4day-ouarzazate-merzouga.html','4 Days Desert Tour from Ouarzazate to Merzouga',4,'ouarzazate','tour-ozz4.jpg','dm'],
-    ['tour-5day-ouarzazate-marrakech.html','5 Days Ouarzazate to Marrakech Sahara Trip',5,'ouarzazate','tour-ozm5.jpg','dm']
+    ["tour-2day-zagora.html","2 Days from Marrakech to the Zagora Desert",2,"marrakech","tour-zagora.jpg","dc"],
+    ["tour-3day-merzouga.html","3 Days Tour from Marrakech to Merzouga Desert",3,"marrakech","tour-merzouga3.jpg","dm"],
+    ["tour-3day-marrakech-fes.html","3 Days from Marrakech to Fes Desert Tour",3,"marrakech","tour-fes.jpg","dc"],
+    ["tour-4day-marrakech-fes.html","4 Days from Marrakech to Fes via Desert",4,"marrakech","tour-merzouga4.jpg","dcm"],
+    ["tour-5day-marrakech.html","5 Days Morocco Desert Tour from Marrakech",5,"marrakech","tour-mk5.jpg","dm"],
+    ["tour-6day-chefchaouen.html","6 Days From Marrakech to Chefchaouen via Sahara",6,"marrakech","tour-chef6.jpg","dcm"],
+    ["tour-12day-marrakech.html","12 Days From Marrakech",12,"marrakech","tour-mk12.jpg","dcm"],
+    ["tour-8day-marrakech.html","8 Days Essential Morocco Tour from Marrakech",8,"marrakech","tour-mk8.jpg","dcm"],
+    ["tour-7day-marrakech.html","7 Days from Marrakech: Morocco Sahara Desert Tour",7,"marrakech","tour-mk7.jpg","dm"],
+    ["tour-2day-fes-merzouga.html","2 Days from Fes to Merzouga Desert",2,"fes","tour-fes-merzouga2.jpg","d"],
+    ["tour-3day-fes-desert.html","3 Days Morocco Sahara Desert Tour from Fes",3,"fes","tour-fes-merzouga3.jpg","dm"],
+    ["tour-3day-fes-marrakech.html","3 Days Desert Tour from Fes to Marrakech",3,"fes","tour-fes-marrakech3.jpg","dm"],
+    ["tour-4day-fes-marrakech.html","4 Days Morocco Desert Tour from Fes to Marrakech",4,"fes","tour-fes-marrakech4.jpg","dm"],
+    ["tour-5day-fes-marrakech.html","5 Days from Fes to Marrakech Morocco Desert Tour",5,"fes","tour-fes5.jpg","dm"],
+    ["tour-7day-fes.html","7 Days Tour in Morocco from Fes",7,"fes","tour-fs7.jpg","dcm"],
+    ["tour-5day-tangier-marrakech.html","5 Days Tour from Tangier to Marrakech",5,"tangier","tour-tg5.jpg","dc"],
+    ["tour-6day-tangier-marrakech.html","6 Days Tour from Tangier to Marrakech",6,"tangier","tour-tg6.jpg","dc"],
+    ["tour-7day-tangier-marrakech.html","7 Days Tour from Tangier to Marrakech",7,"tangier","tour-tg7.jpg","dcm"],
+    ["tour-8day-tangier-marrakech.html","8 Days Tour from Tangier to Marrakech",8,"tangier","tour-tg8-hero.jpg","dcm"],
+    ["tour-10day-tangier.html","10 Days Holiday in Morocco from Tangier",10,"tangier","tour-tg10.jpg","dcm"],
+    ["tour-12day-tangier.html","12 Days Absolute Morocco Tour from Tangier",12,"tangier","tour-tg12.jpg","dcm"],
+    ["tour-4day-casablanca.html","4 Days Morocco Tour from Casablanca",4,"casablanca","tour-cs4.jpg","c"],
+    ["tour-5day-casablanca.html","5 Days Morocco Itinerary from Casablanca",5,"casablanca","tour-cs5.jpg","c"],
+    ["tour-6day-casablanca.html","6 Days Morocco Itinerary from Casablanca",6,"casablanca","tour-cs6.jpg","dc"],
+    ["tour-7day-casablanca.html","7 Days Morocco Itinerary from Casablanca",7,"casablanca","tour-cs7.jpg","dc"],
+    ["tour-9day-casablanca.html","9 Days Morocco Itinerary from Casablanca",9,"casablanca","tour-cs9.jpg","dcm"],
+    ["tour-12day-casablanca.html","12 Days Morocco Itinerary from Casablanca",12,"casablanca","tour-cs12.jpg","dcm"],
+    ["tour-2day-errachidia-merzouga.html","2 Days Errachidia to Merzouga Desert Tour",2,"errachidia","tour-er2.jpg","d"],
+    ["tour-3day-errachidia-merzouga.html","3 Days Errachidia to Merzouga Desert Tour",3,"errachidia","tour-er3.jpg","dm"],
+    ["tour-4day-errachidia-marrakech.html","4 Days From Errachidia to Marrakech via Merzouga",4,"errachidia","tour-er4.jpg","dm"],
+    ["tour-4day-errachidia-fes.html","4 Days From Errachidia to Fes via Merzouga",4,"errachidia","tour-erf4.jpg","dc"],
+    ["tour-5day-errachidia-marrakech.html","5 Days From Errachidia to Marrakech via Sahara Desert",5,"errachidia","tour-er5.jpg","dm"],
+    ["tour-3day-ouarzazate-fes.html","3 Days Tour from Ouarzazate to Fes",3,"ouarzazate","tour-oz3.jpg","dc"],
+    ["tour-3day-ouarzazate-marrakech.html","3 Days Tour from Ouarzazate to Marrakech",3,"ouarzazate","tour-ozm3.jpg","dm"],
+    ["tour-4day-ouarzazate-merzouga.html","4 Days Desert Tour from Ouarzazate to Merzouga",4,"ouarzazate","tour-ozz4.jpg","dm"],
+    ["tour-5day-ouarzazate-marrakech.html","5 Days Ouarzazate to Marrakech Sahara Trip",5,"ouarzazate","tour-ozm5.jpg","dm"],
+    ["daytrip-agafay.html","Agafay Day Trip",1,"marrakech","dt-agafay.jpg","d"],
+    ["daytrip-ouarzazate.html","Ouarzazate & Ait Ben Haddou Day Trip",1,"marrakech","dt-ouarzazate.jpg","cm"],
+    ["daytrip-high-atlas.html","High Atlas Mountains Day Trip",1,"marrakech","dt-highatlas.jpg","mc"],
+    ["daytrip-ouzoud.html","Ouzoud Waterfalls Day Trip",1,"marrakech","dt-ouzoud.jpg","m"],
+    ["daytrip-essaouira.html","Essaouira Day Trip",1,"marrakech","dt-essaouira.jpg","c"],
+    ["daytrip-ourika.html","Ourika Valley Day Trip",1,"marrakech","dt-ourika.jpg","m"],
+    ["daytrip-imlil.html","Imlil Valley Day Trip",1,"marrakech","dt-imlil.jpg","m"],
+    ["special-honeymoon.html","Morocco Honeymoon Desert Tour From Marrakech",5,"marrakech","tour-honeymoon.jpg","dm"],
+    ["special-jewish-heritage.html","Morocco Jewish Heritage Tour From Casablanca",8,"casablanca","tour-jewish.jpg","c"],
+    ["special-photography.html","Morocco Photography Desert Tour From Fes",7,"fes","tour-photography.jpg","dcm"],
+    ["special-student-group.html","Morocco Student Group Tour From Tangier",7,"tangier","tour-student.jpg","dcm"]
   ];
   const ranges = { '1': [1, 1], '2': [2, 3], '4': [4, 5], '6': [6, 8], '9': [9, 30] };
   const ans = {};
@@ -10175,4 +10175,22 @@ document.querySelectorAll('.flip').forEach(f => {
   sec.querySelector('.pp-next').addEventListener('click', () => tr.scrollBy({ left: step(), behavior: 'smooth' }));
   const upd = () => { const max = tr.scrollWidth - tr.clientWidth; const vis = tr.clientWidth / tr.scrollWidth; bar.style.width = (vis * 100) + '%'; bar.style.transform = 'translateX(' + (max > 0 ? (tr.scrollLeft / max) * ((1 - vis) / vis) * 100 : 0) + '%)'; };
   tr.addEventListener('scroll', upd, { passive: true }); window.addEventListener('resize', upd); upd();
+})();
+
+// ===== TEXTS MANAGED IN PAGES CMS (data-t = {"en":…, "es":…, "it":…}) =====
+(function () {
+  function applyCmsTexts() {
+    const L = document.documentElement.lang || 'en';
+    document.querySelectorAll('[data-t]').forEach(el => {
+      try {
+        const o = JSON.parse(el.getAttribute('data-t'));
+        const v = o[L] || o.en;
+        if (v) el.textContent = v;
+      } catch (e) {}
+    });
+    const tbt = document.querySelector('.tb-tour b'), h1 = document.querySelector('.c-title');
+    if (tbt && h1 && h1.querySelector('[data-t]')) tbt.textContent = [...h1.querySelectorAll('.c-line-in')].map(s => s.textContent.trim()).join(' ');
+  }
+  document.addEventListener('langchange', applyCmsTexts);
+  applyCmsTexts();
 })();

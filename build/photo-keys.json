@@ -1,0 +1,354 @@
+{
+  "home": {
+    "pp_bg": {
+      "original": "images/pp-bg.jpg",
+      "label": "Home - \"Desert Activities\" background",
+      "used_on": "Used on: Home"
+    },
+    "hero_poster": {
+      "original": "images/hero-poster.jpg",
+      "label": "Home - Hero (photo shown before the video starts)",
+      "used_on": "Used on: Home"
+    },
+    "day_essaouira": {
+      "original": "images/day-essaouira.jpg",
+      "label": "Home - Instagram strip photo (day essaouira)",
+      "used_on": "Used on: Home"
+    },
+    "day_ourika": {
+      "original": "images/day-ourika.jpg",
+      "label": "Home - Instagram strip photo (day ourika)",
+      "used_on": "Used on: Home"
+    },
+    "day_ouzoud": {
+      "original": "images/day-ouzoud.jpg",
+      "label": "Home - Instagram strip photo (day ouzoud)",
+      "used_on": "Used on: About us, Home"
+    }
+  },
+  "tours": {
+    "tour_tg10": {
+      "original": "images/tour-tg10.jpg",
+      "label": "Tour - 10 Days Holiday in Morocco from Tangier - Main photo",
+      "used_on": "Used on: Home, tour-10day-tangier, tours-tangier"
+    },
+    "tour_tg12": {
+      "original": "images/tour-tg12.jpg",
+      "label": "Tour - 12 Days Absolute Morocco Tour from Tangier - Main photo",
+      "used_on": "Used on: Home, tour-12day-tangier, tours-tangier"
+    },
+    "tour_mk12": {
+      "original": "images/tour-mk12.jpg",
+      "label": "Tour - 12 Days From Marrakech - Main photo",
+      "used_on": "Used on: Home, tour-12day-marrakech, tours-marrakech"
+    },
+    "tour_cs12": {
+      "original": "images/tour-cs12.jpg",
+      "label": "Tour - 12 Days Morocco Itinerary from Casablanca - Main photo",
+      "used_on": "Used on: Home, tour-12day-casablanca, tours-casablanca"
+    },
+    "tour_er2": {
+      "original": "images/tour-er2.jpg",
+      "label": "Tour - 2 Days Errachidia to Merzouga Desert Tour - Main photo",
+      "used_on": "Used on: Home, tour-2day-errachidia-merzouga, tour-3day-errachidia-merzouga, tour-4day-errachidia-fes, tour-4day-errachidia-marrakech, tour-5day-errachidia-marrakech and 1 more pages"
+    },
+    "tour_fes_merzouga2": {
+      "original": "images/tour-fes-merzouga2.jpg",
+      "label": "Tour - 2 Days from Fes to Merzouga Desert - Main photo",
+      "used_on": "Used on: Home, tour-2day-fes-merzouga, tour-3day-fes-desert, tour-3day-fes-marrakech, tour-4day-fes-marrakech, tour-5day-fes-marrakech and 2 more pages"
+    },
+    "tour_zagora": {
+      "original": "images/tour-zagora.jpg",
+      "label": "Tour - 2 Days from Marrakech to the Zagora Desert - Main photo",
+      "used_on": "Used on: Home, tour-12day-marrakech, tour-2day-zagora, tour-3day-marrakech-fes, tour-3day-merzouga, tour-4day-marrakech-fes and 5 more pages"
+    },
+    "tour_fes_marrakech3": {
+      "original": "images/tour-fes-marrakech3.jpg",
+      "label": "Tour - 3 Days Desert Tour from Fes to Marrakech - Main photo",
+      "used_on": "Used on: Home, tour-2day-fes-merzouga, tour-3day-fes-desert, tour-3day-fes-marrakech, tour-4day-fes-marrakech, tour-5day-fes-marrakech and 2 more pages"
+    },
+    "tour_er3": {
+      "original": "images/tour-er3.jpg",
+      "label": "Tour - 3 Days Errachidia to Merzouga Desert Tour - Main photo",
+      "used_on": "Used on: Home, tour-2day-errachidia-merzouga, tour-3day-errachidia-merzouga, tour-4day-errachidia-fes, tour-4day-errachidia-marrakech, tour-5day-errachidia-marrakech and 1 more pages"
+    },
+    "tour_fes_merzouga3": {
+      "original": "images/tour-fes-merzouga3.jpg",
+      "label": "Tour - 3 Days Morocco Sahara Desert Tour from Fes - Main photo",
+      "used_on": "Used on: Home, tour-2day-fes-merzouga, tour-3day-fes-desert, tour-3day-fes-marrakech, tour-4day-fes-marrakech, tour-5day-fes-marrakech and 2 more pages"
+    },
+    "tour_merzouga3": {
+      "original": "images/tour-merzouga3.jpg",
+      "label": "Tour - 3 Days Tour from Marrakech to Merzouga Desert - Main photo",
+      "used_on": "Used on: About us, Home, tour-12day-marrakech, tour-2day-zagora, tour-3day-marrakech-fes, tour-3day-merzouga and 7 more pages"
+    },
+    "tour_oz3": {
+      "original": "images/tour-oz3.jpg",
+      "label": "Tour - 3 Days Tour from Ouarzazate to Fes - Main photo",
+      "used_on": "Used on: Home, tour-3day-ouarzazate-fes, tour-3day-ouarzazate-marrakech, tour-4day-ouarzazate-merzouga, tour-5day-ouarzazate-marrakech, tours-ouarzazate"
+    },
+    "tour_ozm3": {
+      "original": "images/tour-ozm3.jpg",
+      "label": "Tour - 3 Days Tour from Ouarzazate to Marrakech - Main photo",
+      "used_on": "Used on: Home, tour-3day-ouarzazate-fes, tour-3day-ouarzazate-marrakech, tour-4day-ouarzazate-merzouga, tour-5day-ouarzazate-marrakech, tours-ouarzazate"
+    },
+    "tour_fes": {
+      "original": "images/tour-fes.jpg",
+      "label": "Tour - 3 Days from Marrakech to Fes Desert Tour - Main photo",
+      "used_on": "Used on: Home, tour-12day-marrakech, tour-2day-zagora, tour-3day-marrakech-fes, tour-3day-merzouga, tour-4day-marrakech-fes and 6 more pages"
+    },
+    "tour_ozz4": {
+      "original": "images/tour-ozz4.jpg",
+      "label": "Tour - 4 Days Desert Tour from Ouarzazate to Merzouga - Main photo",
+      "used_on": "Used on: Home, tour-3day-ouarzazate-fes, tour-3day-ouarzazate-marrakech, tour-4day-ouarzazate-merzouga, tour-5day-ouarzazate-marrakech, tours-ouarzazate"
+    },
+    "tour_erf4": {
+      "original": "images/tour-erf4.jpg",
+      "label": "Tour - 4 Days From Errachidia to Fes via Merzouga - Main photo",
+      "used_on": "Used on: Home, tour-2day-errachidia-merzouga, tour-3day-errachidia-merzouga, tour-4day-errachidia-fes, tour-4day-errachidia-marrakech, tours-errachidia"
+    },
+    "tour_er4": {
+      "original": "images/tour-er4.jpg",
+      "label": "Tour - 4 Days From Errachidia to Marrakech via Merzouga - Main photo",
+      "used_on": "Used on: Home, tour-2day-errachidia-merzouga, tour-3day-errachidia-merzouga, tour-4day-errachidia-fes, tour-4day-errachidia-marrakech, tour-5day-errachidia-marrakech and 1 more pages"
+    },
+    "tour_fes_marrakech4": {
+      "original": "images/tour-fes-marrakech4.jpg",
+      "label": "Tour - 4 Days Morocco Desert Tour from Fes to Marrakech - Main photo",
+      "used_on": "Used on: Home, tour-2day-fes-merzouga, tour-3day-fes-desert, tour-3day-fes-marrakech, tour-4day-fes-marrakech, tours-fes"
+    },
+    "tour_cs4": {
+      "original": "images/tour-cs4.jpg",
+      "label": "Tour - 4 Days Morocco Tour from Casablanca - Main photo",
+      "used_on": "Used on: Home, tour-12day-casablanca, tour-4day-casablanca, tour-5day-casablanca, tour-6day-casablanca, tour-7day-casablanca and 2 more pages"
+    },
+    "tour_merzouga4": {
+      "original": "images/tour-merzouga4.jpg",
+      "label": "Tour - 4 Days from Marrakech to Fes via Desert - Main photo",
+      "used_on": "Used on: Home, tour-2day-zagora, tour-3day-marrakech-fes, tour-3day-merzouga, tour-4day-marrakech-fes, tours-marrakech"
+    },
+    "tour_er5": {
+      "original": "images/tour-er5.jpg",
+      "label": "Tour - 5 Days From Errachidia to Marrakech via Sahara Desert - Main photo",
+      "used_on": "Used on: Home, tour-5day-errachidia-marrakech, tours-errachidia"
+    },
+    "tour_mk5": {
+      "original": "images/tour-mk5.jpg",
+      "label": "Tour - 5 Days Morocco Desert Tour from Marrakech - Main photo",
+      "used_on": "Used on: Home, tour-5day-marrakech, tours-marrakech"
+    },
+    "tour_cs5": {
+      "original": "images/tour-cs5.jpg",
+      "label": "Tour - 5 Days Morocco Itinerary from Casablanca - Main photo",
+      "used_on": "Used on: Home, tour-12day-casablanca, tour-4day-casablanca, tour-5day-casablanca, tour-6day-casablanca, tour-7day-casablanca and 2 more pages"
+    },
+    "tour_ozm5": {
+      "original": "images/tour-ozm5.jpg",
+      "label": "Tour - 5 Days Ouarzazate to Marrakech Sahara Trip - Main photo",
+      "used_on": "Used on: Home, tour-3day-ouarzazate-fes, tour-3day-ouarzazate-marrakech, tour-4day-ouarzazate-merzouga, tour-5day-ouarzazate-marrakech, tours-ouarzazate"
+    },
+    "tour_tg5": {
+      "original": "images/tour-tg5.jpg",
+      "label": "Tour - 5 Days Tour from Tangier to Marrakech - Main photo",
+      "used_on": "Used on: Home, tour-10day-tangier, tour-12day-tangier, tour-5day-tangier-marrakech, tour-6day-tangier-marrakech, tour-7day-tangier-marrakech and 2 more pages"
+    },
+    "tour_fes5": {
+      "original": "images/tour-fes5.jpg",
+      "label": "Tour - 5 Days from Fes to Marrakech Morocco Desert Tour - Main photo",
+      "used_on": "Used on: Home, tour-5day-fes-marrakech, tours-fes"
+    },
+    "tour_chef6": {
+      "original": "images/tour-chef6.jpg",
+      "label": "Tour - 6 Days From Marrakech to Chefchaouen via Sahara - Main photo",
+      "used_on": "Used on: Home, tour-6day-chefchaouen, tours-marrakech, tours-tangier"
+    },
+    "tour_cs6": {
+      "original": "images/tour-cs6.jpg",
+      "label": "Tour - 6 Days Morocco Itinerary from Casablanca - Main photo",
+      "used_on": "Used on: Home, tour-12day-casablanca, tour-4day-casablanca, tour-5day-casablanca, tour-6day-casablanca, tour-7day-casablanca and 2 more pages"
+    },
+    "tour_tg6": {
+      "original": "images/tour-tg6.jpg",
+      "label": "Tour - 6 Days Tour from Tangier to Marrakech - Main photo",
+      "used_on": "Used on: Home, tour-10day-tangier, tour-12day-tangier, tour-5day-tangier-marrakech, tour-6day-tangier-marrakech, tour-7day-tangier-marrakech and 2 more pages"
+    },
+    "tour_cs7": {
+      "original": "images/tour-cs7.jpg",
+      "label": "Tour - 7 Days Morocco Itinerary from Casablanca - Main photo",
+      "used_on": "Used on: Home, tour-4day-casablanca, tour-5day-casablanca, tour-6day-casablanca, tour-7day-casablanca, tours-casablanca"
+    },
+    "tour_tg7": {
+      "original": "images/tour-tg7.jpg",
+      "label": "Tour - 7 Days Tour from Tangier to Marrakech - Main photo",
+      "used_on": "Used on: Home, tour-10day-tangier, tour-12day-tangier, tour-5day-tangier-marrakech, tour-6day-tangier-marrakech, tour-7day-tangier-marrakech and 2 more pages"
+    },
+    "tour_fs7": {
+      "original": "images/tour-fs7.jpg",
+      "label": "Tour - 7 Days Tour in Morocco from Fes - Main photo",
+      "used_on": "Used on: Home, tour-7day-fes, tours-fes"
+    },
+    "tour_mk7": {
+      "original": "images/tour-mk7.jpg",
+      "label": "Tour - 7 Days from Marrakech: Morocco Sahara Desert Tour - Main photo",
+      "used_on": "Used on: Home, tour-7day-marrakech, tours-marrakech"
+    },
+    "tour_mk8": {
+      "original": "images/tour-mk8.jpg",
+      "label": "Tour - 8 Days Essential Morocco Tour from Marrakech - Main photo",
+      "used_on": "Used on: Home, tour-8day-marrakech, tours-marrakech"
+    },
+    "tour_tg8_hero": {
+      "original": "images/tour-tg8-hero.jpg",
+      "label": "Tour - 8 Days Tour from Tangier to Marrakech - Main photo",
+      "used_on": "Used on: Home, tour-5day-tangier-marrakech, tour-6day-tangier-marrakech, tour-7day-tangier-marrakech, tour-8day-tangier-marrakech, tours-tangier"
+    },
+    "tour_cs9": {
+      "original": "images/tour-cs9.jpg",
+      "label": "Tour - 9 Days Morocco Itinerary from Casablanca - Main photo",
+      "used_on": "Used on: Home, tour-9day-casablanca, tours-casablanca"
+    }
+  },
+  "daytrips": {
+    "dt_agafay": {
+      "original": "images/dt-agafay.jpg",
+      "label": "Day trip - Agafay Day Trip - Main photo",
+      "used_on": "Used on: Day trips page, daytrip-agafay, daytrip-essaouira, daytrip-high-atlas, daytrip-imlil, daytrip-ouarzazate and 3 more pages"
+    },
+    "dt_essaouira": {
+      "original": "images/dt-essaouira.jpg",
+      "label": "Day trip - Essaouira Day Trip - Main photo",
+      "used_on": "Used on: Day trips page, daytrip-essaouira, Home"
+    },
+    "dt_highatlas": {
+      "original": "images/dt-highatlas.jpg",
+      "label": "Day trip - High Atlas Mountains Day Trip - Main photo",
+      "used_on": "Used on: Day trips page, daytrip-agafay, daytrip-essaouira, daytrip-high-atlas, daytrip-imlil, daytrip-ouarzazate and 3 more pages"
+    },
+    "dt_imlil": {
+      "original": "images/dt-imlil.jpg",
+      "label": "Day trip - Imlil Valley Day Trip - Main photo",
+      "used_on": "Used on: Day trips page, daytrip-imlil, Home"
+    },
+    "dt_ouarzazate": {
+      "original": "images/dt-ouarzazate.jpg",
+      "label": "Day trip - Ouarzazate & Ait Ben Haddou Day Trip - Main photo",
+      "used_on": "Used on: Day trips page, daytrip-agafay, daytrip-essaouira, daytrip-high-atlas, daytrip-imlil, daytrip-ouarzazate and 3 more pages"
+    },
+    "dt_ourika": {
+      "original": "images/dt-ourika.jpg",
+      "label": "Day trip - Ourika Valley Day Trip - Main photo",
+      "used_on": "Used on: Day trips page, daytrip-ourika, Home"
+    },
+    "dt_ouzoud": {
+      "original": "images/dt-ouzoud.jpg",
+      "label": "Day trip - Ouzoud Waterfalls Day Trip - Main photo",
+      "used_on": "Used on: Day trips page, daytrip-agafay, daytrip-high-atlas, daytrip-ouarzazate, daytrip-ouzoud, Home"
+    }
+  },
+  "special": {
+    "tour_honeymoon": {
+      "original": "images/tour-honeymoon.jpg",
+      "label": "Tour - Morocco Honeymoon Desert Tour From Marrakech - Main photo",
+      "used_on": "Used on: About us, special-honeymoon, special-jewish-heritage, special-photography, special-student-group, Special tours page"
+    },
+    "tour_jewish": {
+      "original": "images/tour-jewish.jpg",
+      "label": "Tour - Morocco Jewish Heritage Tour From Casablanca - Main photo",
+      "used_on": "Used on: special-honeymoon, special-jewish-heritage, special-photography, special-student-group, Special tours page"
+    },
+    "tour_photography": {
+      "original": "images/tour-photography.jpg",
+      "label": "Tour - Morocco Photography Desert Tour From Fes - Main photo",
+      "used_on": "Used on: special-honeymoon, special-jewish-heritage, special-photography, special-student-group, Special tours page"
+    },
+    "tour_student": {
+      "original": "images/tour-student.jpg",
+      "label": "Tour - Morocco Student Group Tour From Tangier - Main photo",
+      "used_on": "Used on: special-honeymoon, special-jewish-heritage, special-photography, special-student-group, Special tours page"
+    }
+  },
+  "activities": {
+    "ag_hero": {
+      "original": "images/ag-hero.jpg",
+      "label": "Agafay activities page - Top photo",
+      "used_on": "Used on: Agafay activities"
+    },
+    "ag_buggy": {
+      "original": "images/ag-buggy.jpg",
+      "label": "Agafay activity - Buggy ride in the Agafay desert near Marrakech",
+      "used_on": "Used on: Agafay activities, Home"
+    },
+    "ag_camel": {
+      "original": "images/ag-camel.jpg",
+      "label": "Agafay activity - Camel ride in the Agafay desert near Marrakech",
+      "used_on": "Used on: Agafay activities, Home"
+    },
+    "ag_balloon": {
+      "original": "images/ag-balloon.jpg",
+      "label": "Agafay activity - Hot air balloon flight at sunrise near Marrakech",
+      "used_on": "Used on: Agafay activities, Home"
+    },
+    "ag_quad": {
+      "original": "images/ag-quad.jpg",
+      "label": "Agafay activity - Quad biking in the Agafay desert near Marrakech",
+      "used_on": "Used on: Agafay activities, Home"
+    },
+    "act_4x4": {
+      "original": "images/act-4x4.jpg",
+      "label": "Merzouga activity - 4x4 Desert Tour in the Sahara, Morocco",
+      "used_on": "Used on: Merzouga activities, Home"
+    },
+    "act_buggy": {
+      "original": "images/act-buggy.jpg",
+      "label": "Merzouga activity - Buggy Ride in the Sahara, Morocco",
+      "used_on": "Used on: Merzouga activities, Home"
+    },
+    "act_camel": {
+      "original": "images/act-camel.jpg",
+      "label": "Merzouga activity - Camel caravan at sunset in the Erg Chebbi dunes",
+      "used_on": "Used on: About us, Merzouga activities, Home"
+    },
+    "act_gnawa": {
+      "original": "images/act-gnawa.jpg",
+      "label": "Merzouga activity - Gnawa Music & Nomad Visit in the Sahara, Morocco",
+      "used_on": "Used on: Merzouga activities, Home"
+    },
+    "act_horse": {
+      "original": "images/act-horse.jpg",
+      "label": "Merzouga activity - Horse Riding in the Sahara, Morocco",
+      "used_on": "Used on: Merzouga activities, Home"
+    },
+    "act_quad": {
+      "original": "images/act-quad.jpg",
+      "label": "Merzouga activity - Quad Biking in the Sahara, Morocco",
+      "used_on": "Used on: About us, Merzouga activities, Home"
+    },
+    "act_sandboard": {
+      "original": "images/act-sandboard.jpg",
+      "label": "Merzouga activity - Sandboarding in the Sahara, Morocco",
+      "used_on": "Used on: Merzouga activities, Home"
+    }
+  },
+  "other": {
+    "day_ouarzazate": {
+      "original": "images/day-ouarzazate.jpg",
+      "label": "About us - Kasbah road in the south of Morocco",
+      "used_on": "Used on: About us, Home"
+    },
+    "hero": {
+      "original": "images/hero.jpg",
+      "label": "Contact banner background (\"Ready when you are\", on most pages)",
+      "used_on": "Used on: About us, Merzouga activities, Agafay activities, blog-compare, blog-days, blog-fes and 22 more pages"
+    },
+    "logo": {
+      "original": "images/logo.png",
+      "label": "Logo",
+      "used_on": "Used on: About us, Merzouga activities, Agafay activities, blog-compare, blog-days, blog-fes and 69 more pages"
+    },
+    "og_image": {
+      "original": "images/og-image.jpg",
+      "label": "Share preview image (WhatsApp / Facebook)",
+      "used_on": "Used on: About us, Merzouga activities, Agafay activities, Blog page, Contact, Day trips page and 12 more pages"
+    }
+  }
+}

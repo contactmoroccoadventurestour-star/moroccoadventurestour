@@ -1,0 +1,538 @@
+{
+  "title": "12 Days Absolute Morocco Tour from Tangier",
+  "type": "tour",
+  "category": "tangier",
+  "order": 205,
+  "show_on_home": true,
+  "home_extra": [],
+  "price": "",
+  "image": "/images/tour-tg12.jpg",
+  "image_position": "center 30%",
+  "meta_description": "12-day Absolute Morocco tour from Tangier: Tangier, Chefchaouen, Volubilis, Meknes, a guided day in Fes, two nights in the Sahara at Merzouga, Todra Gorge, Dades, Ouarzazate, Ait Ben Haddou, Marrakech and Casablanca.",
+  "eyebrow": {
+    "en": "Absolute Morocco from Tangier",
+    "es": "Marruecos absoluto desde Tánger",
+    "it": "Marocco assoluto da Tangeri"
+  },
+  "title_line1": {
+    "en": "12 Days Absolute Morocco Tour",
+    "es": "12 días: Marruecos absoluto",
+    "it": "12 giorni: Marocco assoluto"
+  },
+  "title_line2": {
+    "en": "from Tangier",
+    "es": "desde Tánger",
+    "it": "da Tangeri"
+  },
+  "duration": {
+    "en": "12 days",
+    "es": "12 días",
+    "it": "12 giorni"
+  },
+  "duration_short": {
+    "en": "12 days",
+    "es": "12 días",
+    "it": "12 giorni"
+  },
+  "start": "Tangier",
+  "end": "Casablanca",
+  "card": {
+    "title": {
+      "en": "12 Days Absolute Morocco Tour from Tangier",
+      "es": "12 días: Marruecos absoluto desde Tánger",
+      "it": "12 giorni: Marocco assoluto da Tangeri"
+    },
+    "highlights": {
+      "en": "Tangier · Chefchaouen · Fes · 2 nights in the Sahara · Ouarzazate · Marrakech · Casablanca",
+      "es": "Tánger · Chefchaouen · Fez · 2 noches en el Sáhara · Ouarzazate · Marrakech · Casablanca",
+      "it": "Tangeri · Chefchaouen · Fes · 2 notti nel Sahara · Ouarzazate · Marrakech · Casablanca"
+    },
+    "route": [
+      "Tangier",
+      "Fes",
+      "Merzouga",
+      "Marrakech",
+      "Casablanca"
+    ],
+    "image_alt": "12 Days Absolute Morocco Tour from Tangier"
+  },
+  "overview": [
+    {
+      "en": "Embark on an unforgettable journey across Morocco with this 12-day absolute tour from Tangier, an experience that promises an extraordinary blend of history, culture, and breathtaking landscapes. From the winding blue streets of Chefchaouen to the golden dunes of the Sahara Desert and the bustling medinas of Fes and Marrakech, this itinerary offers a comprehensive exploration of Morocco’s most iconic destinations.",
+      "es": "Emprende un viaje inolvidable por Marruecos con este tour absoluto de 12 días desde Tánger, una experiencia que promete una mezcla extraordinaria de historia, cultura y paisajes impresionantes. De las sinuosas calles azules de Chefchaouen a las dunas doradas del desierto del Sáhara y las bulliciosas medinas de Fez y Marrakech, este itinerario ofrece un recorrido completo por los destinos más emblemáticos de Marruecos.",
+      "it": "Intraprendi un viaggio indimenticabile attraverso il Marocco con questo tour assoluto di 12 giorni da Tangeri, un’esperienza che promette uno straordinario mix di storia, cultura e paesaggi mozzafiato. Dalle sinuose vie blu di Chefchaouen alle dune dorate del deserto del Sahara e alle animate medine di Fes e Marrakech, questo itinerario offre una scoperta completa delle mete più iconiche del Marocco."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "Explore the vibrant cities of Tangier, Chefchaouen, Fes, Marrakech, and Casablanca",
+        "es": "Descubre las animadas ciudades de Tánger, Chefchaouen, Fez, Marrakech y Casablanca",
+        "it": "Esplora le vivaci città di Tangeri, Chefchaouen, Fes, Marrakech e Casablanca"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Immerse yourself in the culture and history of ancient sites, including Volubilis, Ait Benhaddou, and imperial cities",
+        "es": "Sumérgete en la cultura y la historia de lugares antiguos como Volubilis, Ait Benhaddou y las ciudades imperiales",
+        "it": "Immergiti nella cultura e nella storia di siti antichi come Volubilis, Ait Benhaddou e le città imperiali"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Experience the magic of the Sahara Desert with a camel trek and luxury desert camp stay",
+        "es": "Vive la magia del Sáhara con un paseo en camello y una estancia en un campamento de lujo",
+        "it": "Vivi la magia del Sahara con un’escursione in cammello e un soggiorno in un campo di lusso"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Discover breathtaking landscapes, from the Rif and Atlas Mountains to the Dades Valley and Todra Gorge",
+        "es": "Descubre paisajes impresionantes, del Rif y el Atlas al valle del Dades y la garganta del Todra",
+        "it": "Scopri paesaggi mozzafiato, dal Rif e dall’Atlante alla valle del Dades e alla gola del Todra"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Tangier",
+    "Chefchaouen",
+    "Fes",
+    "Merzouga",
+    "Dades",
+    "Ouarzazate",
+    "Marrakech",
+    "Casablanca"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Arrival in Tangier – Welcome to Tangier",
+        "es": "Llegada a Tánger – Bienvenido a Tánger",
+        "it": "Arrivo a Tangeri – Benvenuto a Tangeri"
+      },
+      "text": {
+        "en": "Begin your Moroccan adventure in the vibrant coastal city of Tangier, where the Atlantic Ocean meets the Mediterranean Sea. After your arrival, enjoy a guided tour of the Kasbah Museum, to delve into Tangier’s rich history, the Hercules Caves, to marvel at the fascinating rock formations and ocean views, and Cape Spartel, a stunning viewpoint where the two seas converge. Overnight in a traditional riad in Tangier.",
+        "es": "Comienza tu aventura marroquí en la animada ciudad costera de Tánger, donde el océano Atlántico se encuentra con el mar Mediterráneo. Tras tu llegada, disfruta de una visita guiada por el Museo de la Kasbah, para descubrir la rica historia de Tánger, las Cuevas de Hércules, con sus fascinantes formaciones rocosas y vistas al océano, y el Cabo Espartel, un mirador impresionante donde se unen los dos mares. Noche en un riad tradicional en Tánger.",
+        "it": "Inizia la tua avventura marocchina nella vivace città costiera di Tangeri, dove l’oceano Atlantico incontra il mar Mediterraneo. Dopo l’arrivo, visita guidata del Museo della Kasbah, per scoprire la ricca storia di Tangeri, delle Grotte di Ercole, con le loro affascinanti formazioni rocciose e la vista sull’oceano, e di Capo Spartel, uno splendido belvedere dove si incontrano i due mari. Notte in un riad tradizionale a Tangeri."
+      },
+      "overnight": {
+        "en": "Traditional riad in Tangier",
+        "es": "Riad tradicional en Tánger",
+        "it": "Riad tradizionale a Tangeri"
+      },
+      "breakfast": false,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Tangier to Chefchaouen – The Blue Pearl of Morocco",
+        "es": "Tánger a Chefchaouen – La Perla Azul de Marruecos",
+        "it": "Tangeri a Chefchaouen – La Perla Blu del Marocco"
+      },
+      "text": {
+        "en": "Travel to Chefchaouen, a picturesque town in the Rif Mountains known for its vibrant blue-painted streets and relaxed atmosphere. Wander through the charming medina, visit the Plaza Uta el-Hammam and the historic Kasbah, and enjoy panoramic views from the hilltop Spanish Mosque. Spend the night in a riad, soaking in the serenity of Chefchaouen.",
+        "es": "Viaja a Chefchaouen, un pintoresco pueblo de las montañas del Rif conocido por sus calles pintadas de azul y su ambiente relajado. Pasea por su encantadora medina, visita la plaza Uta el-Hammam y la histórica Kasbah, y disfruta de vistas panorámicas desde la Mezquita Española, en lo alto de la colina. Pasa la noche en un riad, disfrutando de la serenidad de Chefchaouen.",
+        "it": "Partenza per Chefchaouen, pittoresco paese dei monti del Rif famoso per le sue vie dipinte di blu e la sua atmosfera rilassata. Passeggia nell’incantevole medina, visita la piazza Uta el-Hammam e la storica Kasbah, e goditi la vista panoramica dalla Moschea Spagnola sulla collina. Notte in un riad, immerso nella serenità di Chefchaouen."
+      },
+      "overnight": {
+        "en": "Riad in Chefchaouen",
+        "es": "Riad en Chefchaouen",
+        "it": "Riad a Chefchaouen"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Chefchaouen to Fes via Volubilis and Meknes",
+        "es": "Chefchaouen a Fez por Volubilis y Mequínez",
+        "it": "Chefchaouen a Fes via Volubilis e Meknes"
+      },
+      "text": {
+        "en": "On the way to Fes, visit Volubilis, Morocco’s best-preserved Roman ruins, adorned with intricate mosaics, and Meknes, a historic imperial city featuring the impressive Bab Mansour Gate and Sahrij Swani Basin. Arrive in Fes for dinner and overnight in a traditional riad.",
+        "es": "De camino a Fez, visita Volubilis, las ruinas romanas mejor conservadas de Marruecos, decoradas con detallados mosaicos, y Mequínez, histórica ciudad imperial con la impresionante puerta Bab Mansour y el estanque Sahrij Swani. Llegada a Fez para cenar y dormir en un riad tradicional.",
+        "it": "Lungo la strada per Fes, visita di Volubilis, le rovine romane meglio conservate del Marocco, ornate da raffinati mosaici, e di Meknes, storica città imperiale con l’imponente porta Bab Mansour e il bacino Sahrij Swani. Arrivo a Fes per cena e notte in un riad tradizionale."
+      },
+      "overnight": {
+        "en": "Traditional riad in Fes",
+        "es": "Riad tradicional en Fez",
+        "it": "Riad tradizionale a Fes"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Guided Tour of Fes – The Spiritual Capital",
+        "es": "Visita guiada de Fez – La capital espiritual",
+        "it": "Visita guidata di Fes – La capitale spirituale"
+      },
+      "text": {
+        "en": "Spend the day exploring the cultural and spiritual heart of Morocco: Fes el Bali, a UNESCO-listed medina filled with labyrinthine streets, the Al-Qarawiyyin University, the world’s oldest functioning university, the Chouara Tannery, to witness traditional leather-making techniques, and the Bou Inania Madrasa, a stunning example of Moroccan craftsmanship. Enjoy a traditional dinner and spend the night in Fes.",
+        "es": "Dedica el día a descubrir el corazón cultural y espiritual de Marruecos: Fez el Bali, una medina laberíntica Patrimonio de la UNESCO, la Universidad Al-Qarawiyyin, la universidad en funcionamiento más antigua del mundo, la curtiduría Chouara, para ver las técnicas tradicionales del cuero, y la madrasa Bou Inania, un magnífico ejemplo de artesanía marroquí. Disfruta de una cena tradicional y pasa la noche en Fez.",
+        "it": "Trascorri la giornata nel cuore culturale e spirituale del Marocco: Fes el Bali, una medina labirintica patrimonio UNESCO, l’Università Al-Qarawiyyin, la più antica università ancora in funzione al mondo, la conceria Chouara, per scoprire le tecniche tradizionali del cuoio, e la madrasa Bou Inania, splendido esempio di artigianato marocchino. Cena tradizionale e notte a Fes."
+      },
+      "overnight": {
+        "en": "Fes",
+        "es": "Fez",
+        "it": "Fes"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Fes to Merzouga via Ifrane and Midelt – From the Mountains to the Desert",
+        "es": "Fez a Merzouga por Ifrane y Midelt – De la montaña al desierto",
+        "it": "Fes a Merzouga via Ifrane e Midelt – Dalla montagna al deserto"
+      },
+      "text": {
+        "en": "Travel through the Middle Atlas Mountains, passing by Ifrane, often called “Morocco’s Switzerland” for its European-style charm, and Azrou, home to ancient cedar forests and Barbary monkeys. Arrive in Merzouga, where you’ll begin your camel trek into the desert. Enjoy dinner and an enchanting night in a luxury Sahara camp under the starry sky.",
+        "es": "Cruza el Medio Atlas pasando por Ifrane, a menudo llamada la “Suiza de Marruecos” por su encanto europeo, y Azrou, hogar de antiguos bosques de cedros y monos de Berbería. Llega a Merzouga, donde comenzará tu paseo en camello por el desierto. Disfruta de la cena y de una noche encantadora en un campamento de lujo en el Sáhara bajo el cielo estrellado.",
+        "it": "Attraversa il Medio Atlante passando per Ifrane, spesso chiamata la “Svizzera del Marocco” per il suo fascino europeo, e Azrou, con le sue antiche foreste di cedri e le bertucce. Arrivo a Merzouga, dove inizierà la tua escursione in cammello nel deserto. Cena e notte incantevole in un campo di lusso nel Sahara sotto il cielo stellato."
+      },
+      "overnight": {
+        "en": "Luxury Sahara camp",
+        "es": "Campamento de lujo en el Sáhara",
+        "it": "Campo di lusso nel Sahara"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga and the Sahara Desert – Immersive Desert Experience",
+        "es": "Merzouga y el desierto del Sáhara – Experiencia en el desierto",
+        "it": "Merzouga e il deserto del Sahara – Esperienza nel deserto"
+      },
+      "text": {
+        "en": "Spend the day exploring the wonders of the Sahara Desert. Witness a mesmerizing sunrise over the dunes, visit a local nomad family to learn about their unique way of life, and explore Khamlia Village, famous for its Gnawa music. Enjoy another magical night in the desert, surrounded by the tranquility of the Erg Chebbi dunes.",
+        "es": "Dedica el día a descubrir las maravillas del desierto del Sáhara. Contempla un amanecer fascinante sobre las dunas, visita a una familia nómada para conocer su forma de vida única y explora el pueblo de Khamlia, famoso por su música gnawa. Disfruta de otra noche mágica en el desierto, rodeado de la tranquilidad de las dunas de Erg Chebbi.",
+        "it": "Trascorri la giornata alla scoperta delle meraviglie del deserto del Sahara. Assisti a un’alba incantevole sulle dune, visita una famiglia nomade per conoscere il suo stile di vita unico ed esplora il villaggio di Khamlia, famoso per la musica gnawa. Goditi un’altra notte magica nel deserto, immerso nella tranquillità delle dune di Erg Chebbi."
+      },
+      "overnight": {
+        "en": "Desert camp in Erg Chebbi",
+        "es": "Campamento en Erg Chebbi",
+        "it": "Campo a Erg Chebbi"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Merzouga to Dades Valley via Todra Gorge – Dramatic Landscapes",
+        "es": "Merzouga al valle del Dades por el Todra – Paisajes espectaculares",
+        "it": "Merzouga alla valle del Dades via Todra – Paesaggi spettacolari"
+      },
+      "text": {
+        "en": "After breakfast, travel to the spectacular Todra Gorge, a dramatic canyon with towering cliffs that attract climbers and nature lovers alike. Continue through the Dades Valley, also known as the “Valley of a Thousand Kasbahs,” to see its unique rock formations. Spend the night in a charming hotel overlooking the valley.",
+        "es": "Después del desayuno, viaja a la espectacular garganta del Todra, un cañón impresionante de altísimos acantilados que atrae a escaladores y amantes de la naturaleza. Continúa por el valle del Dades, también llamado el “Valle de las Mil Kasbahs”, para ver sus formaciones rocosas únicas. Pasa la noche en un encantador hotel con vistas al valle.",
+        "it": "Dopo la colazione, partenza per la spettacolare gola del Todra, un canyon dalle pareti altissime che attira scalatori e amanti della natura. Prosegui nella valle del Dades, detta anche la “Valle delle Mille Kasbah”, per ammirare le sue formazioni rocciose uniche. Notte in un affascinante hotel con vista sulla valle."
+      },
+      "overnight": {
+        "en": "Hotel overlooking the Dades Valley",
+        "es": "Hotel con vistas al valle del Dades",
+        "it": "Hotel con vista sulla valle del Dades"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Dades Valley to Ouarzazate via Ait Benhaddou – Film Studios and Ancient Fortresses",
+        "es": "Valle del Dades a Ouarzazate por Ait Benhaddou – Estudios de cine y fortalezas",
+        "it": "Valle del Dades a Ouarzazate via Ait Benhaddou – Studi cinematografici e fortezze"
+      },
+      "text": {
+        "en": "Journey to Ouarzazate, the “Hollywood of Morocco,” home to the Atlas Film Studios, where many Hollywood blockbusters were filmed, and Ait Benhaddou, a UNESCO World Heritage Site and iconic ksar (fortified village). Spend the evening exploring the rich history of Ouarzazate before an overnight stay.",
+        "es": "Viaja a Ouarzazate, el “Hollywood de Marruecos”, donde se encuentran los Atlas Film Studios, escenario de muchas superproducciones de Hollywood, y Ait Benhaddou, Patrimonio de la UNESCO y emblemático ksar (pueblo fortificado). Dedica la tarde a descubrir la rica historia de Ouarzazate antes de pasar la noche.",
+        "it": "Partenza per Ouarzazate, la “Hollywood del Marocco”, sede degli Atlas Film Studios, dove sono stati girati molti grandi film di Hollywood, e Ait Benhaddou, patrimonio UNESCO e iconico ksar (villaggio fortificato). Trascorri la serata alla scoperta della ricca storia di Ouarzazate prima della notte."
+      },
+      "overnight": {
+        "en": "Ouarzazate",
+        "es": "Ouarzazate",
+        "it": "Ouarzazate"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Ouarzazate to Marrakech via the High Atlas Mountains",
+        "es": "Ouarzazate a Marrakech por el Alto Atlas",
+        "it": "Ouarzazate a Marrakech attraverso l’Alto Atlante"
+      },
+      "text": {
+        "en": "Cross the majestic High Atlas Mountains via the Tizi n’Tichka Pass, enjoying scenic views and stopping at Berber villages along the way. Arrive in Marrakech, where the vibrant medina awaits. Overnight in a riad in the heart of the city.",
+        "es": "Cruza el majestuoso Alto Atlas por el puerto de Tizi n’Tichka, disfrutando de las vistas y parando en pueblos bereberes por el camino. Llega a Marrakech, donde te espera su animada medina. Noche en un riad en el corazón de la ciudad.",
+        "it": "Attraversa il maestoso Alto Atlante sul passo del Tizi n’Tichka, godendoti i panorami e fermandoti nei villaggi berberi lungo la strada. Arrivo a Marrakech, dove ti aspetta la sua vivace medina. Notte in un riad nel cuore della città."
+      },
+      "overnight": {
+        "en": "Riad in the heart of Marrakech",
+        "es": "Riad en el corazón de Marrakech",
+        "it": "Riad nel cuore di Marrakech"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Guided Tour of Marrakech – Exploring the Red City",
+        "es": "Visita guiada de Marrakech – La Ciudad Roja",
+        "it": "Visita guidata di Marrakech – La Città Rossa"
+      },
+      "text": {
+        "en": "Spend the day uncovering Marrakech’s rich history and vibrant culture: the Koutoubia Mosque, the largest mosque in Marrakech, the Bahia Palace, a masterpiece of Moroccan architecture, the Majorelle Garden, a serene botanical garden created by Jacques Majorelle, and Jemaa el-Fnaa Square, a lively hub of street performers, food stalls, and artisans. Enjoy a farewell dinner in a traditional Moroccan restaurant.",
+        "es": "Dedica el día a descubrir la rica historia y la vibrante cultura de Marrakech: la mezquita Koutoubia, la más grande de Marrakech, el palacio de la Bahía, una obra maestra de la arquitectura marroquí, el jardín Majorelle, un sereno jardín botánico creado por Jacques Majorelle, y la plaza Jemaa el-Fnaa, un animado centro de artistas callejeros, puestos de comida y artesanos. Disfruta de una cena de despedida en un restaurante marroquí tradicional.",
+        "it": "Trascorri la giornata alla scoperta della ricca storia e della vivace cultura di Marrakech: la moschea Koutoubia, la più grande di Marrakech, il palazzo Bahia, capolavoro dell’architettura marocchina, il giardino Majorelle, un sereno giardino botanico creato da Jacques Majorelle, e la piazza Jemaa el-Fnaa, animata da artisti di strada, bancarelle di cibo e artigiani. Cena d’addio in un ristorante marocchino tradizionale."
+      },
+      "overnight": {
+        "en": "Riad in Marrakech",
+        "es": "Riad en Marrakech",
+        "it": "Riad a Marrakech"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Marrakech to Casablanca – Journey to Casablanca",
+        "es": "Marrakech a Casablanca – Viaje a Casablanca",
+        "it": "Marrakech a Casablanca – Viaggio a Casablanca"
+      },
+      "text": {
+        "en": "Travel to Casablanca, Morocco’s largest city. Explore its modern and historical attractions, including the Hassan II Mosque, one of the largest mosques in the world, and the Corniche Boulevard, a scenic promenade along the Atlantic Ocean. Spend the night in Casablanca.",
+        "es": "Viaja a Casablanca, la ciudad más grande de Marruecos. Descubre sus atractivos modernos e históricos, como la mezquita Hassan II, una de las mayores del mundo, y el bulevar de la Corniche, un bonito paseo junto al océano Atlántico. Noche en Casablanca.",
+        "it": "Partenza per Casablanca, la città più grande del Marocco. Scopri le sue attrazioni moderne e storiche, tra cui la moschea Hassan II, una delle più grandi del mondo, e il boulevard della Corniche, una splendida passeggiata sull’oceano Atlantico. Notte a Casablanca."
+      },
+      "overnight": {
+        "en": "Casablanca",
+        "es": "Casablanca",
+        "it": "Casablanca"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Departure from Casablanca – Farewell Morocco",
+        "es": "Salida desde Casablanca – Adiós, Marruecos",
+        "it": "Partenza da Casablanca – Arrivederci Marocco"
+      },
+      "text": {
+        "en": "After breakfast, transfer to the airport for your departure. Reflect on the unforgettable memories and diverse experiences of your 12-day Morocco tour.",
+        "es": "Después del desayuno, traslado al aeropuerto para tu salida. Llévate los recuerdos inolvidables y las experiencias de tus 12 días por Marruecos.",
+        "it": "Dopo la colazione, trasferimento in aeroporto per la partenza. Porta con te i ricordi indimenticabili e le esperienze del tuo tour di 12 giorni in Marocco."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Private transportation in a comfortable air-conditioned vehicle",
+      "es": "Transporte privado en un cómodo vehículo con aire acondicionado",
+      "it": "Trasporto privato in un comodo veicolo climatizzato"
+    },
+    {
+      "en": "Professional English-speaking driver/guide",
+      "es": "Conductor/guía profesional que habla inglés",
+      "it": "Autista/guida professionale che parla inglese"
+    },
+    {
+      "en": "Accommodation in riads, hotels, and luxury desert camps",
+      "es": "Alojamiento en riads, hoteles y campamentos de lujo en el desierto",
+      "it": "Alloggio in riad, hotel e campi di lusso nel deserto"
+    },
+    {
+      "en": "Camel trekking experience",
+      "es": "Paseo en camello",
+      "it": "Escursione in cammello"
+    },
+    {
+      "en": "Daily breakfast and select dinners",
+      "es": "Desayuno diario y algunas cenas",
+      "it": "Colazione ogni giorno e alcune cene"
+    },
+    {
+      "en": "Guided city tours in Fes and Marrakech",
+      "es": "Visitas guiadas en Fez y Marrakech",
+      "it": "Visite guidate a Fes e Marrakech"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Tangier",
+      "description": {
+        "en": "Arrival · night 1",
+        "es": "Llegada · noche 1",
+        "it": "Arrivo · notte 1"
+      }
+    },
+    {
+      "name": "Chefchaouen",
+      "description": {
+        "en": "Night 2",
+        "es": "Noche 2",
+        "it": "Notte 2"
+      }
+    },
+    {
+      "name": "Volubilis",
+      "description": {
+        "en": "Roman ruins",
+        "es": "Ruinas romanas",
+        "it": "Rovine romane"
+      }
+    },
+    {
+      "name": "Meknes",
+      "description": {
+        "en": "Bab Mansour",
+        "es": "Bab Mansour",
+        "it": "Bab Mansour"
+      }
+    },
+    {
+      "name": "Fes",
+      "description": {
+        "en": "Nights 3–4",
+        "es": "Noches 3–4",
+        "it": "Notti 3–4"
+      }
+    },
+    {
+      "name": "Ifrane",
+      "description": {
+        "en": "Morocco’s Switzerland",
+        "es": "La Suiza de Marruecos",
+        "it": "La Svizzera del Marocco"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Desert camp · nights 5–6",
+        "es": "Campamento · noches 5–6",
+        "it": "Campo · notti 5–6"
+      }
+    },
+    {
+      "name": "Khamlia",
+      "description": {
+        "en": "Gnawa music",
+        "es": "Música gnawa",
+        "it": "Musica gnawa"
+      }
+    },
+    {
+      "name": "Todra Gorge",
+      "description": {
+        "en": "Towering cliffs",
+        "es": "Altos acantilados",
+        "it": "Pareti altissime"
+      }
+    },
+    {
+      "name": "Dades Valley",
+      "description": {
+        "en": "Night 7",
+        "es": "Noche 7",
+        "it": "Notte 7"
+      }
+    },
+    {
+      "name": "Ouarzazate",
+      "description": {
+        "en": "Night 8",
+        "es": "Noche 8",
+        "it": "Notte 8"
+      }
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "description": {
+        "en": "UNESCO ksar",
+        "es": "Ksar UNESCO",
+        "it": "Ksar UNESCO"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Nights 9–10",
+        "es": "Noches 9–10",
+        "it": "Notti 9–10"
+      }
+    },
+    {
+      "name": "Casablanca",
+      "description": {
+        "en": "Night 11 · end",
+        "es": "Noche 11 · fin",
+        "it": "Notte 11 · fine"
+      }
+    }
+  ],
+  "map_route": [
+    "Tangier",
+    "Cape Spartel",
+    "Chefchaouen",
+    "Volubilis",
+    "Meknes",
+    "Fes",
+    "Ifrane",
+    "Azrou",
+    "Midelt",
+    "Errachidia",
+    "Merzouga",
+    "Tinghir",
+    "Boumalne Dades",
+    "Ouarzazate",
+    "Ait Ben Haddou",
+    "Marrakech",
+    "Casablanca"
+  ],
+  "planner": {
+    "show": true,
+    "days": 12,
+    "start": "tangier",
+    "tags": [
+      "desert",
+      "cities",
+      "mountains"
+    ]
+  }
+}

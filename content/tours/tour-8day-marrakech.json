@@ -1,0 +1,472 @@
+{
+  "title": "8 Days Essential Morocco Tour from Marrakech",
+  "type": "tour",
+  "category": "marrakech",
+  "order": 7,
+  "show_on_home": true,
+  "home_extra": [
+    "authentic"
+  ],
+  "price": "",
+  "image": "/images/tour-mk8.jpg",
+  "image_position": "center 40%",
+  "meta_description": "Private 8-day tour from Marrakech: Jemaa el-Fnaa, Ait Ben Haddou, Ouarzazate, Dades Valley, Todra Gorge, a night in the Erg Chebbi dunes, Alnif, Zagora, the Draa Valley, Taroudant and Essaouira.",
+  "eyebrow": {
+    "en": "Private tour · desert to ocean",
+    "es": "Tour privado · del desierto al océano",
+    "it": "Tour privato · dal deserto all’oceano"
+  },
+  "title_line1": {
+    "en": "8 Days Essential Morocco",
+    "es": "8 días: lo esencial de Marruecos",
+    "it": "8 giorni: l’essenziale del Marocco"
+  },
+  "title_line2": {
+    "en": "from Marrakech",
+    "es": "desde Marrakech",
+    "it": "da Marrakech"
+  },
+  "duration": {
+    "en": "8 days · 7 nights",
+    "es": "8 días · 7 noches",
+    "it": "8 giorni · 7 notti"
+  },
+  "duration_short": {
+    "en": "8 days",
+    "es": "8 días",
+    "it": "8 giorni"
+  },
+  "start": "Marrakech",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "8 Days Essential Morocco Tour from Marrakech",
+      "es": "8 días: lo esencial de Marruecos desde Marrakech",
+      "it": "8 giorni: l’essenziale del Marocco da Marrakech"
+    },
+    "highlights": {
+      "en": "Ait Ben Haddou · Dades · Erg Chebbi camp · Zagora · Taroudant · Essaouira",
+      "es": "Ait Ben Haddou · Dades · campamento en Erg Chebbi · Zagora · Taroudant · Essaouira",
+      "it": "Ait Ben Haddou · Dades · campo a Erg Chebbi · Zagora · Taroudant · Essaouira"
+    },
+    "route": [
+      "Marrakech",
+      "Merzouga",
+      "Zagora",
+      "Essaouira"
+    ],
+    "image_alt": "8 Days Essential Morocco Tour from Marrakech"
+  },
+  "overview": [
+    {
+      "en": "Eight days that bring together the essentials of southern Morocco: the energy of Marrakech, the High Atlas and its kasbahs, the dunes of the Sahara, the palm valleys of the Draa and the fresh air of the Atlantic coast.",
+      "es": "Ocho días que reúnen lo esencial del sur de Marruecos: la energía de Marrakech, el Alto Atlas y sus kasbahs, las dunas del Sáhara, los palmerales del Draa y el aire fresco de la costa atlántica.",
+      "it": "Otto giorni che riuniscono l’essenziale del sud del Marocco: l’energia di Marrakech, l’Alto Atlante e le sue kasbah, le dune del Sahara, i palmeti del Draa e l’aria fresca della costa atlantica."
+    },
+    {
+      "en": "After a first evening in Jemaa el-Fnaa, you cross the Tizi n’Tichka to Ait Ben Haddou and Ouarzazate, follow the Rose Valley to Dades, walk in the Todra Gorge and ride a camel into the Erg Chebbi dunes for a night in a desert camp.",
+      "es": "Tras una primera noche en Jemaa el-Fnaa, cruzas el Tizi n’Tichka hasta Ait Ben Haddou y Ouarzazate, sigues el valle de las Rosas hasta el Dades, caminas por la garganta del Todra y montas en camello por las dunas de Erg Chebbi para dormir en un campamento.",
+      "it": "Dopo una prima sera a Jemaa el-Fnaa, attraversi il Tizi n’Tichka fino ad Ait Ben Haddou e Ouarzazate, segui la valle delle Rose fino al Dades, cammini nella gola del Todra ed entri in cammello tra le dune di Erg Chebbi per una notte in un campo tendato."
+    },
+    {
+      "en": "The way back is a real journey of its own: the Saghro mountains and Alnif, Zagora on the old caravan route to Timbuktu, the Draa Valley, the walled town of Taroudant and finally Essaouira, with its blue boats and ocean sunsets, before returning to Marrakech through the argan country.",
+      "es": "El regreso es un viaje en sí mismo: las montañas del Saghro y Alnif, Zagora en la antigua ruta de caravanas a Tombuctú, el valle del Draa, la ciudad amurallada de Taroudant y por último Essaouira, con sus barcas azules y sus atardeceres sobre el océano, antes de volver a Marrakech por la tierra del argán.",
+      "it": "Il ritorno è un viaggio a sé: i monti Saghro e Alnif, Zagora sull’antica rotta carovaniera per Timbuctù, la valle del Draa, la città murata di Taroudant e infine Essaouira, con le sue barche blu e i tramonti sull’oceano, prima di rientrare a Marrakech attraverso la terra dell’argan."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "Jemaa el-Fnaa at night",
+        "es": "Jemaa el-Fnaa de noche",
+        "it": "Jemaa el-Fnaa di sera"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Ait Ben Haddou & Dades",
+        "es": "Ait Ben Haddou y Dades",
+        "it": "Ait Ben Haddou e Dades"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Camel trek & desert camp",
+        "es": "Camello y campamento",
+        "it": "Cammello e campo tendato"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Zagora & the Draa Valley",
+        "es": "Zagora y el valle del Draa",
+        "it": "Zagora e la valle del Draa"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Taroudant’s walls & souks",
+        "es": "Murallas y zocos de Taroudant",
+        "it": "Mura e souk di Taroudant"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Essaouira & the argan coast",
+        "es": "Essaouira y la costa del argán",
+        "it": "Essaouira e la costa dell’argan"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Marrakech",
+    "Ouarzazate",
+    "Dades",
+    "Merzouga",
+    "Zagora",
+    "Taroudant",
+    "Essaouira",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Arrival in Marrakech",
+        "es": "Llegada a Marrakech",
+        "it": "Arrivo a Marrakech"
+      },
+      "text": {
+        "en": "We welcome you on arrival and drive you to your hotel or riad. In the evening, discover Jemaa el-Fnaa, the great square of Marrakech, with its musicians, storytellers and food stalls — the perfect first taste of Morocco.",
+        "es": "Te recibimos a tu llegada y te llevamos a tu hotel o riad. Por la tarde descubres Jemaa el-Fnaa, la gran plaza de Marrakech, con sus músicos, cuentacuentos y puestos de comida: la mejor primera impresión de Marruecos.",
+        "it": "Ti accogliamo all’arrivo e ti accompagniamo al tuo hotel o riad. In serata scopri Jemaa el-Fnaa, la grande piazza di Marrakech, con musicisti, cantastorie e bancarelle di cibo: il primo assaggio perfetto del Marocco."
+      },
+      "overnight": {
+        "en": "Riad in Marrakech",
+        "es": "Riad en Marrakech",
+        "it": "Riad a Marrakech"
+      },
+      "breakfast": false,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Marrakech – Ait Ben Haddou – Ouarzazate",
+        "es": "Marrakech – Ait Ben Haddou – Ouarzazate",
+        "it": "Marrakech – Ait Ben Haddou – Ouarzazate"
+      },
+      "text": {
+        "en": "Cross the High Atlas over the Tizi n’Tichka pass, among Berber villages and changing landscapes. Visit the UNESCO ksar of Ait Ben Haddou, seen in Gladiator and Game of Thrones, then continue to Ouarzazate for the night.",
+        "es": "Cruzamos el Alto Atlas por el puerto de Tizi n’Tichka, entre pueblos bereberes y paisajes cambiantes. Visitamos el ksar de Ait Ben Haddou (UNESCO), escenario de Gladiator y Juego de Tronos, y seguimos a Ouarzazate para dormir.",
+        "it": "Attraversiamo l’Alto Atlante sul passo del Tizi n’Tichka, tra villaggi berberi e paesaggi che cambiano. Visitiamo lo ksar di Ait Ben Haddou (UNESCO), set di Il Gladiatore e Il Trono di Spade, poi proseguiamo per Ouarzazate per la notte."
+      },
+      "overnight": {
+        "en": "Riad in Ouarzazate",
+        "es": "Riad en Ouarzazate",
+        "it": "Riad a Ouarzazate"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Ouarzazate – Rose Valley – Dades",
+        "es": "Ouarzazate – valle de las Rosas – Dades",
+        "it": "Ouarzazate – valle delle Rose – Dades"
+      },
+      "text": {
+        "en": "Visit the Taourirt kasbah in Ouarzazate, then take your time through the Rose Valley and its small Berber villages. End the day in the Dades Valley, among red rock formations and green fields, in a riad overlooking the valley.",
+        "es": "Visitamos la kasbah de Taourirt en Ouarzazate y recorremos sin prisa el valle de las Rosas y sus pequeños pueblos bereberes. Terminas el día en el valle del Dades, entre formaciones rocosas rojas y campos verdes, en un riad con vistas.",
+        "it": "Visitiamo la kasbah di Taourirt a Ouarzazate, poi attraversiamo con calma la valle delle Rose e i suoi piccoli villaggi berberi. Concludi la giornata nella valle del Dades, tra rocce rosse e campi verdi, in un riad con vista sulla valle."
+      },
+      "overnight": {
+        "en": "Riad in Dades Valley",
+        "es": "Riad en el valle del Dades",
+        "it": "Riad nella valle del Dades"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Dades – Todra Gorge – Merzouga",
+        "es": "Dades – garganta del Todra – Merzouga",
+        "it": "Dades – gola del Todra – Merzouga"
+      },
+      "text": {
+        "en": "Walk along the river in the Todra Gorge, between limestone cliffs over 300 metres high. Continue to Merzouga and, at sunset, ride a camel into the Erg Chebbi dunes to your desert camp for a traditional dinner under the stars.",
+        "es": "Caminas junto al río en la garganta del Todra, entre paredes de caliza de más de 300 metros. Seguimos a Merzouga y, al atardecer, montas en camello por las dunas de Erg Chebbi hasta el campamento para una cena tradicional bajo las estrellas.",
+        "it": "Cammini lungo il fiume nella gola del Todra, tra pareti calcaree alte oltre 300 metri. Proseguiamo per Merzouga e, al tramonto, entri in cammello tra le dune di Erg Chebbi fino al campo per una cena tradizionale sotto le stelle."
+      },
+      "overnight": {
+        "en": "Desert camp in Merzouga",
+        "es": "Campamento en Merzouga",
+        "it": "Campo tendato a Merzouga"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga – Alnif – Zagora",
+        "es": "Merzouga – Alnif – Zagora",
+        "it": "Merzouga – Alnif – Zagora"
+      },
+      "text": {
+        "en": "Wake up for the sunrise over the dunes. After breakfast, cross the Saghro mountains with a stop in Alnif, the town of fossils, and arrive in Zagora, the old caravan town famous for its “Timbuktu, 52 days” sign.",
+        "es": "Te despiertas para el amanecer sobre las dunas. Después del desayuno cruzamos las montañas del Saghro con parada en Alnif, el pueblo de los fósiles, y llegamos a Zagora, la antigua ciudad de caravanas famosa por su cartel “Tombuctú, 52 días”.",
+        "it": "Sveglia per l’alba sulle dune. Dopo colazione attraversiamo i monti Saghro con sosta ad Alnif, il paese dei fossili, e arriviamo a Zagora, l’antica città carovaniera famosa per il cartello “Timbuctù, 52 giorni”."
+      },
+      "overnight": {
+        "en": "Hotel in Zagora",
+        "es": "Hotel en Zagora",
+        "it": "Hotel a Zagora"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Zagora – Draa Valley – Taroudant",
+        "es": "Zagora – valle del Draa – Taroudant",
+        "it": "Zagora – valle del Draa – Taroudant"
+      },
+      "text": {
+        "en": "Follow the Draa Valley, the largest palm grove in Morocco, with its kasbahs and oases. In the afternoon reach Taroudant, the “grandmother of Marrakech”, and walk along its walls and through its relaxed souks.",
+        "es": "Seguimos el valle del Draa, el mayor palmeral de Marruecos, con sus kasbahs y oasis. Por la tarde llegamos a Taroudant, la “abuela de Marrakech”, y paseamos por sus murallas y sus tranquilos zocos.",
+        "it": "Seguiamo la valle del Draa, il più grande palmeto del Marocco, con le sue kasbah e oasi. Nel pomeriggio arriviamo a Taroudant, la “nonna di Marrakech”, e passeggiamo lungo le mura e nei suoi souk tranquilli."
+      },
+      "overnight": {
+        "en": "Riad in Taroudant",
+        "es": "Riad en Taroudant",
+        "it": "Riad a Taroudant"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Taroudant – Essaouira",
+        "es": "Taroudant – Essaouira",
+        "it": "Taroudant – Essaouira"
+      },
+      "text": {
+        "en": "Drive to the Atlantic coast and Essaouira. Stroll through its UNESCO medina of white walls and blue doors, visit the fishing port, taste fresh seafood and watch the sunset over the ocean.",
+        "es": "Vamos hacia la costa atlántica y Essaouira. Paseas por su medina (UNESCO) de muros blancos y puertas azules, visitas el puerto pesquero, pruebas pescado fresco y ves el atardecer sobre el océano.",
+        "it": "Raggiungiamo la costa atlantica ed Essaouira. Passeggi nella sua medina (UNESCO) di muri bianchi e porte blu, visiti il porto dei pescatori, assaggi pesce fresco e ammiri il tramonto sull’oceano."
+      },
+      "overnight": {
+        "en": "Riad in Essaouira",
+        "es": "Riad en Essaouira",
+        "it": "Riad a Essaouira"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Essaouira – Marrakech",
+        "es": "Essaouira – Marrakech",
+        "it": "Essaouira – Marrakech"
+      },
+      "text": {
+        "en": "Return to Marrakech through the argan forests, with a stop at a women’s cooperative to see how argan oil is made. End your journey with a farewell dinner in a traditional Moroccan restaurant.",
+        "es": "Volvemos a Marrakech por los bosques de argán, con parada en una cooperativa de mujeres para ver cómo se elabora el aceite de argán. Terminas el viaje con una cena de despedida en un restaurante tradicional.",
+        "it": "Rientro a Marrakech attraverso le foreste di argan, con sosta in una cooperativa femminile per scoprire come si produce l’olio di argan. Concludi il viaggio con una cena d’addio in un ristorante tradizionale."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": true
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Airport welcome and transfers in Marrakech",
+      "es": "Recepción y traslados en el aeropuerto de Marrakech",
+      "it": "Accoglienza e trasferimenti in aeroporto a Marrakech"
+    },
+    {
+      "en": "Private air-conditioned vehicle, fuel included",
+      "es": "Vehículo privado con aire acondicionado, combustible incluido",
+      "it": "Veicolo privato climatizzato, carburante incluso"
+    },
+    {
+      "en": "Professional English-speaking driver-guide",
+      "es": "Conductor-guía profesional que habla inglés",
+      "it": "Autista-guida professionale che parla inglese"
+    },
+    {
+      "en": "6 nights in riads and hotels",
+      "es": "6 noches en riads y hoteles",
+      "it": "6 notti in riad e hotel"
+    },
+    {
+      "en": "1 night in a desert camp in Erg Chebbi",
+      "es": "1 noche en un campamento en Erg Chebbi",
+      "it": "1 notte in un campo tendato a Erg Chebbi"
+    },
+    {
+      "en": "Camel trek into the dunes",
+      "es": "Paseo en camello por las dunas",
+      "it": "Escursione in cammello tra le dune"
+    },
+    {
+      "en": "Daily breakfast and selected dinners, including a farewell dinner",
+      "es": "Desayuno diario y algunas cenas, incluida la de despedida",
+      "it": "Colazione ogni giorno e alcune cene, compresa quella d’addio"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Start · night 1",
+        "es": "Salida · noche 1",
+        "it": "Partenza · notte 1"
+      }
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "description": {
+        "en": "UNESCO ksar",
+        "es": "Ksar UNESCO",
+        "it": "Ksar UNESCO"
+      }
+    },
+    {
+      "name": "Ouarzazate",
+      "description": {
+        "en": "Night 2",
+        "es": "Noche 2",
+        "it": "Notte 2"
+      }
+    },
+    {
+      "name": "Dades Valley",
+      "description": {
+        "en": "Night 3",
+        "es": "Noche 3",
+        "it": "Notte 3"
+      }
+    },
+    {
+      "name": "Todra Gorge",
+      "description": {
+        "en": "300 m cliffs",
+        "es": "Paredes de 300 m",
+        "it": "Pareti di 300 m"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Desert camp · night 4",
+        "es": "Campamento · noche 4",
+        "it": "Campo tendato · notte 4"
+      }
+    },
+    {
+      "name": "Alnif",
+      "description": {
+        "en": "Fossil town",
+        "es": "Pueblo de los fósiles",
+        "it": "Paese dei fossili"
+      }
+    },
+    {
+      "name": "Zagora",
+      "description": {
+        "en": "Night 5",
+        "es": "Noche 5",
+        "it": "Notte 5"
+      }
+    },
+    {
+      "name": "Taroudant",
+      "description": {
+        "en": "Night 6",
+        "es": "Noche 6",
+        "it": "Notte 6"
+      }
+    },
+    {
+      "name": "Essaouira",
+      "description": {
+        "en": "Night 7 · Atlantic",
+        "es": "Noche 7 · Atlántico",
+        "it": "Notte 7 · Atlantico"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "End",
+        "es": "Fin",
+        "it": "Fine"
+      }
+    }
+  ],
+  "map_route": [
+    "Marrakech",
+    "Ait Ben Haddou",
+    "Ouarzazate",
+    "Boumalne Dades",
+    "Tinghir",
+    "Merzouga",
+    "Alnif",
+    "Zagora",
+    "Taroudant",
+    "Essaouira",
+    "Marrakech"
+  ],
+  "planner": {
+    "show": true,
+    "days": 8,
+    "start": "marrakech",
+    "tags": [
+      "desert",
+      "cities",
+      "mountains"
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "title": "Quad, buggy or camel? Choosing your dune adventure",
+  "category": "desert",
+  "order": 6,
+  "featured": false,
+  "image": "/images/blog-quad.jpg",
+  "minutes": 5,
+  "headline": {
+    "en": "Quad, buggy or camel? Choosing your dune adventure",
+    "es": "¿Quad, buggy o camello? Elige tu aventura en las dunas",
+    "it": "Quad, buggy o cammello? Scegli la tua avventura tra le dune"
+  },
+  "excerpt": {
+    "en": "Speed or silence? A simple guide to the best ways to explore the dunes of Merzouga and the Agafay desert, and how to choose.",
+    "es": "¿Velocidad o silencio? Una guía sencilla de las mejores formas de explorar las dunas de Merzouga y el desierto de Agafay, y cómo elegir.",
+    "it": "Velocità o silenzio? Una guida semplice ai modi migliori per esplorare le dune di Merzouga e il deserto di Agafay, e come scegliere."
+  },
+  "intro": {
+    "en": "Once you arrive in the desert, the dunes are calling — but how do you want to explore them? Each way of moving through the sand gives a completely different feeling. Here is a simple guide to help you choose, or combine them.",
+    "es": "Una vez en el desierto, las dunas te llaman, pero ¿cómo quieres explorarlas? Cada forma de moverse por la arena da una sensación completamente distinta. Aquí tienes una guía sencilla para elegir, o combinarlas.",
+    "it": "Una volta nel deserto, le dune ti chiamano, ma come vuoi esplorarle? Ogni modo di muoversi nella sabbia regala una sensazione completamente diversa. Ecco una guida semplice per scegliere, o combinarli."
+  },
+  "sections": [
+    {
+      "heading": {
+        "en": "The camel: the classic and the slowest",
+        "es": "El camello: el clásico y el más lento",
+        "it": "Il cammello: il classico e il più lento"
+      },
+      "text": {
+        "en": "Riding a camel is the traditional way to cross the Sahara, and the one most guests remember. It is slow, quiet and gentle: you hear only the steps in the sand and the voice of the camel man leading the caravan. It is perfect at sunset, on the way to the camp, when the light changes every minute.\n\nIt suits almost everyone, from children to grandparents. After an hour your legs will feel it a little — that is normal. If you are not comfortable, you can always walk next to the camel.",
+        "es": "Montar en camello es la forma tradicional de cruzar el Sáhara, y la que más recuerdan nuestros viajeros. Es lento, silencioso y suave: solo oyes los pasos en la arena y la voz del camellero que guía la caravana. Es perfecto al atardecer, de camino al campamento, cuando la luz cambia cada minuto.\n\nEs apto para casi todos, desde niños hasta abuelos. Después de una hora las piernas lo notan un poco, y es normal. Si no te sientes cómodo, siempre puedes caminar al lado del camello.",
+        "it": "Andare in cammello è il modo tradizionale di attraversare il Sahara, e quello che i nostri ospiti ricordano di più. È lento, silenzioso e dolce: senti solo i passi nella sabbia e la voce del cammelliere che guida la carovana. È perfetto al tramonto, sulla strada per il campo, quando la luce cambia ogni minuto.\n\nÈ adatto a quasi tutti, dai bambini ai nonni. Dopo un’ora le gambe lo sentono un po’, ed è normale. Se non ti senti a tuo agio, puoi sempre camminare accanto al cammello."
+      }
+    },
+    {
+      "heading": {
+        "en": "The quad: freedom and adrenaline",
+        "es": "El quad: libertad y adrenalina",
+        "it": "Il quad: libertà e adrenalina"
+      },
+      "text": {
+        "en": "Quad biking is for those who want speed. With a guide in front, you ride across the dunes and the flat areas around Erg Chebbi, climbing and descending the sand. No previous experience is needed: the instructor explains the controls, and the route is adapted to your level.\n\nA one-hour ride is enough to feel the thrill; two hours let you go deeper into the dunes. Wear closed shoes, sunglasses and a scarf over your face — the sand flies!",
+        "es": "El quad es para quienes buscan velocidad. Con un guía delante, recorres las dunas y las zonas llanas alrededor de Erg Chebbi, subiendo y bajando por la arena. No hace falta experiencia: el instructor explica los mandos y la ruta se adapta a tu nivel.\n\nUna hora basta para sentir la emoción; dos horas te permiten adentrarte más en las dunas. Lleva calzado cerrado, gafas de sol y un pañuelo sobre la cara: ¡la arena vuela!",
+        "it": "Il quad è per chi cerca velocità. Con una guida davanti percorri le dune e le zone pianeggianti intorno a Erg Chebbi, salendo e scendendo nella sabbia. Non serve esperienza: l’istruttore spiega i comandi e il percorso si adatta al tuo livello.\n\nUn’ora basta per sentire l’emozione; due ore ti permettono di addentrarti di più tra le dune. Indossa scarpe chiuse, occhiali da sole e una sciarpa sul viso: la sabbia vola!"
+      }
+    },
+    {
+      "heading": {
+        "en": "The buggy: adventure for two",
+        "es": "El buggy: aventura para dos",
+        "it": "Il buggy: avventura in due"
+      },
+      "text": {
+        "en": "A buggy is like a small off-road car with a roll cage. It is ideal for couples or for a parent with a child, because two people sit side by side, and it feels a little safer than a quad for beginners. It is great fun on the big dunes and in the rocky hills of Agafay near Marrakech.",
+        "es": "Un buggy es como un pequeño todoterreno con barra antivuelco. Es ideal para parejas o para un padre con su hijo, porque dos personas van sentadas una al lado de la otra, y para los principiantes resulta algo más seguro que un quad. Es muy divertido en las grandes dunas y en las colinas rocosas de Agafay, cerca de Marrakech.",
+        "it": "Un buggy è come un piccolo fuoristrada con roll-bar. È ideale per le coppie o per un genitore con un figlio, perché si siede in due uno accanto all’altro, e per i principianti risulta un po’ più sicuro di un quad. È molto divertente sulle grandi dune e sulle colline rocciose di Agafay, vicino a Marrakech."
+      }
+    },
+    {
+      "heading": {
+        "en": "The 4x4: see the most in one day",
+        "es": "El 4x4: ver lo máximo en un día",
+        "it": "Il 4x4: vedere il massimo in un giorno"
+      },
+      "text": {
+        "en": "A 4x4 tour around Erg Chebbi covers the widest area: the nomad tents, the village of Khamlia with its Gnawa music, the old mines, the black volcanic stones and the seasonal lake when there is water. It is comfortable and relaxed, and perfect if you want to understand the region, not just the dunes.",
+        "es": "Un tour en 4x4 alrededor de Erg Chebbi cubre la zona más amplia: las jaimas nómadas, el pueblo de Khamlia con su música gnawa, las antiguas minas, las piedras volcánicas negras y el lago estacional cuando hay agua. Es cómodo y tranquilo, y perfecto si quieres entender la región y no solo las dunas.",
+        "it": "Un tour in 4x4 intorno a Erg Chebbi copre l’area più ampia: le tende dei nomadi, il villaggio di Khamlia con la sua musica gnawa, le vecchie miniere, le pietre vulcaniche nere e il lago stagionale quando c’è acqua. È comodo e rilassato, e perfetto se vuoi capire la regione e non solo le dune."
+      }
+    },
+    {
+      "heading": {
+        "en": "How to choose",
+        "es": "Cómo elegir",
+        "it": "Come scegliere"
+      },
+      "text": {
+        "en": "If you have only one evening, take the camel at sunset — it is the soul of the desert. If you have a full day, add a quad or buggy in the morning and a 4x4 tour in the afternoon. Safety first: always ride with a professional guide, follow the instructions and never go into the dunes alone.",
+        "es": "Si solo tienes una tarde, elige el camello al atardecer: es el alma del desierto. Si tienes un día entero, añade un quad o un buggy por la mañana y un tour en 4x4 por la tarde. La seguridad primero: ve siempre con un guía profesional, sigue las indicaciones y nunca te adentres solo en las dunas.",
+        "it": "Se hai solo una sera, scegli il cammello al tramonto: è l’anima del deserto. Se hai una giornata intera, aggiungi un quad o un buggy al mattino e un tour in 4x4 nel pomeriggio. Prima di tutto la sicurezza: vai sempre con una guida professionista, segui le istruzioni e non addentrarti mai da solo tra le dune."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "label": {
+        "en": "Most romantic",
+        "es": "Más romántico",
+        "it": "Il più romantico"
+      },
+      "value": {
+        "en": "Camel at sunset",
+        "es": "Camello al atardecer",
+        "it": "Cammello al tramonto"
+      }
+    },
+    {
+      "label": {
+        "en": "Most adrenaline",
+        "es": "Más adrenalina",
+        "it": "Più adrenalina"
+      },
+      "value": {
+        "en": "Quad biking",
+        "es": "Quad",
+        "it": "Quad"
+      }
+    },
+    {
+      "label": {
+        "en": "Best for two",
+        "es": "Ideal para dos",
+        "it": "Ideale in due"
+      },
+      "value": {
+        "en": "Buggy",
+        "es": "Buggy",
+        "it": "Buggy"
+      }
+    },
+    {
+      "label": {
+        "en": "See the most",
+        "es": "Para ver más",
+        "it": "Per vedere di più"
+      },
+      "value": {
+        "en": "4x4 tour",
+        "es": "Tour en 4x4",
+        "it": "Tour in 4x4"
+      }
+    }
+  ],
+  "related": [
+    {
+      "page": "activities.html",
+      "label": {
+        "en": "Merzouga activities",
+        "es": "Actividades en Merzouga",
+        "it": "Attività a Merzouga"
+      }
+    },
+    {
+      "page": "agafay-activities.html",
+      "label": {
+        "en": "Agafay & Marrakech activities",
+        "es": "Actividades en Agafay y Marrakech",
+        "it": "Attività ad Agafay e Marrakech"
+      }
+    },
+    {
+      "page": "tour-3day-merzouga.html",
+      "label": {
+        "en": "3 Days Marrakech to Merzouga",
+        "es": "3 días de Marrakech a Merzouga",
+        "it": "3 giorni da Marrakech a Merzouga"
+      }
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "title": "3 Days Tour from Ouarzazate to Marrakech",
+  "type": "tour",
+  "category": "ouarzazate",
+  "order": 501,
+  "show_on_home": true,
+  "home_extra": [
+    "shared"
+  ],
+  "price": "",
+  "image": "/images/tour-ozm3.jpg",
+  "image_position": "center 42%",
+  "meta_description": "3-day desert tour from Ouarzazate to Marrakech: Kasbah Taourirt, Draa Valley, camel trek and luxury desert camp in Erg Chebbi, Todra Gorge, Dades Valley, Ait Ben Haddou and the Tizi n’Tichka pass.",
+  "eyebrow": {
+    "en": "Ouarzazate · Merzouga · Marrakech",
+    "es": "Ouarzazate · Merzouga · Marrakech",
+    "it": "Ouarzazate · Merzouga · Marrakech"
+  },
+  "title_line1": {
+    "en": "3 Days Tour",
+    "es": "3 días de viaje",
+    "it": "3 giorni di viaggio"
+  },
+  "title_line2": {
+    "en": "from Ouarzazate to Marrakech",
+    "es": "de Ouarzazate a Marrakech",
+    "it": "da Ouarzazate a Marrakech"
+  },
+  "duration": {
+    "en": "3 days",
+    "es": "3 días",
+    "it": "3 giorni"
+  },
+  "duration_short": {
+    "en": "3 days",
+    "es": "3 días",
+    "it": "3 giorni"
+  },
+  "start": "Ouarzazate",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "3 Days Tour from Ouarzazate to Marrakech",
+      "es": "3 días de Ouarzazate a Marrakech",
+      "it": "3 giorni da Ouarzazate a Marrakech"
+    },
+    "highlights": {
+      "en": "Kasbah Taourirt · Draa Valley · Erg Chebbi camp · Todra · Ait Ben Haddou",
+      "es": "Kasbah de Taourirt · valle del Draa · campamento en Erg Chebbi · Todra · Ait Ben Haddou",
+      "it": "Kasbah di Taourirt · valle del Draa · campo a Erg Chebbi · Todra · Ait Ben Haddou"
+    },
+    "route": [
+      "Ouarzazate",
+      "Merzouga",
+      "Dades",
+      "Marrakech"
+    ],
+    "image_alt": "3 Days Tour from Ouarzazate to Marrakech"
+  },
+  "overview": [
+    {
+      "en": "Embark on a breathtaking 3-day desert journey from Ouarzazate to Marrakech. Discover ancient kasbahs, marvel at the beauty of the Sahara Desert, and traverse the stunning Atlas Mountains. This tour offers a perfect blend of Morocco’s history, culture, and natural wonders.",
+      "es": "Emprende un impresionante viaje de 3 días por el desierto de Ouarzazate a Marrakech. Descubre antiguas kasbahs, maravíllate con la belleza del desierto del Sáhara y cruza las impresionantes montañas del Atlas. Este tour ofrece la combinación perfecta de historia, cultura y maravillas naturales de Marruecos.",
+      "it": "Intraprendi uno splendido viaggio di 3 giorni nel deserto da Ouarzazate a Marrakech. Scopri antiche kasbah, ammira la bellezza del deserto del Sahara e attraversa le spettacolari montagne dell’Atlante. Questo tour offre il perfetto equilibrio tra storia, cultura e meraviglie naturali del Marocco."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "Visit the cinematic city of Ouarzazate and its famous kasbahs",
+        "es": "Visita Ouarzazate, la ciudad del cine, y sus famosas kasbahs",
+        "it": "Visita Ouarzazate, la città del cinema, e le sue famose kasbah"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Experience the magic of the Sahara Desert with a camel trek",
+        "es": "Vive la magia del Sáhara con un paseo en camello",
+        "it": "Vivi la magia del Sahara con un’escursione in cammello"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Spend a night under the starry desert sky in a luxury camp",
+        "es": "Pasa una noche bajo el cielo estrellado en un campamento de lujo",
+        "it": "Trascorri una notte sotto il cielo stellato in un campo di lusso"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Explore the UNESCO World Heritage Site of Ait Ben Haddou",
+        "es": "Explora Ait Ben Haddou, Patrimonio de la UNESCO",
+        "it": "Esplora Ait Ben Haddou, patrimonio UNESCO"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Drive through the scenic High Atlas Mountains to Marrakech",
+        "es": "Cruza el bonito Alto Atlas hasta Marrakech",
+        "it": "Attraversa il panoramico Alto Atlante fino a Marrakech"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Ouarzazate",
+    "Draa Valley",
+    "Merzouga",
+    "Dades",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Ouarzazate to Merzouga – Gateway to the Sahara",
+        "es": "Ouarzazate a Merzouga – La puerta del Sáhara",
+        "it": "Ouarzazate a Merzouga – La porta del Sahara"
+      },
+      "text": {
+        "en": "Your tour begins in Ouarzazate, known as the “Hollywood of Morocco,” where you’ll explore its famous kasbahs and scenic surroundings, including Kasbah Taourirt, a historic fortified village. From there, travel through the picturesque Draa Valley, dotted with lush palm groves, striking oases and traditional Berber villages, before reaching the desert town of Merzouga. Arrive in Merzouga for a camel trek into the golden dunes of the Erg Chebbi Desert, and enjoy a traditional Moroccan dinner and music around the campfire in a luxury desert camp.",
+        "es": "Tu tour comienza en Ouarzazate, conocida como el “Hollywood de Marruecos”, donde descubrirás sus famosas kasbahs y sus alrededores, como la kasbah de Taourirt, un histórico pueblo fortificado. Desde allí recorrerás el pintoresco valle del Draa, salpicado de frondosos palmerales, oasis y pueblos bereberes tradicionales, hasta llegar a Merzouga. Al llegar, paseo en camello por las dunas doradas de Erg Chebbi y cena marroquí tradicional con música junto al fuego en un campamento de lujo.",
+        "it": "Il tour inizia a Ouarzazate, conosciuta come la “Hollywood del Marocco”, dove esplorerai le sue famose kasbah e i dintorni, tra cui la kasbah di Taourirt, storico villaggio fortificato. Da lì attraverserai la pittoresca valle del Draa, punteggiata di palmeti, oasi e villaggi berberi tradizionali, fino a Merzouga. All’arrivo, escursione in cammello tra le dune dorate di Erg Chebbi e cena marocchina tradizionale con musica intorno al fuoco in un campo di lusso."
+      },
+      "overnight": {
+        "en": "Luxury desert camp in Merzouga",
+        "es": "Campamento de lujo en Merzouga",
+        "it": "Campo di lusso a Merzouga"
+      },
+      "breakfast": false,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga to Dades Valley – Gorges and Kasbahs",
+        "es": "Merzouga al valle del Dades – Gargantas y kasbahs",
+        "it": "Merzouga alla valle del Dades – Gole e kasbah"
+      },
+      "text": {
+        "en": "Wake up early to witness the mesmerizing sunrise over the dunes, then journey towards the stunning Dades Valley, passing through remarkable landscapes and fascinating sites. Visit the towering cliffs of Todra Gorge, one of Morocco’s most dramatic canyons, explore traditional Berber villages and kasbahs along the route, and drive through the Dades Valley, famous for its “Monkey Fingers” rock formations and scenic beauty.",
+        "es": "Levántate temprano para ver el fascinante amanecer sobre las dunas y sigue hacia el impresionante valle del Dades, entre paisajes y lugares fascinantes. Visita los altísimos acantilados de la garganta del Todra, uno de los cañones más espectaculares de Marruecos, descubre pueblos bereberes y kasbahs por el camino y recorre el valle del Dades, famoso por las rocas de los “Dedos de Mono” y su belleza.",
+        "it": "Sveglia presto per un’alba incantevole sulle dune, poi in viaggio verso la splendida valle del Dades, tra paesaggi e luoghi affascinanti. Visita le altissime pareti della gola del Todra, uno dei canyon più spettacolari del Marocco, scopri villaggi berberi e kasbah lungo il percorso e attraversa la valle del Dades, famosa per le rocce delle “Dita di Scimmia” e per la sua bellezza."
+      },
+      "overnight": {
+        "en": "Charming riad in the Dades Valley",
+        "es": "Riad con encanto en el valle del Dades",
+        "it": "Riad di charme nella valle del Dades"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Dades Valley to Marrakech – Ait Ben Haddou and Atlas Mountains",
+        "es": "Valle del Dades a Marrakech – Ait Ben Haddou y el Atlas",
+        "it": "Valle del Dades a Marrakech – Ait Ben Haddou e l’Atlante"
+      },
+      "text": {
+        "en": "On the final day, head towards Marrakech, stopping to visit the legendary Ait Ben Haddou, a UNESCO World Heritage Site and historic fortress featured in many films and TV shows. Cross the High Atlas Mountains via the Tizi n’Tichka Pass, where panoramic views of valleys and peaks await, and arrive in the vibrant city of Marrakech, where your tour concludes.",
+        "es": "El último día irás hacia Marrakech, con parada en el legendario Ait Ben Haddou, Patrimonio de la UNESCO e histórica fortaleza que aparece en muchas películas y series. Cruza el Alto Atlas por el puerto de Tizi n’Tichka, con vistas panorámicas de valles y cumbres, y llega a la animada Marrakech, donde termina tu tour.",
+        "it": "L’ultimo giorno ti dirigerai verso Marrakech, con sosta nel leggendario Ait Ben Haddou, patrimonio UNESCO e storica fortezza apparsa in molti film e serie. Attraversa l’Alto Atlante sul passo del Tizi n’Tichka, con viste panoramiche su valli e vette, e arriva nella vivace Marrakech, dove il tour si conclude."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Pickup & dropoff service",
+      "es": "Servicio de recogida y traslado",
+      "it": "Servizio di prelievo e accompagnamento"
+    },
+    {
+      "en": "English/Spanish speaking driver",
+      "es": "Conductor que habla inglés/español",
+      "it": "Autista che parla inglese/spagnolo"
+    },
+    {
+      "en": "Private transportation in an SUV or minivan with A/C",
+      "es": "Transporte privado en SUV o minivan con aire acondicionado",
+      "it": "Trasporto privato in SUV o minivan con aria condizionata"
+    },
+    {
+      "en": "Camel for each person in the desert",
+      "es": "Un camello por persona en el desierto",
+      "it": "Un cammello per persona nel deserto"
+    },
+    {
+      "en": "Accommodations",
+      "es": "Alojamiento",
+      "it": "Alloggi"
+    },
+    {
+      "en": "Breakfasts",
+      "es": "Desayunos",
+      "it": "Colazioni"
+    },
+    {
+      "en": "Dinners",
+      "es": "Cenas",
+      "it": "Cene"
+    }
+  ],
+  "not_included_extra": [
+    {
+      "en": "Plane ticket",
+      "es": "Billete de avión",
+      "it": "Biglietto aereo"
+    }
+  ],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Ouarzazate",
+      "description": {
+        "en": "Kasbah Taourirt · start",
+        "es": "Kasbah de Taourirt · salida",
+        "it": "Kasbah di Taourirt · partenza"
+      }
+    },
+    {
+      "name": "Draa Valley",
+      "description": {
+        "en": "Palm oases",
+        "es": "Oasis de palmeras",
+        "it": "Oasi di palme"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Desert camp · night 1",
+        "es": "Campamento · noche 1",
+        "it": "Campo · notte 1"
+      }
+    },
+    {
+      "name": "Todra Gorge",
+      "description": {
+        "en": "Towering cliffs",
+        "es": "Altos acantilados",
+        "it": "Pareti altissime"
+      }
+    },
+    {
+      "name": "Dades Valley",
+      "description": {
+        "en": "Night 2",
+        "es": "Noche 2",
+        "it": "Notte 2"
+      }
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "description": {
+        "en": "UNESCO ksar",
+        "es": "Ksar UNESCO",
+        "it": "Ksar UNESCO"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "End",
+        "es": "Fin",
+        "it": "Fine"
+      }
+    }
+  ],
+  "map_route": [
+    "Ouarzazate",
+    "Agdz",
+    "Nkob",
+    "Alnif",
+    "Rissani",
+    "Merzouga",
+    "Tinghir",
+    "Boumalne Dades",
+    "Ouarzazate",
+    "Ait Ben Haddou",
+    "Marrakech"
+  ],
+  "planner": {
+    "show": true,
+    "days": 3,
+    "start": "ouarzazate",
+    "tags": [
+      "desert",
+      "mountains"
+    ]
+  }
+}

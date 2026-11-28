@@ -1,0 +1,388 @@
+{
+  "title": "5 Days Ouarzazate to Marrakech Sahara Trip",
+  "type": "tour",
+  "category": "ouarzazate",
+  "order": 503,
+  "show_on_home": true,
+  "home_extra": [],
+  "price": "",
+  "image": "/images/tour-ozm5.jpg",
+  "image_position": "center 30%",
+  "meta_description": "5-day Sahara trip from Ouarzazate to Marrakech: Ait Ben Haddou, Skoura, Valley of Roses, Dades and Todra Gorges, camel trek and luxury desert camp in Erg Chebbi, Ziz Valley, Middle Atlas, Fes and Chefchaouen.",
+  "eyebrow": {
+    "en": "Ouarzazate · Sahara · Fes · Chefchaouen · Marrakech",
+    "es": "Ouarzazate · Sáhara · Fez · Chefchaouen · Marrakech",
+    "it": "Ouarzazate · Sahara · Fes · Chefchaouen · Marrakech"
+  },
+  "title_line1": {
+    "en": "5 Days Sahara Trip",
+    "es": "5 días por el Sáhara",
+    "it": "5 giorni nel Sahara"
+  },
+  "title_line2": {
+    "en": "from Ouarzazate to Marrakech",
+    "es": "de Ouarzazate a Marrakech",
+    "it": "da Ouarzazate a Marrakech"
+  },
+  "duration": {
+    "en": "5 days",
+    "es": "5 días",
+    "it": "5 giorni"
+  },
+  "duration_short": {
+    "en": "5 days",
+    "es": "5 días",
+    "it": "5 giorni"
+  },
+  "start": "Ouarzazate",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "5 Days Ouarzazate to Marrakech Sahara Trip",
+      "es": "5 días de Ouarzazate a Marrakech por el Sáhara",
+      "it": "5 giorni da Ouarzazate a Marrakech nel Sahara"
+    },
+    "highlights": {
+      "en": "Dades · Todra · Erg Chebbi camp · Fes · Chefchaouen",
+      "es": "Dades · Todra · campamento en Erg Chebbi · Fez · Chefchaouen",
+      "it": "Dades · Todra · campo a Erg Chebbi · Fes · Chefchaouen"
+    },
+    "route": [
+      "Ouarzazate",
+      "Merzouga",
+      "Fes",
+      "Marrakech"
+    ],
+    "image_alt": "5 Days Ouarzazate to Marrakech Sahara Trip"
+  },
+  "overview": [
+    {
+      "en": "Embark on an unforgettable 5-day Sahara trip from Ouarzazate to Marrakech, a journey that takes you through Morocco’s most iconic landscapes. From cinematic kasbahs to the towering dunes of Erg Chebbi, and the winding alleys of Chefchaouen to the vibrant city of Marrakech, this tour blends adventure, history, and culture into one incredible experience.",
+      "es": "Emprende un viaje inolvidable de 5 días por el Sáhara de Ouarzazate a Marrakech, que te lleva por los paisajes más emblemáticos de Marruecos. De las kasbahs de película a las altas dunas de Erg Chebbi, y de las callejuelas de Chefchaouen a la animada Marrakech, este tour une aventura, historia y cultura en una experiencia increíble.",
+      "it": "Intraprendi un indimenticabile viaggio di 5 giorni nel Sahara da Ouarzazate a Marrakech, attraverso i paesaggi più iconici del Marocco. Dalle kasbah da film alle alte dune di Erg Chebbi, dai vicoli di Chefchaouen alla vivace Marrakech, questo tour unisce avventura, storia e cultura in un’esperienza incredibile."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "Explore the ancient Kasbahs of Ouarzazate, the gateway to the desert",
+        "es": "Descubre las antiguas kasbahs de Ouarzazate, la puerta del desierto",
+        "it": "Esplora le antiche kasbah di Ouarzazate, la porta del deserto"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Discover the stunning Dades and Todra Gorges, nature’s dramatic masterpieces",
+        "es": "Descubre las impresionantes gargantas del Dades y del Todra, obras maestras de la naturaleza",
+        "it": "Scopri le splendide gole del Dades e del Todra, capolavori della natura"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Experience the Sahara with a camel trek and a night in a luxury desert camp",
+        "es": "Vive el Sáhara con un paseo en camello y una noche en un campamento de lujo",
+        "it": "Vivi il Sahara con un’escursione in cammello e una notte in un campo di lusso"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Visit the blue-hued town of Chefchaouen, Morocco’s “Blue Pearl”",
+        "es": "Visita Chefchaouen, la “Perla Azul” de Marruecos",
+        "it": "Visita Chefchaouen, la “Perla Blu” del Marocco"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Stroll through the historic medinas of Fes and Marrakech",
+        "es": "Pasea por las medinas históricas de Fez y Marrakech",
+        "it": "Passeggia nelle medine storiche di Fes e Marrakech"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Ouarzazate",
+    "Dades",
+    "Merzouga",
+    "Fes",
+    "Chefchaouen",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Ouarzazate to Dades Gorges – Through the Valley of a Thousand Kasbahs",
+        "es": "Ouarzazate a las gargantas del Dades – El valle de las mil kasbahs",
+        "it": "Ouarzazate alle gole del Dades – La valle delle mille kasbah"
+      },
+      "text": {
+        "en": "Begin your adventure in Ouarzazate, visiting the famous Kasbah Ait Benhaddou, a UNESCO World Heritage Site, and explore its cinematic landscapes. Travel through the Valley of Roses and the lush Skoura Oasis, reaching the breathtaking Dades Gorges by evening. Overnight stay in a traditional riad in Dades.",
+        "es": "Comienza tu aventura en Ouarzazate visitando la famosa kasbah de Ait Benhaddou, Patrimonio de la UNESCO, y descubre sus paisajes de cine. Recorre el valle de las Rosas y el frondoso oasis de Skoura hasta llegar a las impresionantes gargantas del Dades al atardecer. Noche en un riad tradicional en el Dades.",
+        "it": "Inizia l’avventura a Ouarzazate visitando la famosa kasbah di Ait Benhaddou, patrimonio UNESCO, ed esplora i suoi paesaggi da film. Attraversa la valle delle Rose e la rigogliosa oasi di Skoura fino alle spettacolari gole del Dades in serata. Notte in un riad tradizionale nel Dades."
+      },
+      "overnight": {
+        "en": "Traditional riad in the Dades",
+        "es": "Riad tradicional en el Dades",
+        "it": "Riad tradizionale nel Dades"
+      },
+      "breakfast": false,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Dades Gorges to Merzouga – Into the Sahara Desert",
+        "es": "Gargantas del Dades a Merzouga – Al desierto del Sáhara",
+        "it": "Gole del Dades a Merzouga – Nel deserto del Sahara"
+      },
+      "text": {
+        "en": "Head to the dramatic Todra Gorges and walk between their towering cliffs, before journeying to the desert town of Merzouga. In the afternoon, embark on a camel trek across the golden dunes of Erg Chebbi, where you’ll watch the sunset over the Sahara. End your day at a luxury desert camp, experiencing traditional Berber hospitality and enjoying dinner under a blanket of stars.",
+        "es": "Dirígete a las espectaculares gargantas del Todra y camina entre sus altísimos acantilados antes de seguir hacia Merzouga. Por la tarde, paseo en camello por las dunas doradas de Erg Chebbi para ver la puesta de sol sobre el Sáhara. Termina el día en un campamento de lujo, con la hospitalidad bereber tradicional y la cena bajo un manto de estrellas.",
+        "it": "Raggiungi le spettacolari gole del Todra e cammina tra le loro altissime pareti, prima di proseguire verso Merzouga. Nel pomeriggio, escursione in cammello tra le dune dorate di Erg Chebbi per il tramonto sul Sahara. Concludi la giornata in un campo di lusso, con l’ospitalità berbera tradizionale e la cena sotto un manto di stelle."
+      },
+      "overnight": {
+        "en": "Luxury desert camp",
+        "es": "Campamento de lujo",
+        "it": "Campo di lusso"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga to Fes – Journey Through History",
+        "es": "Merzouga a Fez – Viaje por la historia",
+        "it": "Merzouga a Fes – Viaggio nella storia"
+      },
+      "text": {
+        "en": "After a magical sunrise in the desert, begin your journey north to Fes. Pass through the Ziz Valley, dotted with palm groves, and stop at the cedar forests of the Middle Atlas Mountains, home to Barbary monkeys. Arrive in Fes by evening and explore its bustling medina.",
+        "es": "Tras un amanecer mágico en el desierto, empieza el viaje hacia el norte, a Fez. Pasa por el valle del Ziz, salpicado de palmerales, y para en los bosques de cedros del Medio Atlas, hogar de los monos de Berbería. Llegada a Fez por la tarde para descubrir su bulliciosa medina.",
+        "it": "Dopo un’alba magica nel deserto, inizia il viaggio verso nord, a Fes. Attraversa la valle dello Ziz, punteggiata di palmeti, e fermati nelle foreste di cedri del Medio Atlante, dove vivono le bertucce. Arrivo a Fes in serata per scoprire la sua animata medina."
+      },
+      "overnight": {
+        "en": "Fes",
+        "es": "Fez",
+        "it": "Fes"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Fes to Chefchaouen – The Blue Pearl of Morocco",
+        "es": "Fez a Chefchaouen – La Perla Azul de Marruecos",
+        "it": "Fes a Chefchaouen – La Perla Blu del Marocco"
+      },
+      "text": {
+        "en": "Depart Fes in the morning and head to Chefchaouen, a picturesque town nestled in the Rif Mountains. Wander through its charming blue-washed streets, visit the main square and the Kasbah Museum, soak in its relaxed vibe, and enjoy the local cuisine. Overnight stay in a cozy riad.",
+        "es": "Sal de Fez por la mañana hacia Chefchaouen, un pueblo pintoresco en las montañas del Rif. Pasea por sus encantadoras calles azules, visita la plaza principal y el Museo de la Kasbah, disfruta de su ambiente relajado y de la cocina local. Noche en un acogedor riad.",
+        "it": "Partenza da Fes al mattino verso Chefchaouen, pittoresco paese tra i monti del Rif. Passeggia tra le sue incantevoli vie blu, visita la piazza principale e il Museo della Kasbah, goditi l’atmosfera rilassata e la cucina locale. Notte in un accogliente riad."
+      },
+      "overnight": {
+        "en": "Cozy riad in Chefchaouen",
+        "es": "Riad acogedor en Chefchaouen",
+        "it": "Accogliente riad a Chefchaouen"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Chefchaouen to Marrakech – End Your Adventure in the Red City",
+        "es": "Chefchaouen a Marrakech – Final en la Ciudad Roja",
+        "it": "Chefchaouen a Marrakech – Fine nella Città Rossa"
+      },
+      "text": {
+        "en": "Conclude your journey with a drive to Marrakech, Morocco’s vibrant cultural hub, through the scenic landscapes of northern Morocco, with stops at notable landmarks along the way. In Marrakech, explore its bustling souks, the vibrant Jemaa el-Fnaa square and the historic medina. The tour ends with drop-off at your accommodation.",
+        "es": "Termina tu viaje con la ruta hasta Marrakech, el animado centro cultural de Marruecos, por los bonitos paisajes del norte, con paradas en lugares destacados por el camino. En Marrakech, descubre sus bulliciosos zocos, la animada plaza Jemaa el-Fnaa y la medina histórica. El tour termina con el traslado a tu alojamiento.",
+        "it": "Concludi il viaggio con la strada verso Marrakech, vivace centro culturale del Marocco, tra i paesaggi del nord, con soste nei luoghi più importanti lungo il percorso. A Marrakech esplora i suoi souk animati, la vivace piazza Jemaa el-Fnaa e la medina storica. Il tour termina con l’accompagnamento al tuo alloggio."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Pickup & dropoff service",
+      "es": "Servicio de recogida y traslado",
+      "it": "Servizio di prelievo e accompagnamento"
+    },
+    {
+      "en": "English/Spanish speaking driver",
+      "es": "Conductor que habla inglés/español",
+      "it": "Autista che parla inglese/spagnolo"
+    },
+    {
+      "en": "Private transportation in an SUV or minivan with A/C",
+      "es": "Transporte privado en SUV o minivan con aire acondicionado",
+      "it": "Trasporto privato in SUV o minivan con aria condizionata"
+    },
+    {
+      "en": "Camel for each person in the desert",
+      "es": "Un camello por persona en el desierto",
+      "it": "Un cammello per persona nel deserto"
+    },
+    {
+      "en": "Accommodations",
+      "es": "Alojamiento",
+      "it": "Alloggi"
+    },
+    {
+      "en": "Breakfasts",
+      "es": "Desayunos",
+      "it": "Colazioni"
+    },
+    {
+      "en": "Dinners",
+      "es": "Cenas",
+      "it": "Cene"
+    }
+  ],
+  "not_included_extra": [
+    {
+      "en": "Plane ticket",
+      "es": "Billete de avión",
+      "it": "Biglietto aereo"
+    }
+  ],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Ouarzazate",
+      "description": {
+        "en": "Start",
+        "es": "Salida",
+        "it": "Partenza"
+      }
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "description": {
+        "en": "UNESCO ksar",
+        "es": "Ksar UNESCO",
+        "it": "Ksar UNESCO"
+      }
+    },
+    {
+      "name": "Skoura",
+      "description": {
+        "en": "Palm oasis",
+        "es": "Oasis de palmeras",
+        "it": "Oasi di palme"
+      }
+    },
+    {
+      "name": "Dades Gorges",
+      "description": {
+        "en": "Night 1",
+        "es": "Noche 1",
+        "it": "Notte 1"
+      }
+    },
+    {
+      "name": "Todra Gorges",
+      "description": {
+        "en": "Towering cliffs",
+        "es": "Altos acantilados",
+        "it": "Pareti altissime"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Desert camp · night 2",
+        "es": "Campamento · noche 2",
+        "it": "Campo · notte 2"
+      }
+    },
+    {
+      "name": "Ziz Valley",
+      "description": {
+        "en": "Palm groves",
+        "es": "Palmerales",
+        "it": "Palmeti"
+      }
+    },
+    {
+      "name": "Fes",
+      "description": {
+        "en": "Night 3",
+        "es": "Noche 3",
+        "it": "Notte 3"
+      }
+    },
+    {
+      "name": "Chefchaouen",
+      "description": {
+        "en": "Night 4",
+        "es": "Noche 4",
+        "it": "Notte 4"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "End",
+        "es": "Fin",
+        "it": "Fine"
+      }
+    }
+  ],
+  "map_route": [
+    "Ouarzazate",
+    "Ait Ben Haddou",
+    "Ouarzazate",
+    "Skoura",
+    "Boumalne Dades",
+    "Tinghir",
+    "Merzouga",
+    "Errachidia",
+    "Midelt",
+    "Azrou",
+    "Fes",
+    "Chefchaouen",
+    "Marrakech"
+  ],
+  "planner": {
+    "show": true,
+    "days": 5,
+    "start": "ouarzazate",
+    "tags": [
+      "desert",
+      "mountains"
+    ]
+  }
+}

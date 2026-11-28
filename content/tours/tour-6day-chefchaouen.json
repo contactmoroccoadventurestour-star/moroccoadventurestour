@@ -1,0 +1,433 @@
+{
+  "title": "6 Days From Marrakech to Chefchaouen via Sahara",
+  "type": "tour",
+  "category": "marrakech",
+  "order": 5,
+  "show_on_home": true,
+  "home_extra": [],
+  "price": "",
+  "image": "/images/tour-chef6.jpg",
+  "image_position": "center 55%",
+  "meta_description": "Private 6-day tour from Marrakech to Chefchaouen via the Sahara: High Atlas, Ait Ben Haddou, Dades and Todra, a night in the Merzouga dunes, Fes with a local guide, Volubilis and the blue city.",
+  "eyebrow": {
+    "en": "Private tour · South to North",
+    "es": "Tour privado · De sur a norte",
+    "it": "Tour privato · Da sud a nord"
+  },
+  "title_line1": {
+    "en": "6 Days from Marrakech",
+    "es": "6 días desde Marrakech",
+    "it": "6 giorni da Marrakech"
+  },
+  "title_line2": {
+    "en": "to Chefchaouen via Sahara",
+    "es": "a Chefchaouen por el Sáhara",
+    "it": "a Chefchaouen via Sahara"
+  },
+  "duration": {
+    "en": "6 days · 5 nights",
+    "es": "6 días · 5 noches",
+    "it": "6 giorni · 5 notti"
+  },
+  "duration_short": {
+    "en": "6 days",
+    "es": "6 días",
+    "it": "6 giorni"
+  },
+  "start": "Marrakech",
+  "end": "Chefchaouen",
+  "card": {
+    "title": {
+      "en": "6 Days From Marrakech to Chefchaouen via Sahara",
+      "es": "6 días de Marrakech a Chefchaouen por el Sáhara",
+      "it": "6 giorni da Marrakech a Chefchaouen via Sahara"
+    },
+    "highlights": {
+      "en": "Ait Ben Haddou · Todra · Erg Chebbi camp · Fes · Volubilis · the blue city",
+      "es": "Ait Ben Haddou · Todra · campamento en Erg Chebbi · Fez · Volubilis · la ciudad azul",
+      "it": "Ait Ben Haddou · Todra · campo a Erg Chebbi · Fes · Volubilis · la città blu"
+    },
+    "route": [
+      "Marrakech",
+      "Merzouga",
+      "Fes",
+      "Chefchaouen"
+    ],
+    "image_alt": "6 Days From Marrakech to Chefchaouen via Sahara"
+  },
+  "overview": [
+    {
+      "en": "From the red walls of Marrakech to the blue streets of Chefchaouen, this six-day journey crosses Morocco from south to north — mountains, kasbahs, desert, imperial cities and the Rif, all in one route.",
+      "es": "De las murallas rojas de Marrakech a las calles azules de Chefchaouen, este viaje de seis días cruza Marruecos de sur a norte: montañas, kasbahs, desierto, ciudades imperiales y el Rif en una sola ruta.",
+      "it": "Dalle mura rosse di Marrakech alle strade blu di Chefchaouen, questo viaggio di sei giorni attraversa il Marocco da sud a nord: montagne, kasbah, deserto, città imperiali e il Rif in un unico percorso."
+    },
+    {
+      "en": "You leave Marrakech over the Tizi n’Tichka pass in the High Atlas, visit the UNESCO kasbah of Ait Ben Haddou and follow the valleys of the south — Ouarzazate, the Rose Valley, Dades and the dramatic cliffs of the Todra Gorges.",
+      "es": "Sales de Marrakech por el puerto de Tizi n’Tichka en el Alto Atlas, visitas la kasbah de Ait Ben Haddou (UNESCO) y sigues los valles del sur: Ouarzazate, el valle de las Rosas, el Dades y los impresionantes acantilados de las gargantas del Todra.",
+      "it": "Lasci Marrakech attraverso il passo del Tizi n’Tichka nell’Alto Atlante, visiti la kasbah di Ait Ben Haddou (UNESCO) e segui le valli del sud: Ouarzazate, la valle delle Rose, il Dades e le spettacolari pareti delle gole del Todra."
+    },
+    {
+      "en": "In Merzouga you ride a camel into the Erg Chebbi dunes at sunset and sleep in a desert camp under the stars. Then the road climbs north through the Ziz Valley, Midelt, the cedar forests of the Middle Atlas and Ifrane to Fes.",
+      "es": "En Merzouga montas en camello por las dunas de Erg Chebbi al atardecer y duermes en un campamento bajo las estrellas. Después la carretera sube hacia el norte por el valle del Ziz, Midelt, los bosques de cedros del Medio Atlas e Ifrane hasta Fez.",
+      "it": "A Merzouga entri in cammello tra le dune di Erg Chebbi al tramonto e dormi in un campo tendato sotto le stelle. Poi la strada sale verso nord attraverso la valle dello Ziz, Midelt, le foreste di cedri del Medio Atlante e Ifrane fino a Fes."
+    },
+    {
+      "en": "A local guide shows you the medina of Fes, its souks, tanneries and monuments. On the last stage you visit Meknes and the Roman ruins of Volubilis before reaching Chefchaouen, the calm blue town in the mountains of the north.",
+      "es": "Un guía local te enseña la medina de Fez, sus zocos, curtidurías y monumentos. En la última etapa visitas Meknes y las ruinas romanas de Volubilis antes de llegar a Chefchaouen, el tranquilo pueblo azul en las montañas del norte.",
+      "it": "Una guida locale ti mostra la medina di Fes, i suoi souk, le concerie e i monumenti. Nell’ultima tappa visiti Meknes e le rovine romane di Volubilis prima di arrivare a Chefchaouen, la tranquilla città blu tra le montagne del nord."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "High Atlas & Ait Ben Haddou",
+        "es": "Alto Atlas y Ait Ben Haddou",
+        "it": "Alto Atlante e Ait Ben Haddou"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Dades Valley & Todra Gorges",
+        "es": "Valle del Dades y gargantas del Todra",
+        "it": "Valle del Dades e gole del Todra"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Sunset camel ride in Erg Chebbi",
+        "es": "Camello al atardecer en Erg Chebbi",
+        "it": "Cammello al tramonto a Erg Chebbi"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Night in a desert camp",
+        "es": "Noche en un campamento",
+        "it": "Notte in un campo tendato"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Fes medina with a local guide",
+        "es": "Medina de Fez con guía local",
+        "it": "Medina di Fes con guida locale"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Volubilis & Chefchaouen",
+        "es": "Volubilis y Chefchaouen",
+        "it": "Volubilis e Chefchaouen"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Marrakech",
+    "Ait Ben Haddou",
+    "Dades",
+    "Merzouga",
+    "Fes",
+    "Volubilis",
+    "Chefchaouen"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Marrakech – Ait Ben Haddou – Dades Valley",
+        "es": "Marrakech – Ait Ben Haddou – valle del Dades",
+        "it": "Marrakech – Ait Ben Haddou – valle del Dades"
+      },
+      "text": {
+        "en": "We pick you up at your accommodation in Marrakech and drive into the High Atlas over the Tizi n’Tichka pass, stopping for views and Berber villages. Visit the kasbah of Ait Ben Haddou, famous for its earthen architecture, then continue through Ouarzazate, Skoura and the Rose Valley to the Dades Valley for dinner and the night.",
+        "es": "Te recogemos en tu alojamiento de Marrakech y cruzamos el Alto Atlas por el puerto de Tizi n’Tichka, con paradas para vistas y pueblos bereberes. Visitamos la kasbah de Ait Ben Haddou, famosa por su arquitectura de tierra, y seguimos por Ouarzazate, Skoura y el valle de las Rosas hasta el valle del Dades para cenar y dormir.",
+        "it": "Ti veniamo a prendere al tuo alloggio a Marrakech e attraversiamo l’Alto Atlante sul passo del Tizi n’Tichka, con soste per panorami e villaggi berberi. Visitiamo la kasbah di Ait Ben Haddou, famosa per la sua architettura in terra, poi proseguiamo per Ouarzazate, Skoura e la valle delle Rose fino alla valle del Dades per cena e pernottamento."
+      },
+      "overnight": {
+        "en": "Hotel or riad in Dades Valley",
+        "es": "Hotel o riad en el valle del Dades",
+        "it": "Hotel o riad nella valle del Dades"
+      },
+      "breakfast": false,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Dades – Todra Gorges – Merzouga",
+        "es": "Dades – gargantas del Todra – Merzouga",
+        "it": "Dades – gole del Todra – Merzouga"
+      },
+      "text": {
+        "en": "After breakfast we drive to the Todra Gorges and walk between its high rock walls. The road continues through Tinjadad and Erfoud to Merzouga, at the edge of the Erg Chebbi dunes. Ride a camel into the dunes for the sunset, then reach your camp for dinner and a quiet night under the stars.",
+        "es": "Después del desayuno vamos a las gargantas del Todra y caminamos entre sus altas paredes de roca. Seguimos por Tinjdad y Erfoud hasta Merzouga, junto a las dunas de Erg Chebbi. Montas en camello hacia las dunas para el atardecer y llegas al campamento para cenar y pasar una noche tranquila bajo las estrellas.",
+        "it": "Dopo colazione andiamo alle gole del Todra e camminiamo tra le loro alte pareti di roccia. Proseguiamo per Tinjdad ed Erfoud fino a Merzouga, ai margini delle dune di Erg Chebbi. Entri in cammello tra le dune per il tramonto e raggiungi il campo per la cena e una notte tranquilla sotto le stelle."
+      },
+      "overnight": {
+        "en": "Desert camp in Merzouga",
+        "es": "Campamento en Merzouga",
+        "it": "Campo tendato a Merzouga"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga – Ziz Valley – Ifrane – Fes",
+        "es": "Merzouga – valle del Ziz – Ifrane – Fez",
+        "it": "Merzouga – valle dello Ziz – Ifrane – Fes"
+      },
+      "text": {
+        "en": "Wake up for the sunrise over the dunes and have breakfast at the camp. We head north via the market town of Rissani, the palm groves of the Ziz Valley, Errachidia and Midelt, then cross the Middle Atlas through cedar forests and Ifrane before arriving in Fes in the evening.",
+        "es": "Te despiertas para ver el amanecer sobre las dunas y desayunas en el campamento. Vamos hacia el norte por el mercado de Rissani, los palmerales del valle del Ziz, Errachidia y Midelt, y cruzamos el Medio Atlas entre bosques de cedros e Ifrane antes de llegar a Fez por la tarde.",
+        "it": "Sveglia per l’alba sulle dune e colazione al campo. Saliamo verso nord passando per il mercato di Rissani, i palmeti della valle dello Ziz, Errachidia e Midelt, poi attraversiamo il Medio Atlante tra foreste di cedri e Ifrane prima di arrivare a Fes in serata."
+      },
+      "overnight": {
+        "en": "Hotel or riad in Fes",
+        "es": "Hotel o riad en Fez",
+        "it": "Hotel o riad a Fes"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Fes with a local guide",
+        "es": "Fez con guía local",
+        "it": "Fes con guida locale"
+      },
+      "text": {
+        "en": "A full day in Fes, one of Morocco’s oldest imperial cities, with a local guide: the medina’s narrow streets, souks, historic gates, medersas and artisan quarters, including the famous tanneries. In the afternoon, enjoy a viewpoint over the medina before returning to your riad.",
+        "es": "Un día completo en Fez, una de las ciudades imperiales más antiguas de Marruecos, con un guía local: las callejuelas de la medina, zocos, puertas históricas, medersas y barrios de artesanos, incluidas las famosas curtidurías. Por la tarde, disfruta de un mirador sobre la medina antes de volver a tu riad.",
+        "it": "Una giornata intera a Fes, una delle più antiche città imperiali del Marocco, con una guida locale: i vicoli della medina, i souk, le porte storiche, le medersa e i quartieri artigiani, comprese le famose concerie. Nel pomeriggio, un belvedere sulla medina prima di rientrare al riad."
+      },
+      "overnight": {
+        "en": "Hotel or riad in Fes",
+        "es": "Hotel o riad en Fez",
+        "it": "Hotel o riad a Fes"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Fes – Meknes – Volubilis – Chefchaouen",
+        "es": "Fez – Meknes – Volubilis – Chefchaouen",
+        "it": "Fes – Meknes – Volubilis – Chefchaouen"
+      },
+      "text": {
+        "en": "We leave Fes for Meknes, the imperial city of great gates and walls, then visit Volubilis, the Roman ruins set in open countryside. The road continues through green hills to Chefchaouen, where you arrive in the afternoon or evening.",
+        "es": "Salimos de Fez hacia Meknes, la ciudad imperial de grandes puertas y murallas, y visitamos Volubilis, las ruinas romanas en pleno campo. La carretera sigue entre colinas verdes hasta Chefchaouen, donde llegas por la tarde o al anochecer.",
+        "it": "Lasciamo Fes per Meknes, la città imperiale delle grandi porte e mura, poi visitiamo Volubilis, le rovine romane immerse nella campagna. La strada prosegue tra colline verdi fino a Chefchaouen, dove arrivi nel pomeriggio o in serata."
+      },
+      "overnight": {
+        "en": "Hotel or riad in Chefchaouen",
+        "es": "Hotel o riad en Chefchaouen",
+        "it": "Hotel o riad a Chefchaouen"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Free time in Chefchaouen",
+        "es": "Tiempo libre en Chefchaouen",
+        "it": "Tempo libero a Chefchaouen"
+      },
+      "text": {
+        "en": "After breakfast, explore Chefchaouen at your own pace: the blue alleys, small squares, local shops and mountain views. Your tour ends with drop-off at your accommodation in Chefchaouen.",
+        "es": "Después del desayuno, explora Chefchaouen a tu ritmo: callejuelas azules, plazas, tiendas locales y vistas a la montaña. El tour termina con el traslado a tu alojamiento en Chefchaouen.",
+        "it": "Dopo colazione, esplora Chefchaouen con calma: vicoli blu, piazzette, negozi locali e panorami di montagna. Il tour termina con l’accompagnamento al tuo alloggio a Chefchaouen."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Pick-up at your accommodation in Marrakech",
+      "es": "Recogida en tu alojamiento en Marrakech",
+      "it": "Ritiro al tuo alloggio a Marrakech"
+    },
+    {
+      "en": "Drop-off at your accommodation in Chefchaouen",
+      "es": "Traslado a tu alojamiento en Chefchaouen",
+      "it": "Accompagnamento al tuo alloggio a Chefchaouen"
+    },
+    {
+      "en": "Private modern vehicle with A/C, fuel included",
+      "es": "Vehículo privado moderno con A/C, combustible incluido",
+      "it": "Veicolo privato moderno con A/C, carburante incluso"
+    },
+    {
+      "en": "Experienced English/Spanish-speaking driver-guide",
+      "es": "Conductor-guía con experiencia que habla inglés y español",
+      "it": "Autista-guida esperto che parla inglese e spagnolo"
+    },
+    {
+      "en": "Sunset camel trek in Erg Chebbi",
+      "es": "Paseo en camello al atardecer en Erg Chebbi",
+      "it": "Escursione in cammello al tramonto a Erg Chebbi"
+    },
+    {
+      "en": "4 nights in a private room in a hotel or riad",
+      "es": "4 noches en habitación privada en hotel o riad",
+      "it": "4 notti in camera privata in hotel o riad"
+    },
+    {
+      "en": "1 night in a desert camp",
+      "es": "1 noche en un campamento del desierto",
+      "it": "1 notte in un campo tendato"
+    },
+    {
+      "en": "Local guide in Fes",
+      "es": "Guía local en Fez",
+      "it": "Guida locale a Fes"
+    },
+    {
+      "en": "Dinners and breakfasts",
+      "es": "Cenas y desayunos",
+      "it": "Cene e colazioni"
+    },
+    {
+      "en": "Optional 4×4 transfer to the camp instead of the camels",
+      "es": "Traslado opcional en 4×4 al campamento en lugar de camellos",
+      "it": "Trasferimento facoltativo in 4×4 al campo al posto dei cammelli"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Start",
+        "es": "Salida",
+        "it": "Partenza"
+      }
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "description": {
+        "en": "UNESCO kasbah",
+        "es": "Kasbah UNESCO",
+        "it": "Kasbah UNESCO"
+      }
+    },
+    {
+      "name": "Dades Valley",
+      "description": {
+        "en": "Night 1",
+        "es": "Noche 1",
+        "it": "Notte 1"
+      }
+    },
+    {
+      "name": "Todra Gorges",
+      "description": {
+        "en": "Rock canyon",
+        "es": "Cañón de roca",
+        "it": "Canyon di roccia"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Desert camp · night 2",
+        "es": "Campamento · noche 2",
+        "it": "Campo tendato · notte 2"
+      }
+    },
+    {
+      "name": "Ifrane",
+      "description": {
+        "en": "Middle Atlas",
+        "es": "Medio Atlas",
+        "it": "Medio Atlante"
+      }
+    },
+    {
+      "name": "Fes",
+      "description": {
+        "en": "Nights 3 & 4",
+        "es": "Noches 3 y 4",
+        "it": "Notti 3 e 4"
+      }
+    },
+    {
+      "name": "Volubilis",
+      "description": {
+        "en": "Roman ruins",
+        "es": "Ruinas romanas",
+        "it": "Rovine romane"
+      }
+    },
+    {
+      "name": "Chefchaouen",
+      "description": {
+        "en": "The blue city · end",
+        "es": "La ciudad azul · fin",
+        "it": "La città blu · fine"
+      }
+    }
+  ],
+  "map_route": [
+    "Marrakech",
+    "Ait Ben Haddou",
+    "Boumalne Dades",
+    "Tinghir",
+    "Merzouga",
+    "Ifrane",
+    "Fes",
+    "Volubilis",
+    "Chefchaouen"
+  ],
+  "planner": {
+    "show": true,
+    "days": 6,
+    "start": "marrakech",
+    "tags": [
+      "desert",
+      "cities",
+      "mountains"
+    ]
+  }
+}

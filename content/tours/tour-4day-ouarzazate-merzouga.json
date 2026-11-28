@@ -1,0 +1,351 @@
+{
+  "title": "4 Days Desert Tour from Ouarzazate to Merzouga",
+  "type": "tour",
+  "category": "ouarzazate",
+  "order": 502,
+  "show_on_home": true,
+  "home_extra": [
+    "authentic"
+  ],
+  "price": "",
+  "image": "/images/tour-ozz4.jpg",
+  "image_position": "center 55%",
+  "meta_description": "4-day desert tour from Ouarzazate to Merzouga and back: Kasbah Taourirt, Draa Valley, Agdz, Alnif, camel trek and luxury desert camp in Erg Chebbi, Khamlia, nomad families, Rissani and Nkob.",
+  "eyebrow": {
+    "en": "Ouarzazate · Merzouga · Ouarzazate",
+    "es": "Ouarzazate · Merzouga · Ouarzazate",
+    "it": "Ouarzazate · Merzouga · Ouarzazate"
+  },
+  "title_line1": {
+    "en": "4 Days Desert Tour",
+    "es": "4 días por el desierto",
+    "it": "4 giorni nel deserto"
+  },
+  "title_line2": {
+    "en": "from Ouarzazate to Merzouga",
+    "es": "de Ouarzazate a Merzouga",
+    "it": "da Ouarzazate a Merzouga"
+  },
+  "duration": {
+    "en": "4 days",
+    "es": "4 días",
+    "it": "4 giorni"
+  },
+  "duration_short": {
+    "en": "4 days",
+    "es": "4 días",
+    "it": "4 giorni"
+  },
+  "start": "Ouarzazate",
+  "end": "Ouarzazate",
+  "card": {
+    "title": {
+      "en": "4 Days Desert Tour from Ouarzazate to Merzouga",
+      "es": "4 días de Ouarzazate a Merzouga",
+      "it": "4 giorni da Ouarzazate a Merzouga"
+    },
+    "highlights": {
+      "en": "Draa Valley · Agdz · 2 nights in Erg Chebbi · Khamlia · Rissani · Nkob",
+      "es": "Valle del Draa · Agdz · 2 noches en Erg Chebbi · Khamlia · Rissani · Nkob",
+      "it": "Valle del Draa · Agdz · 2 notti a Erg Chebbi · Khamlia · Rissani · Nkob"
+    },
+    "route": [
+      "Ouarzazate",
+      "Agdz",
+      "Merzouga",
+      "Ouarzazate"
+    ],
+    "image_alt": "4 Days Desert Tour from Ouarzazate to Merzouga"
+  },
+  "overview": [
+    {
+      "en": "Embark on an incredible 4-day desert tour from Ouarzazate to Merzouga, designed for travelers seeking an authentic Sahara experience. Journey through breathtaking landscapes, ancient kasbahs, and traditional Berber villages, culminating in the golden dunes of the Sahara Desert.",
+      "es": "Emprende un increíble tour de 4 días por el desierto de Ouarzazate a Merzouga, pensado para viajeros que buscan una experiencia auténtica en el Sáhara. Recorre paisajes impresionantes, antiguas kasbahs y pueblos bereberes tradicionales hasta llegar a las dunas doradas del desierto del Sáhara.",
+      "it": "Intraprendi un incredibile tour di 4 giorni nel deserto da Ouarzazate a Merzouga, pensato per chi cerca un’esperienza autentica nel Sahara. Attraversa paesaggi mozzafiato, antiche kasbah e villaggi berberi tradizionali fino alle dune dorate del deserto del Sahara."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "Explore the cinematic landscapes of Ouarzazate and its famous kasbahs",
+        "es": "Descubre los paisajes de cine de Ouarzazate y sus famosas kasbahs",
+        "it": "Esplora i paesaggi da film di Ouarzazate e le sue famose kasbah"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Traverse the lush Draa Valley, home to thousands of date palms",
+        "es": "Recorre el frondoso valle del Draa, con miles de palmeras datileras",
+        "it": "Attraversa la rigogliosa valle del Draa, con migliaia di palme da dattero"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Experience a magical camel trek in the Erg Chebbi Dunes",
+        "es": "Vive un paseo mágico en camello por las dunas de Erg Chebbi",
+        "it": "Vivi un’escursione magica in cammello tra le dune di Erg Chebbi"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Spend an unforgettable night in a luxury desert camp under the stars",
+        "es": "Pasa una noche inolvidable en un campamento de lujo bajo las estrellas",
+        "it": "Trascorri una notte indimenticabile in un campo di lusso sotto le stelle"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Visit ancient kasbahs and learn about Moroccan history and culture",
+        "es": "Visita antiguas kasbahs y conoce la historia y la cultura de Marruecos",
+        "it": "Visita antiche kasbah e scopri la storia e la cultura del Marocco"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Ouarzazate",
+    "Agdz",
+    "Merzouga",
+    "Nkob",
+    "Ouarzazate"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Ouarzazate to Agdz – A Journey Through the Draa Valley",
+        "es": "Ouarzazate a Agdz – Por el valle del Draa",
+        "it": "Ouarzazate ad Agdz – Nella valle del Draa"
+      },
+      "text": {
+        "en": "Begin your journey in Ouarzazate, the “Gateway to the Desert,” and visit the Kasbah Taourirt, a UNESCO World Heritage Site. Head toward Agdz, traveling through the spectacular Draa Valley, where you’ll witness sprawling palm groves, traditional Berber villages, and scenic mountain landscapes. Overnight stay in Agdz at a charming guesthouse.",
+        "es": "Comienza tu viaje en Ouarzazate, la “Puerta del Desierto”, y visita la kasbah de Taourirt, Patrimonio de la UNESCO. Dirígete a Agdz por el espectacular valle del Draa, donde verás extensos palmerales, pueblos bereberes tradicionales y bonitos paisajes de montaña. Noche en Agdz, en una casa de huéspedes con encanto.",
+        "it": "Inizia il viaggio a Ouarzazate, la “Porta del Deserto”, e visita la kasbah di Taourirt, patrimonio UNESCO. Prosegui verso Agdz attraverso la spettacolare valle del Draa, tra vasti palmeti, villaggi berberi tradizionali e paesaggi di montagna. Notte ad Agdz in un’affascinante guesthouse."
+      },
+      "overnight": {
+        "en": "Charming guesthouse in Agdz",
+        "es": "Casa de huéspedes con encanto en Agdz",
+        "it": "Guesthouse di charme ad Agdz"
+      },
+      "breakfast": false,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Agdz to Merzouga – Gateway to the Sahara",
+        "es": "Agdz a Merzouga – La puerta del Sáhara",
+        "it": "Agdz a Merzouga – La porta del Sahara"
+      },
+      "text": {
+        "en": "Travel deeper into the Moroccan desert, passing through Alnif and other small villages, across rocky desert terrain and oasis towns, before reaching the stunning Erg Chebbi Dunes in Merzouga. In the late afternoon, enjoy a camel ride through the towering dunes and witness a breathtaking sunset. Savor a traditional Moroccan dinner at a luxury desert camp and spend the night under the stars in the heart of the Sahara.",
+        "es": "Adéntrate en el desierto marroquí pasando por Alnif y otros pequeños pueblos, entre terreno rocoso y oasis, hasta llegar a las impresionantes dunas de Erg Chebbi en Merzouga. A última hora de la tarde, disfruta de un paseo en camello por las altas dunas y de una puesta de sol impresionante. Saborea una cena marroquí tradicional en un campamento de lujo y pasa la noche bajo las estrellas en el corazón del Sáhara.",
+        "it": "Addentrati nel deserto marocchino passando per Alnif e altri piccoli villaggi, tra terreni rocciosi e oasi, fino alle splendide dune di Erg Chebbi a Merzouga. Nel tardo pomeriggio goditi un giro in cammello tra le alte dune e un tramonto mozzafiato. Cena marocchina tradizionale in un campo di lusso e notte sotto le stelle nel cuore del Sahara."
+      },
+      "overnight": {
+        "en": "Luxury desert camp",
+        "es": "Campamento de lujo",
+        "it": "Campo di lusso"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga – Full Day Desert Exploration",
+        "es": "Merzouga – Un día entero en el desierto",
+        "it": "Merzouga – Giornata intera nel deserto"
+      },
+      "text": {
+        "en": "Spend a full day exploring the beauty and culture of the Sahara Desert. Visit nearby nomadic communities, fossil sites, and picturesque oases, immersing yourself in the desert’s tranquil atmosphere. Discover the traditional way of life of Berber nomads, visit Khamlia Village to experience Gnawa music and culture, and explore the black desert and fossil-rich areas around Merzouga.",
+        "es": "Dedica un día entero a descubrir la belleza y la cultura del desierto del Sáhara. Visita comunidades nómadas, yacimientos de fósiles y oasis pintorescos, disfrutando del ambiente tranquilo del desierto. Conoce la forma de vida tradicional de los nómadas bereberes, visita el pueblo de Khamlia para vivir la música y la cultura gnawa y explora el desierto negro y las zonas ricas en fósiles alrededor de Merzouga.",
+        "it": "Trascorri una giornata intera alla scoperta della bellezza e della cultura del deserto del Sahara. Visita comunità nomadi, siti di fossili e oasi pittoresche, immerso nell’atmosfera tranquilla del deserto. Scopri lo stile di vita tradizionale dei nomadi berberi, visita il villaggio di Khamlia per vivere la musica e la cultura gnawa ed esplora il deserto nero e le zone ricche di fossili intorno a Merzouga."
+      },
+      "overnight": {
+        "en": "Luxury desert camp or riad in Merzouga",
+        "es": "Campamento de lujo o riad en Merzouga",
+        "it": "Campo di lusso o riad a Merzouga"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga to Ouarzazate – Return Through the Desert",
+        "es": "Merzouga a Ouarzazate – Regreso por el desierto",
+        "it": "Merzouga a Ouarzazate – Ritorno nel deserto"
+      },
+      "text": {
+        "en": "After enjoying a sunrise over the dunes, make your way back to Ouarzazate via Rissani, a historic trading town, and Nkob, known for its kasbahs. Experience the lively market of Rissani, one of Morocco’s oldest souks, stop for scenic views and photo opportunities in Nkob, and end the tour with picturesque views of the desert landscapes, returning to Ouarzazate by evening.",
+        "es": "Tras disfrutar del amanecer sobre las dunas, regresa a Ouarzazate pasando por Rissani, una histórica ciudad comercial, y Nkob, conocida por sus kasbahs. Vive el animado mercado de Rissani, uno de los zocos más antiguos de Marruecos, para a hacer fotos en Nkob y termina el tour con bonitas vistas del desierto, llegando a Ouarzazate por la tarde.",
+        "it": "Dopo l’alba sulle dune, rientro a Ouarzazate passando per Rissani, storica città commerciale, e Nkob, nota per le sue kasbah. Vivi il vivace mercato di Rissani, uno dei souk più antichi del Marocco, fermati per foto e panorami a Nkob e concludi il tour con splendide viste sul deserto, con arrivo a Ouarzazate in serata."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Pickup & dropoff service",
+      "es": "Servicio de recogida y traslado",
+      "it": "Servizio di prelievo e accompagnamento"
+    },
+    {
+      "en": "English/Spanish speaking driver",
+      "es": "Conductor que habla inglés/español",
+      "it": "Autista che parla inglese/spagnolo"
+    },
+    {
+      "en": "Private transportation in an SUV or minivan with A/C",
+      "es": "Transporte privado en SUV o minivan con aire acondicionado",
+      "it": "Trasporto privato in SUV o minivan con aria condizionata"
+    },
+    {
+      "en": "Camel for each person in the desert",
+      "es": "Un camello por persona en el desierto",
+      "it": "Un cammello per persona nel deserto"
+    },
+    {
+      "en": "Accommodations",
+      "es": "Alojamiento",
+      "it": "Alloggi"
+    },
+    {
+      "en": "Breakfasts",
+      "es": "Desayunos",
+      "it": "Colazioni"
+    },
+    {
+      "en": "Dinners",
+      "es": "Cenas",
+      "it": "Cene"
+    }
+  ],
+  "not_included_extra": [
+    {
+      "en": "Plane ticket",
+      "es": "Billete de avión",
+      "it": "Biglietto aereo"
+    }
+  ],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Ouarzazate",
+      "description": {
+        "en": "Kasbah Taourirt · start",
+        "es": "Kasbah de Taourirt · salida",
+        "it": "Kasbah di Taourirt · partenza"
+      }
+    },
+    {
+      "name": "Agdz",
+      "description": {
+        "en": "Draa Valley · night 1",
+        "es": "Valle del Draa · noche 1",
+        "it": "Valle del Draa · notte 1"
+      }
+    },
+    {
+      "name": "Alnif",
+      "description": {
+        "en": "Desert villages",
+        "es": "Pueblos del desierto",
+        "it": "Villaggi del deserto"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Desert camp · nights 2–3",
+        "es": "Campamento · noches 2–3",
+        "it": "Campo · notti 2–3"
+      }
+    },
+    {
+      "name": "Khamlia",
+      "description": {
+        "en": "Gnawa music",
+        "es": "Música gnawa",
+        "it": "Musica gnawa"
+      }
+    },
+    {
+      "name": "Rissani",
+      "description": {
+        "en": "Old souk",
+        "es": "Viejo zoco",
+        "it": "Antico souk"
+      }
+    },
+    {
+      "name": "Nkob",
+      "description": {
+        "en": "Kasbahs",
+        "es": "Kasbahs",
+        "it": "Kasbah"
+      }
+    },
+    {
+      "name": "Ouarzazate",
+      "description": {
+        "en": "End",
+        "es": "Fin",
+        "it": "Fine"
+      }
+    }
+  ],
+  "map_route": [
+    "Ouarzazate",
+    "Agdz",
+    "Nkob",
+    "Alnif",
+    "Merzouga",
+    "Rissani",
+    "Alnif",
+    "Nkob",
+    "Agdz",
+    "Ouarzazate"
+  ],
+  "planner": {
+    "show": true,
+    "days": 4,
+    "start": "ouarzazate",
+    "tags": [
+      "desert",
+      "mountains"
+    ]
+  }
+}

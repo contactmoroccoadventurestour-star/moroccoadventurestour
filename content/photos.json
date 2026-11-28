@@ -1,0 +1,82 @@
+{
+  "home": {
+    "pp_bg": "/images/pp-bg.jpg",
+    "hero_poster": "/images/hero-poster.jpg",
+    "day_essaouira": "/images/day-essaouira.jpg",
+    "day_ourika": "/images/day-ourika.jpg",
+    "day_ouzoud": "/images/day-ouzoud.jpg"
+  },
+  "tours": {
+    "tour_tg10": "/images/tour-tg10.jpg",
+    "tour_tg12": "/images/tour-tg12.jpg",
+    "tour_mk12": "/images/tour-mk12.jpg",
+    "tour_cs12": "/images/tour-cs12.jpg",
+    "tour_er2": "/images/tour-er2.jpg",
+    "tour_fes_merzouga2": "/images/tour-fes-merzouga2.jpg",
+    "tour_zagora": "/images/tour-zagora.jpg",
+    "tour_fes_marrakech3": "/images/tour-fes-marrakech3.jpg",
+    "tour_er3": "/images/tour-er3.jpg",
+    "tour_fes_merzouga3": "/images/tour-fes-merzouga3.jpg",
+    "tour_merzouga3": "/images/tour-merzouga3.jpg",
+    "tour_oz3": "/images/tour-oz3.jpg",
+    "tour_ozm3": "/images/tour-ozm3.jpg",
+    "tour_fes": "/images/tour-fes.jpg",
+    "tour_ozz4": "/images/tour-ozz4.jpg",
+    "tour_erf4": "/images/tour-erf4.jpg",
+    "tour_er4": "/images/tour-er4.jpg",
+    "tour_fes_marrakech4": "/images/tour-fes-marrakech4.jpg",
+    "tour_cs4": "/images/tour-cs4.jpg",
+    "tour_merzouga4": "/images/tour-merzouga4.jpg",
+    "tour_er5": "/images/tour-er5.jpg",
+    "tour_mk5": "/images/tour-mk5.jpg",
+    "tour_cs5": "/images/tour-cs5.jpg",
+    "tour_ozm5": "/images/tour-ozm5.jpg",
+    "tour_tg5": "/images/tour-tg5.jpg",
+    "tour_fes5": "/images/tour-fes5.jpg",
+    "tour_chef6": "/images/tour-chef6.jpg",
+    "tour_cs6": "/images/tour-cs6.jpg",
+    "tour_tg6": "/images/tour-tg6.jpg",
+    "tour_cs7": "/images/tour-cs7.jpg",
+    "tour_tg7": "/images/tour-tg7.jpg",
+    "tour_fs7": "/images/tour-fs7.jpg",
+    "tour_mk7": "/images/tour-mk7.jpg",
+    "tour_mk8": "/images/tour-mk8.jpg",
+    "tour_tg8_hero": "/images/tour-tg8-hero.jpg",
+    "tour_cs9": "/images/tour-cs9.jpg"
+  },
+  "daytrips": {
+    "dt_agafay": "/images/dt-agafay.jpg",
+    "dt_essaouira": "/images/dt-essaouira.jpg",
+    "dt_highatlas": "/images/dt-highatlas.jpg",
+    "dt_imlil": "/images/dt-imlil.jpg",
+    "dt_ouarzazate": "/images/dt-ouarzazate.jpg",
+    "dt_ourika": "/images/dt-ourika.jpg",
+    "dt_ouzoud": "/images/dt-ouzoud.jpg"
+  },
+  "special": {
+    "tour_honeymoon": "/images/tour-honeymoon.jpg",
+    "tour_jewish": "/images/tour-jewish.jpg",
+    "tour_photography": "/images/tour-photography.jpg",
+    "tour_student": "/images/tour-student.jpg"
+  },
+  "activities": {
+    "ag_hero": "/images/ag-hero.jpg",
+    "ag_buggy": "/images/ag-buggy.jpg",
+    "ag_camel": "/images/ag-camel.jpg",
+    "ag_balloon": "/images/ag-balloon.jpg",
+    "ag_quad": "/images/ag-quad.jpg",
+    "act_4x4": "/images/act-4x4.jpg",
+    "act_buggy": "/images/act-buggy.jpg",
+    "act_camel": "/images/act-camel.jpg",
+    "act_gnawa": "/images/act-gnawa.jpg",
+    "act_horse": "/images/act-horse.jpg",
+    "act_quad": "/images/act-quad.jpg",
+    "act_sandboard": "/images/act-sandboard.jpg"
+  },
+  "other": {
+    "day_ouarzazate": "/images/day-ouarzazate.jpg",
+    "hero": "/images/hero.jpg",
+    "logo": "/images/logo.png",
+    "og_image": "/images/og-image.jpg"
+  }
+}

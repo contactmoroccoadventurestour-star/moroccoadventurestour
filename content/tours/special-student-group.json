@@ -1,0 +1,430 @@
+{
+  "title": "Morocco Student Group Tour From Tangier",
+  "type": "special",
+  "category": "special",
+  "order": 703,
+  "show_on_home": false,
+  "home_extra": [],
+  "price": "",
+  "image": "/images/tour-student.jpg",
+  "image_position": "center 48%",
+  "meta_description": "7-day private student group tour from Tangier to Marrakech: Chefchaouen, Volubilis, Meknes, Fes with a local guide, Middle Atlas, Merzouga camel trek and desert camp, Todra, Dades and Ait Ben Haddou.",
+  "eyebrow": {
+    "en": "Tangier · Fes · Merzouga · Marrakech",
+    "es": "Tánger · Fez · Merzouga · Marrakech",
+    "it": "Tangeri · Fes · Merzouga · Marrakech"
+  },
+  "title_line1": {
+    "en": "Morocco Student Group",
+    "es": "Tour para grupos de estudiantes",
+    "it": "Tour per gruppi di studenti"
+  },
+  "title_line2": {
+    "en": "Tour From Tangier",
+    "es": "en Marruecos desde Tánger",
+    "it": "in Marocco da Tangeri"
+  },
+  "duration": {
+    "en": "7 Days / 6 Nights",
+    "es": "7 días / 6 noches",
+    "it": "7 giorni / 6 notti"
+  },
+  "duration_short": {
+    "en": "7 Days / 6 Nights",
+    "es": "7 días / 6 noches",
+    "it": "7 giorni / 6 notti"
+  },
+  "start": "Tangier",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "Student group tour from Tangier",
+      "es": "Tour para grupos de estudiantes desde Tánger",
+      "it": "Tour per gruppi di studenti da Tangeri"
+    },
+    "highlights": {
+      "en": "7 Days · Chefchaouen · Fes · desert camp · Todra · Ait Ben Haddou",
+      "es": "7 días · Chefchaouen · Fez · campamento en el desierto · Todra · Ait Ben Haddou",
+      "it": "7 giorni · Chefchaouen · Fes · campo tendato · Todra · Ait Ben Haddou"
+    },
+    "route": [
+      "Tangier",
+      "Merzouga",
+      "Marrakech"
+    ],
+    "image_alt": "Morocco Student Group Tour From Tangier"
+  },
+  "overview": [
+    {
+      "en": "The Morocco Student Group Tour From Tangier is a private educational journey designed for student groups who want to discover Morocco through culture, history, landscapes, cities, and desert experiences. This tour connects northern Morocco with the Sahara desert and Marrakech, offering a balanced route between learning, exploration, and travel.",
+      "es": "El tour para grupos de estudiantes en Marruecos desde Tánger es un viaje educativo privado pensado para grupos de estudiantes que quieren descubrir Marruecos a través de su cultura, su historia, sus paisajes, sus ciudades y el desierto. Este tour une el norte de Marruecos con el desierto del Sáhara y Marrakech, con una ruta equilibrada entre aprendizaje, exploración y viaje.",
+      "it": "Il tour per gruppi di studenti in Marocco da Tangeri è un viaggio educativo privato pensato per gruppi di studenti che vogliono scoprire il Marocco attraverso la cultura, la storia, i paesaggi, le città e il deserto. Questo tour collega il nord del Marocco con il deserto del Sahara e Marrakech, con un percorso equilibrato tra apprendimento, esplorazione e viaggio."
+    },
+    {
+      "en": "Your journey starts in Tangier, one of Morocco’s most important northern cities. From Tangier, the route continues through the Rif Mountains towards Chefchaouen, the famous blue city known for its peaceful streets, mountain views, and traditional atmosphere.",
+      "es": "Tu viaje comienza en Tánger, una de las ciudades más importantes del norte de Marruecos. Desde Tánger, la ruta atraviesa las montañas del Rif hacia Chefchaouen, la famosa ciudad azul conocida por sus calles tranquilas, sus vistas a la montaña y su ambiente tradicional.",
+      "it": "Il tuo viaggio inizia a Tangeri, una delle città più importanti del nord del Marocco. Da Tangeri, il percorso attraversa le montagne del Rif verso Chefchaouen, la famosa città blu nota per le sue strade tranquille, le viste sulle montagne e l’atmosfera tradizionale."
+    },
+    {
+      "en": "The tour continues to Volubilis, Meknes, and Fes, where students can learn about Roman history, imperial cities, old medinas, traditional crafts, and Moroccan architecture. In Fes, the visit includes the old medina, souks, artisan workshops, tanneries, and historic monuments with a local guide.",
+      "es": "El tour continúa hacia Volubilis, Mequinez y Fez, donde los estudiantes podrán aprender sobre la historia romana, las ciudades imperiales, las medinas antiguas, la artesanía tradicional y la arquitectura marroquí. En Fez, la visita incluye la medina antigua, los zocos, los talleres de artesanos, las curtidurías y los monumentos históricos con un guía local.",
+      "it": "Il tour prosegue verso Volubilis, Meknes e Fes, dove gli studenti possono conoscere la storia romana, le città imperiali, le antiche medine, l’artigianato tradizionale e l’architettura marocchina. A Fes, la visita comprende l’antica medina, i souk, le botteghe artigiane, le concerie e i monumenti storici con una guida locale."
+    },
+    {
+      "en": "After Fes, the journey crosses the Middle Atlas Mountains through Ifrane, cedar forest areas, Midelt, and the Ziz Valley before reaching Merzouga. In the Sahara desert, the group will experience camel trekking, sunset views, dinner at the desert camp, and an overnight stay under the stars.",
+      "es": "Después de Fez, el viaje cruza las montañas del Medio Atlas por Ifrane, los bosques de cedros, Midelt y el valle del Ziz antes de llegar a Merzouga. En el desierto del Sáhara, el grupo vivirá un paseo en camello, la puesta de sol, la cena en el campamento y una noche bajo las estrellas.",
+      "it": "Dopo Fes, il viaggio attraversa le montagne del Medio Atlante passando per Ifrane, le foreste di cedri, Midelt e la valle dello Ziz prima di raggiungere Merzouga. Nel deserto del Sahara, il gruppo vivrà l’escursione in cammello, il tramonto, la cena al campo e una notte sotto le stelle."
+    },
+    {
+      "en": "The final part of the tour passes through Rissani, Todra Gorges, Dades Valley, Ouarzazate, Ait Ben Haddou, and the High Atlas Mountains before ending in Marrakech. The Morocco Student Group Tour From Tangier is ideal for school groups, university groups, and educational travelers looking for a structured Morocco itinerary with culture, history, desert, and local experiences.",
+      "es": "La última parte del tour pasa por Rissani, las gargantas del Todra, el valle del Dades, Ouarzazate, Ait Ben Haddou y las montañas del Alto Atlas antes de terminar en Marrakech. El tour para grupos de estudiantes en Marruecos desde Tánger es ideal para grupos escolares, grupos universitarios y viajeros educativos que buscan un itinerario estructurado con cultura, historia, desierto y experiencias locales.",
+      "it": "L’ultima parte del tour passa per Rissani, le gole del Todra, la valle del Dades, Ouarzazate, Ait Ben Haddou e le montagne dell’Alto Atlante prima di terminare a Marrakech. Il tour per gruppi di studenti in Marocco da Tangeri è ideale per gruppi scolastici, gruppi universitari e viaggiatori in cerca di un itinerario strutturato con cultura, storia, deserto ed esperienze locali."
+    }
+  ],
+  "highlights": [],
+  "route": [
+    "Tangier",
+    "Chefchaouen",
+    "Volubilis",
+    "Meknes",
+    "Fes",
+    "Ifrane",
+    "Midelt",
+    "Merzouga",
+    "Todra",
+    "Dades",
+    "Ait Ben Haddou",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Tangier - Rif Mountains - Chefchaouen",
+        "es": "Tánger - Montañas del Rif - Chefchaouen",
+        "it": "Tangeri - Montagne del Rif - Chefchaouen"
+      },
+      "text": {
+        "en": "Your Morocco Student Group Tour From Tangier starts with pick-up from your accommodation, port, airport, or train station in Tangier. After meeting your driver, we leave the city and drive through northern Morocco towards the Rif Mountains. The road passes through mountain landscapes, small villages, and panoramic viewpoints before reaching Chefchaouen. This blue-painted town is one of the most peaceful places in northern Morocco and offers a good introduction to local architecture, daily life, and mountain culture. After arrival, the group will have free time to explore the old medina, walk through the blue streets, visit the main square, and take photos around the town. Dinner and overnight stay will be at a hotel or riad in Chefchaouen.",
+        "es": "Tu tour para grupos de estudiantes en Marruecos desde Tánger comienza con la recogida en tu alojamiento, el puerto, el aeropuerto o la estación de tren de Tánger. Tras conocer a tu chófer, salimos de la ciudad y atravesamos el norte de Marruecos hacia las montañas del Rif. La carretera pasa por paisajes de montaña, pequeños pueblos y miradores panorámicos antes de llegar a Chefchaouen. Este pueblo pintado de azul es uno de los lugares más tranquilos del norte de Marruecos y ofrece una buena introducción a la arquitectura local, la vida cotidiana y la cultura de montaña. A la llegada, el grupo tendrá tiempo libre para explorar la medina antigua, pasear por las calles azules, visitar la plaza principal y hacer fotos por el pueblo. Cena y noche en un hotel o riad de Chefchaouen.",
+        "it": "Il tuo tour per gruppi di studenti in Marocco da Tangeri inizia con il prelievo presso il tuo alloggio, il porto, l’aeroporto o la stazione ferroviaria di Tangeri. Dopo aver incontrato l’autista, lasciamo la città e attraversiamo il nord del Marocco verso le montagne del Rif. La strada passa tra paesaggi di montagna, piccoli villaggi e punti panoramici prima di raggiungere Chefchaouen. Questa cittadina dipinta di blu è uno dei luoghi più tranquilli del nord del Marocco e offre una buona introduzione all’architettura locale, alla vita quotidiana e alla cultura di montagna. All’arrivo, il gruppo avrà tempo libero per esplorare l’antica medina, passeggiare tra le strade blu, visitare la piazza principale e scattare foto in città. Cena e pernottamento in un hotel o riad a Chefchaouen."
+      },
+      "overnight": {
+        "en": "Chefchaouen",
+        "es": "Chefchaouen",
+        "it": "Chefchaouen"
+      },
+      "breakfast": false,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Chefchaouen - Volubilis - Meknes - Fes",
+        "es": "Chefchaouen - Volubilis - Mequinez - Fez",
+        "it": "Chefchaouen - Volubilis - Meknes - Fes"
+      },
+      "text": {
+        "en": "After breakfast, the group will have more free time in Chefchaouen before leaving towards Volubilis. The road passes through hills, villages, and open countryside. Volubilis is one of Morocco’s most important Roman archaeological sites. The group will have time to explore the ruins, old columns, mosaics, and historic remains that show the Roman presence in Morocco. After visiting Volubilis, we continue to Meknes, one of Morocco’s imperial cities. In Meknes, the group can visit the old medina area, Bab Mansour, and historical places linked to the city’s imperial past. After the visit, we continue towards Fes. Dinner and overnight stay will be at a hotel or riad in Fes.",
+        "es": "Después del desayuno, el grupo tendrá más tiempo libre en Chefchaouen antes de salir hacia Volubilis. La carretera pasa por colinas, pueblos y campo abierto. Volubilis es uno de los yacimientos arqueológicos romanos más importantes de Marruecos. El grupo tendrá tiempo para explorar las ruinas, las antiguas columnas, los mosaicos y los restos históricos que muestran la presencia romana en Marruecos. Tras visitar Volubilis, seguimos hacia Mequinez, una de las ciudades imperiales de Marruecos. En Mequinez, el grupo podrá visitar la medina antigua, Bab Mansour y lugares históricos ligados a su pasado imperial. Después de la visita continuamos hacia Fez. Cena y noche en un hotel o riad de Fez.",
+        "it": "Dopo colazione, il gruppo avrà altro tempo libero a Chefchaouen prima di partire verso Volubilis. La strada attraversa colline, villaggi e aperta campagna. Volubilis è uno dei siti archeologici romani più importanti del Marocco. Il gruppo avrà il tempo di esplorare le rovine, le antiche colonne, i mosaici e i resti storici che testimoniano la presenza romana in Marocco. Dopo la visita di Volubilis, proseguiamo verso Meknes, una delle città imperiali del Marocco. A Meknes, il gruppo potrà visitare l’antica medina, Bab Mansour e i luoghi storici legati al suo passato imperiale. Dopo la visita continuiamo verso Fes. Cena e pernottamento in un hotel o riad a Fes."
+      },
+      "overnight": {
+        "en": "Fes",
+        "es": "Fez",
+        "it": "Fes"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Fes Sightseeing Tour With A Local Guide",
+        "es": "Visita de Fez con guía local",
+        "it": "Visita di Fes con guida locale"
+      },
+      "text": {
+        "en": "After breakfast, the group will meet a local guide for a sightseeing tour of Fes, one of Morocco’s oldest imperial cities. The visit can include the old medina, narrow streets, traditional souks, historic gates, old schools, and artisan areas. Students will discover how traditional crafts are made, how the medina is organized, and why Fes is one of Morocco’s most important cultural cities. The visit may also include the famous tanneries and panoramic viewpoints overlooking the old city. Lunch can be taken inside or near the medina. In the afternoon, the group returns to the accommodation. Dinner and overnight stay will be in Fes.",
+        "es": "Después del desayuno, el grupo se reunirá con un guía local para una visita de Fez, una de las ciudades imperiales más antiguas de Marruecos. La visita puede incluir la medina antigua, las calles estrechas, los zocos tradicionales, las puertas históricas, las antiguas madrasas y las zonas de artesanos. Los estudiantes descubrirán cómo se elabora la artesanía tradicional, cómo está organizada la medina y por qué Fez es una de las ciudades culturales más importantes de Marruecos. La visita también puede incluir las famosas curtidurías y miradores panorámicos sobre la ciudad antigua. El almuerzo se puede tomar dentro o cerca de la medina. Por la tarde, el grupo vuelve al alojamiento. Cena y noche en Fez.",
+        "it": "Dopo colazione, il gruppo incontrerà una guida locale per una visita di Fes, una delle più antiche città imperiali del Marocco. La visita può comprendere l’antica medina, le strade strette, i souk tradizionali, le porte storiche, le antiche scuole coraniche e le zone degli artigiani. Gli studenti scopriranno come si realizza l’artigianato tradizionale, come è organizzata la medina e perché Fes è una delle città culturali più importanti del Marocco. La visita può comprendere anche le famose concerie e i punti panoramici sulla città vecchia. Il pranzo si può fare dentro o vicino alla medina. Nel pomeriggio il gruppo rientra all’alloggio. Cena e pernottamento a Fes."
+      },
+      "overnight": {
+        "en": "Fes",
+        "es": "Fez",
+        "it": "Fes"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Fes - Ifrane - Cedar Forest - Midelt - Ziz Valley - Merzouga Desert",
+        "es": "Fez - Ifrane - Bosque de cedros - Midelt - Valle del Ziz - Desierto de Merzouga",
+        "it": "Fes - Ifrane - Foresta di cedri - Midelt - Valle dello Ziz - Deserto di Merzouga"
+      },
+      "text": {
+        "en": "After breakfast, we leave Fes and travel towards the Sahara desert. The route passes through Ifrane, known for its mountain atmosphere and clean streets. After Ifrane, we continue to the cedar forest near Azrou, where Barbary monkeys can sometimes be seen in their natural surroundings. This stop gives the group a short nature break before continuing through the Middle Atlas Mountains. The journey continues towards Midelt, then through the Ziz Valley, famous for its palm groves and panoramic views. Several stops can be made along the way for photos and short explanations about the region. By the afternoon or evening, we arrive in Merzouga, near the dunes of Erg Chebbi. Dinner and overnight stay will be at a hotel or riad near the desert.",
+        "es": "Después del desayuno salimos de Fez rumbo al desierto del Sáhara. La ruta pasa por Ifrane, conocida por su ambiente de montaña y sus calles limpias. Después de Ifrane seguimos hasta el bosque de cedros cerca de Azrou, donde a veces se pueden ver macacos de Berbería en su entorno natural. Esta parada da al grupo una breve pausa en la naturaleza antes de continuar por las montañas del Medio Atlas. El viaje sigue hacia Midelt y luego por el valle del Ziz, famoso por sus palmerales y sus vistas panorámicas. Por el camino se pueden hacer varias paradas para fotos y breves explicaciones sobre la región. Por la tarde o al anochecer llegamos a Merzouga, junto a las dunas de Erg Chebbi. Cena y noche en un hotel o riad cerca del desierto.",
+        "it": "Dopo colazione lasciamo Fes in direzione del deserto del Sahara. Il percorso passa per Ifrane, nota per la sua atmosfera di montagna e le strade pulite. Dopo Ifrane proseguiamo verso la foresta di cedri vicino ad Azrou, dove a volte si possono vedere i macachi berberi nel loro ambiente naturale. Questa sosta offre al gruppo una breve pausa nella natura prima di continuare attraverso le montagne del Medio Atlante. Il viaggio prosegue verso Midelt e poi attraverso la valle dello Ziz, famosa per i suoi palmeti e i panorami. Lungo la strada si possono fare diverse soste per foto e brevi spiegazioni sulla regione. Nel pomeriggio o in serata arriviamo a Merzouga, vicino alle dune di Erg Chebbi. Cena e pernottamento in un hotel o riad vicino al deserto."
+      },
+      "overnight": {
+        "en": "Hotel or riad near Merzouga",
+        "es": "Hotel o riad cerca de Merzouga",
+        "it": "Hotel o riad vicino a Merzouga"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Explore Merzouga Area - Khamlia - Camel Trekking - Desert Camp",
+        "es": "Merzouga - Khamlia - Paseo en camello - Campamento",
+        "it": "Merzouga - Khamlia - Cammello - Campo tendato"
+      },
+      "text": {
+        "en": "After breakfast, we start exploring the Merzouga area. The visit can include Khamlia village, known for its Gnawa music, and nearby desert areas with black volcanic landscapes around the dunes. The group may also visit nomad families living around the desert region and learn more about their traditional way of life. The route continues through small desert villages, palm areas, and viewpoints around Erg Chebbi. In the afternoon, the group will prepare for the camel trek. Everyone will ride camels across the golden dunes and enjoy the sunset over the Sahara. A 4x4 transfer can be arranged as an alternative to camels. After the camel trek, the group will reach the desert camp. Dinner will be served at the camp, followed by a peaceful night under the stars. Overnight stay will be in desert tents.",
+        "es": "Después del desayuno empezamos a explorar la zona de Merzouga. La visita puede incluir el pueblo de Khamlia, conocido por su música gnawa, y zonas cercanas del desierto con paisajes volcánicos negros alrededor de las dunas. El grupo también podrá visitar familias nómadas que viven en la región y conocer su modo de vida tradicional. La ruta continúa por pequeños pueblos del desierto, palmerales y miradores alrededor de Erg Chebbi. Por la tarde, el grupo se preparará para el paseo en camello. Todos montarán en camello por las dunas doradas y disfrutarán de la puesta de sol sobre el Sáhara. Se puede organizar un traslado en 4x4 como alternativa a los camellos. Tras el paseo en camello, el grupo llegará al campamento. La cena se sirve en el campamento, seguida de una noche tranquila bajo las estrellas. Noche en jaimas del desierto.",
+        "it": "Dopo colazione iniziamo a esplorare la zona di Merzouga. La visita può comprendere il villaggio di Khamlia, noto per la sua musica gnawa, e le zone desertiche vicine con paesaggi vulcanici neri intorno alle dune. Il gruppo potrà anche visitare le famiglie nomadi che vivono nella regione e scoprire il loro stile di vita tradizionale. Il percorso continua tra piccoli villaggi del deserto, palmeti e punti panoramici intorno a Erg Chebbi. Nel pomeriggio il gruppo si preparerà per l’escursione in cammello. Tutti cavalcheranno i cammelli tra le dune dorate e ammireranno il tramonto sul Sahara. In alternativa ai cammelli si può organizzare un trasferimento in 4x4. Dopo l’escursione il gruppo raggiungerà il campo tendato. La cena viene servita al campo, seguita da una notte tranquilla sotto le stelle. Pernottamento in tende nel deserto."
+      },
+      "overnight": {
+        "en": "Desert camp, Merzouga",
+        "es": "Campamento en Merzouga",
+        "it": "Campo tendato a Merzouga"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga Desert - Rissani - Todra Gorges - Dades Valley",
+        "es": "Desierto de Merzouga - Rissani - Gargantas del Todra - Valle del Dades",
+        "it": "Deserto di Merzouga - Rissani - Gole del Todra - Valle del Dades"
+      },
+      "text": {
+        "en": "Wake up early to enjoy the sunrise over the dunes before breakfast at the camp. After breakfast, we leave Merzouga and drive towards Rissani, a historic town known for its traditional market and old caravan history. After Rissani, we continue through Erfoud and desert landscapes towards Todra Gorges. These high rocky cliffs are one of the most impressive natural sites in southern Morocco, with time to walk through the gorge and enjoy the scenery. After visiting Todra Gorges, the journey continues through Tinghir and the valley road towards Dades Valley. Along the way, the group will see palm groves, kasbahs, rock formations, and mountain views. Dinner and overnight stay will be at a hotel or riad in Dades Valley.",
+        "es": "Levántate temprano para disfrutar del amanecer sobre las dunas antes del desayuno en el campamento. Después del desayuno salimos de Merzouga hacia Rissani, una ciudad histórica conocida por su mercado tradicional y su antigua historia caravanera. Después de Rissani seguimos por Erfoud y paisajes desérticos hacia las gargantas del Todra. Estos altos acantilados rocosos son uno de los lugares naturales más impresionantes del sur de Marruecos, con tiempo para caminar por la garganta y disfrutar del paisaje. Tras visitar el Todra, el viaje continúa por Tinghir y la carretera del valle hacia el valle del Dades. Por el camino, el grupo verá palmerales, kasbahs, formaciones rocosas y vistas de montaña. Cena y noche en un hotel o riad del valle del Dades.",
+        "it": "Sveglia presto per goderti l’alba sulle dune prima della colazione al campo. Dopo colazione lasciamo Merzouga in direzione di Rissani, una città storica nota per il suo mercato tradizionale e il suo antico passato carovaniero. Dopo Rissani proseguiamo attraverso Erfoud e i paesaggi desertici verso le gole del Todra. Queste alte pareti rocciose sono uno dei luoghi naturali più impressionanti del sud del Marocco, con il tempo per camminare nella gola e godersi il paesaggio. Dopo la visita del Todra, il viaggio continua attraverso Tinghir e la strada della valle verso la valle del Dades. Lungo il percorso il gruppo vedrà palmeti, kasbah, formazioni rocciose e panorami di montagna. Cena e pernottamento in un hotel o riad nella valle del Dades."
+      },
+      "overnight": {
+        "en": "Dades Valley",
+        "es": "Valle del Dades",
+        "it": "Valle del Dades"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Dades Valley - Ouarzazate - Ait Ben Haddou - High Atlas Mountains - Marrakech",
+        "es": "Valle del Dades - Ouarzazate - Ait Ben Haddou - Alto Atlas - Marrakech",
+        "it": "Valle del Dades - Ouarzazate - Ait Ben Haddou - Alto Atlante - Marrakech"
+      },
+      "text": {
+        "en": "After breakfast, we leave Dades Valley and continue through the Rose Valley and Skoura palm groves towards Ouarzazate, often called the gateway to the desert. The journey continues to Ait Ben Haddou Kasbah, one of Morocco’s most famous fortified villages and a strong example of traditional earthen architecture. This stop is useful for learning about kasbah architecture, old caravan routes, and traditional building methods. After the visit, we cross the High Atlas Mountains through the Tizi n’Tichka pass. Several stops can be made along the way for panoramic views, photos, and short breaks. By the late afternoon or evening, we arrive in Marrakech. The Morocco Student Group Tour From Tangier ends with drop-off at your accommodation.",
+        "es": "Después del desayuno salimos del valle del Dades y continuamos por el Valle de las Rosas y los palmerales de Skoura hacia Ouarzazate, a menudo llamada la puerta del desierto. El viaje sigue hasta la kasbah de Ait Ben Haddou, uno de los pueblos fortificados más famosos de Marruecos y un gran ejemplo de arquitectura tradicional de tierra. Esta parada es útil para aprender sobre la arquitectura de las kasbahs, las antiguas rutas de las caravanas y los métodos de construcción tradicionales. Tras la visita cruzamos las montañas del Alto Atlas por el puerto de Tizi n’Tichka. Por el camino se pueden hacer varias paradas para disfrutar de las vistas, hacer fotos y descansar. A última hora de la tarde o por la noche llegamos a Marrakech. El tour para grupos de estudiantes en Marruecos desde Tánger termina con el traslado a tu alojamiento.",
+        "it": "Dopo colazione lasciamo la valle del Dades e proseguiamo attraverso la Valle delle Rose e i palmeti di Skoura verso Ouarzazate, spesso chiamata la porta del deserto. Il viaggio continua verso la kasbah di Ait Ben Haddou, uno dei villaggi fortificati più famosi del Marocco e un grande esempio di architettura tradizionale in terra. Questa tappa è utile per conoscere l’architettura delle kasbah, le antiche vie carovaniere e i metodi di costruzione tradizionali. Dopo la visita attraversiamo le montagne dell’Alto Atlante passando per il passo di Tizi n’Tichka. Lungo la strada si possono fare diverse soste per il panorama, le foto e brevi pause. Nel tardo pomeriggio o in serata arriviamo a Marrakech. Il tour per gruppi di studenti in Marocco da Tangeri termina con il trasferimento al tuo alloggio."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Pick-up from your accommodation, port, airport, or train station in Tangier",
+      "es": "Recogida en tu alojamiento, puerto, aeropuerto o estación de tren de Tánger",
+      "it": "Prelievo presso il tuo alloggio, il porto, l’aeroporto o la stazione ferroviaria di Tangeri"
+    },
+    {
+      "en": "Drop off at your accommodation in Marrakech",
+      "es": "Traslado a tu alojamiento en Marrakech",
+      "it": "Rientro al tuo alloggio a Marrakech"
+    },
+    {
+      "en": "Transport by private modern vehicle with A/C",
+      "es": "Transporte en vehículo privado moderno con aire acondicionado",
+      "it": "Trasporto in veicolo privato moderno con aria condizionata"
+    },
+    {
+      "en": "Car Fuel",
+      "es": "Combustible",
+      "it": "Carburante"
+    },
+    {
+      "en": "Experienced English/Spanish speaking Driver/Guide",
+      "es": "Chófer/guía con experiencia que habla inglés y español",
+      "it": "Autista/guida esperto che parla inglese e spagnolo"
+    },
+    {
+      "en": "Camel Trekking",
+      "es": "Paseo en camello",
+      "it": "Escursione in cammello"
+    },
+    {
+      "en": "Sunset camel ride",
+      "es": "Paseo en camello al atardecer",
+      "it": "Giro in cammello al tramonto"
+    },
+    {
+      "en": "5 nights in a private room at a hotel/riad",
+      "es": "5 noches en habitación privada en hotel/riad",
+      "it": "5 notti in camera privata in hotel/riad"
+    },
+    {
+      "en": "Local guide in Fes",
+      "es": "Guía local en Fez",
+      "it": "Guida locale a Fes"
+    },
+    {
+      "en": "Local guide in Marrakech",
+      "es": "Guía local en Marrakech",
+      "it": "Guida locale a Marrakech"
+    },
+    {
+      "en": "Group coordination support",
+      "es": "Apoyo en la coordinación del grupo",
+      "it": "Supporto per il coordinamento del gruppo"
+    },
+    {
+      "en": "Overnight at the Desert Camp",
+      "es": "Noche en el campamento del desierto",
+      "it": "Pernottamento nel campo tendato"
+    },
+    {
+      "en": "Dinner and breakfast",
+      "es": "Cena y desayuno",
+      "it": "Cena e colazione"
+    },
+    {
+      "en": "4x4 transfer from and to the camp (Alternative to Camels)",
+      "es": "Traslado en 4x4 al campamento y de vuelta (alternativa a los camellos)",
+      "it": "Trasferimento in 4x4 da e per il campo (alternativa ai cammelli)"
+    }
+  ],
+  "not_included_extra": [
+    {
+      "en": "Personal expenses",
+      "es": "Gastos personales",
+      "it": "Spese personali"
+    },
+    {
+      "en": "School or university documentation",
+      "es": "Documentación escolar o universitaria",
+      "it": "Documentazione scolastica o universitaria"
+    }
+  ],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Tangier",
+      "description": {
+        "en": "Day 1 · Pick-up at accommodation, port, airport or station",
+        "es": "Día 1 · Recogida en alojamiento, puerto, aeropuerto o estación",
+        "it": "Giorno 1 · Prelievo in alloggio, porto, aeroporto o stazione"
+      }
+    },
+    {
+      "name": "Chefchaouen",
+      "description": {
+        "en": "Days 1–2 · The blue city in the Rif Mountains",
+        "es": "Días 1–2 · La ciudad azul en el Rif",
+        "it": "Giorni 1–2 · La città blu nel Rif"
+      }
+    },
+    {
+      "name": "Volubilis",
+      "description": {
+        "en": "Day 2 · Roman ruins and mosaics",
+        "es": "Día 2 · Ruinas romanas y mosaicos",
+        "it": "Giorno 2 · Rovine romane e mosaici"
+      }
+    },
+    {
+      "name": "Meknes",
+      "description": {
+        "en": "Day 2 · Old medina and Bab Mansour",
+        "es": "Día 2 · Medina antigua y Bab Mansour",
+        "it": "Giorno 2 · Antica medina e Bab Mansour"
+      }
+    },
+    {
+      "name": "Fes",
+      "description": {
+        "en": "Days 2–3 · Medina, crafts and tanneries with a local guide",
+        "es": "Días 2–3 · Medina, artesanía y curtidurías con guía local",
+        "it": "Giorni 2–3 · Medina, artigianato e concerie con guida locale"
+      }
+    },
+    {
+      "name": "Ifrane & Midelt",
+      "description": {
+        "en": "Day 4 · Cedar forest, Middle Atlas and Ziz Valley",
+        "es": "Día 4 · Bosque de cedros, Medio Atlas y valle del Ziz",
+        "it": "Giorno 4 · Foresta di cedri, Medio Atlante e valle dello Ziz"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Days 4–6 · Khamlia, nomads, camel trek and desert camp",
+        "es": "Días 4–6 · Khamlia, nómadas, camello y campamento",
+        "it": "Giorni 4–6 · Khamlia, nomadi, cammello e campo tendato"
+      }
+    },
+    {
+      "name": "Todra & Dades",
+      "description": {
+        "en": "Day 6 · Gorge walk and night in Dades Valley",
+        "es": "Día 6 · Paseo por la garganta y noche en el Dades",
+        "it": "Giorno 6 · Passeggiata nella gola e notte nel Dades"
+      }
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "description": {
+        "en": "Day 7 · Kasbah architecture and caravan routes",
+        "es": "Día 7 · Arquitectura de las kasbahs y rutas caravaneras",
+        "it": "Giorno 7 · Architettura delle kasbah e vie carovaniere"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Day 7 · Over the High Atlas, drop-off",
+        "es": "Día 7 · Por el Alto Atlas y traslado",
+        "it": "Giorno 7 · Attraverso l’Alto Atlante e trasferimento"
+      }
+    }
+  ],
+  "map_route": [
+    "Tangier, Morocco",
+    "Chefchaouen, Morocco",
+    "Volubilis, Morocco",
+    "Meknes, Morocco",
+    "Fes, Morocco",
+    "Ifrane, Morocco",
+    "Midelt, Morocco",
+    "Merzouga, Morocco",
+    "Todra Gorge, Morocco",
+    "Boumalne Dades, Morocco",
+    "Ait Ben Haddou, Morocco",
+    "Marrakech, Morocco"
+  ],
+  "planner": {
+    "show": true,
+    "days": 7,
+    "start": "tangier",
+    "tags": [
+      "desert",
+      "cities",
+      "mountains"
+    ]
+  }
+}

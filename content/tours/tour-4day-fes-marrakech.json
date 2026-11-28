@@ -1,0 +1,397 @@
+{
+  "title": "4 Days Morocco Desert Tour from Fes to Marrakech",
+  "type": "tour",
+  "category": "fes",
+  "order": 103,
+  "show_on_home": true,
+  "home_extra": [],
+  "price": "",
+  "image": "/images/tour-fes-marrakech4.jpg",
+  "image_position": "center 24%",
+  "meta_description": "Private 4-day desert tour from Fes to Marrakech: Ifrane, Azrou cedar forest, Ziz Valley, camel trek and night in Erg Chebbi, Rissani, Todra Gorge, Dades Valley, Skoura, Ouarzazate, Ait Ben Haddou and Tizi n’Tichka.",
+  "eyebrow": {
+    "en": "Private tour · Fes to Marrakech at an easy pace",
+    "es": "Tour privado · de Fez a Marrakech sin prisas",
+    "it": "Tour privato · da Fes a Marrakech con calma"
+  },
+  "title_line1": {
+    "en": "4 Days Desert Tour",
+    "es": "4 días por el desierto",
+    "it": "4 giorni nel deserto"
+  },
+  "title_line2": {
+    "en": "from Fes to Marrakech",
+    "es": "de Fez a Marrakech",
+    "it": "da Fes a Marrakech"
+  },
+  "duration": {
+    "en": "4 days · 3 nights",
+    "es": "4 días · 3 noches",
+    "it": "4 giorni · 3 notti"
+  },
+  "duration_short": {
+    "en": "4 days",
+    "es": "4 días",
+    "it": "4 giorni"
+  },
+  "start": "Fes",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "4 Days Fes to Marrakech Desert Tour",
+      "es": "4 días de Fez a Marrakech por el desierto",
+      "it": "4 giorni da Fes a Marrakech nel deserto"
+    },
+    "highlights": {
+      "en": "Ifrane · Erg Chebbi camp · Todra · Dades · Skoura · Ait Ben Haddou",
+      "es": "Ifrane · campamento en Erg Chebbi · Todra · Dades · Skoura · Ait Ben Haddou",
+      "it": "Ifrane · campo a Erg Chebbi · Todra · Dades · Skoura · Ait Ben Haddou"
+    },
+    "route": [
+      "Fes",
+      "Merzouga",
+      "Marrakech"
+    ],
+    "image_alt": "4 Days Fes to Marrakech Desert Tour"
+  },
+  "overview": [
+    {
+      "en": "Four days to travel from Fes to Marrakech the long and beautiful way, with time to enjoy each stage: the cedar forests of the Middle Atlas, a night in the Sahara, the gorges and kasbah valleys of the south, and the crossing of the High Atlas.",
+      "es": "Cuatro días para ir de Fez a Marrakech por el camino largo y bonito, con tiempo para disfrutar cada etapa: los bosques de cedros del Medio Atlas, una noche en el Sáhara, las gargantas y los valles de kasbahs del sur y el paso del Alto Atlas.",
+      "it": "Quattro giorni per andare da Fes a Marrakech per la strada lunga e bella, con il tempo di godersi ogni tappa: le foreste di cedri del Medio Atlante, una notte nel Sahara, le gole e le valli delle kasbah del sud e la traversata dell’Alto Atlante."
+    },
+    {
+      "en": "After Ifrane, Azrou and the Ziz Valley, a camel takes you into the dunes of Erg Chebbi for a night in a desert camp. The next day you visit Rissani, walk in the Todra Gorge and sleep in the Dades Valley.",
+      "es": "Tras Ifrane, Azrou y el valle del Ziz, un camello te lleva a las dunas de Erg Chebbi para pasar la noche en un campamento. Al día siguiente visitas Rissani, caminas por la garganta del Todra y duermes en el valle del Dades.",
+      "it": "Dopo Ifrane, Azrou e la valle dello Ziz, un cammello ti porta tra le dune di Erg Chebbi per una notte in un campo tendato. Il giorno dopo visiti Rissani, cammini nella gola del Todra e dormi nella valle del Dades."
+    },
+    {
+      "en": "The third day is the day of the kasbahs: the Skoura oasis and Kasbah Amridil, Ouarzazate and the UNESCO ksar of Ait Ben Haddou, where you spend the night, before crossing the Tizi n’Tichka to Marrakech.",
+      "es": "El tercer día es el de las kasbahs: el oasis de Skoura y la kasbah Amridil, Ouarzazate y el ksar de Ait Ben Haddou (UNESCO), donde pasas la noche antes de cruzar el Tizi n’Tichka hacia Marrakech.",
+      "it": "Il terzo giorno è quello delle kasbah: l’oasi di Skoura e la kasbah Amridil, Ouarzazate e lo ksar UNESCO di Ait Ben Haddou, dove passi la notte prima di attraversare il Tizi n’Tichka verso Marrakech."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "Ifrane & the Azrou cedar forest",
+        "es": "Ifrane y el bosque de cedros de Azrou",
+        "it": "Ifrane e la foresta di cedri di Azrou"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Camel trek & Erg Chebbi camp",
+        "es": "Camello y campamento en Erg Chebbi",
+        "it": "Cammello e campo a Erg Chebbi"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Rissani market & medfouna",
+        "es": "Mercado de Rissani y medfouna",
+        "it": "Mercato di Rissani e medfouna"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Todra Gorge & Dades Valley",
+        "es": "Garganta del Todra y valle del Dades",
+        "it": "Gola del Todra e valle del Dades"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Skoura oasis & Kasbah Amridil",
+        "es": "Oasis de Skoura y kasbah Amridil",
+        "it": "Oasi di Skoura e kasbah Amridil"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "A night at Ait Ben Haddou",
+        "es": "Una noche en Ait Ben Haddou",
+        "it": "Una notte ad Ait Ben Haddou"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Fes",
+    "Merzouga",
+    "Dades",
+    "Skoura",
+    "Ait Ben Haddou",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Fes – Ifrane – Midelt – Merzouga",
+        "es": "Fez – Ifrane – Midelt – Merzouga",
+        "it": "Fes – Ifrane – Midelt – Merzouga"
+      },
+      "text": {
+        "en": "Leave Fes in the morning and climb into the Middle Atlas. Stop in Ifrane, the alpine-style town known as the Switzerland of Morocco, then meet the Barbary macaques in the cedar forest of Azrou. Lunch in Midelt, between the Middle and High Atlas, then follow the palm groves of the Ziz Valley south. In Merzouga, ride a camel into the Erg Chebbi dunes at sunset to your camp for dinner and Berber music under the stars.",
+        "es": "Salimos de Fez por la mañana y subimos al Medio Atlas. Paramos en Ifrane, pueblo de estilo alpino conocido como la Suiza de Marruecos, y vemos los macacos de Berbería en el bosque de cedros de Azrou. Comida en Midelt, entre el Medio y el Alto Atlas, y bajada por los palmerales del valle del Ziz. En Merzouga entras en camello a las dunas de Erg Chebbi al atardecer hasta el campamento, con cena y música bereber bajo las estrellas.",
+        "it": "Partenza da Fes al mattino e salita nel Medio Atlante. Sosta a Ifrane, cittadina in stile alpino detta la Svizzera del Marocco, poi incontro con le bertucce nella foresta di cedri di Azrou. Pranzo a Midelt, tra Medio e Alto Atlante, poi discesa lungo i palmeti della valle dello Ziz. A Merzouga entri in cammello tra le dune di Erg Chebbi al tramonto fino al campo, con cena e musica berbera sotto le stelle."
+      },
+      "overnight": {
+        "en": "Desert camp in Erg Chebbi",
+        "es": "Campamento en Erg Chebbi",
+        "it": "Campo tendato a Erg Chebbi"
+      },
+      "breakfast": false,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga – Rissani – Todra Gorge – Dades",
+        "es": "Merzouga – Rissani – garganta del Todra – Dades",
+        "it": "Merzouga – Rissani – gola del Todra – Dades"
+      },
+      "text": {
+        "en": "Wake early for sunrise over the dunes, have breakfast and return to Merzouga by camel or 4×4. Visit Rissani and its old souks, where you can taste medfouna, the stuffed Berber bread of the region. Walk between the 300-metre cliffs of the Todra Gorge, then continue to the Dades Valley, with its kasbahs and the rock formations known as the Monkey Fingers.",
+        "es": "Te levantas temprano para el amanecer sobre las dunas, desayunas y vuelves a Merzouga en camello o en 4×4. Visitamos Rissani y sus viejos zocos, donde puedes probar la medfouna, el pan bereber relleno de la región. Caminamos entre las paredes de 300 metros de la garganta del Todra y seguimos al valle del Dades, con sus kasbahs y las rocas llamadas Dedos de Mono.",
+        "it": "Sveglia presto per l’alba sulle dune, colazione e rientro a Merzouga in cammello o in 4×4. Visitiamo Rissani e i suoi antichi souk, dove puoi assaggiare la medfouna, il pane berbero ripieno della regione. Camminiamo tra le pareti di 300 metri della gola del Todra e proseguiamo per la valle del Dades, con le sue kasbah e le rocce dette Dita di Scimmia."
+      },
+      "overnight": {
+        "en": "Riad or guesthouse in the Dades Valley",
+        "es": "Riad o casa de huéspedes en el valle del Dades",
+        "it": "Riad o guesthouse nella valle del Dades"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Dades – Skoura – Ouarzazate – Ait Ben Haddou",
+        "es": "Dades – Skoura – Ouarzazate – Ait Ben Haddou",
+        "it": "Dades – Skoura – Ouarzazate – Ait Ben Haddou"
+      },
+      "text": {
+        "en": "Drive through the Skoura palm oasis and visit Kasbah Amridil, one of the best-preserved kasbahs in Morocco. Continue to Ouarzazate to see the Taourirt kasbah, then reach Ait Ben Haddou, the UNESCO ksar seen in Gladiator and Game of Thrones. Walk its narrow lanes up to the granary at the top for the view, and spend the night nearby.",
+        "es": "Atravesamos el palmeral de Skoura y visitamos la kasbah Amridil, una de las mejor conservadas de Marruecos. Seguimos a Ouarzazate para ver la kasbah de Taourirt y llegamos a Ait Ben Haddou, el ksar de la UNESCO que aparece en Gladiator y Juego de Tronos. Subes por sus callejuelas hasta el granero de lo alto para ver el paisaje y duermes muy cerca.",
+        "it": "Attraversiamo il palmeto di Skoura e visitiamo la kasbah Amridil, una delle meglio conservate del Marocco. Proseguiamo per Ouarzazate per vedere la kasbah di Taourirt e raggiungiamo Ait Ben Haddou, lo ksar UNESCO di Il Gladiatore e Il Trono di Spade. Sali tra i suoi vicoli fino al granaio in cima per il panorama e dormi lì vicino."
+      },
+      "overnight": {
+        "en": "Kasbah hotel at Ait Ben Haddou",
+        "es": "Kasbah hotel en Ait Ben Haddou",
+        "it": "Kasbah hotel ad Ait Ben Haddou"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Ait Ben Haddou – Tizi n’Tichka – Marrakech",
+        "es": "Ait Ben Haddou – Tizi n’Tichka – Marrakech",
+        "it": "Ait Ben Haddou – Tizi n’Tichka – Marrakech"
+      },
+      "text": {
+        "en": "Cross the High Atlas over the Tizi n’Tichka pass, with its winding road, rugged peaks and Berber villages, stopping for photos along the way. Arrival at your riad or hotel in Marrakech in the early afternoon.",
+        "es": "Cruzamos el Alto Atlas por el puerto de Tizi n’Tichka, con su carretera de curvas, sus cumbres y sus pueblos bereberes, parando para hacer fotos. Llegada a tu riad u hotel en Marrakech a primera hora de la tarde.",
+        "it": "Attraversiamo l’Alto Atlante sul passo del Tizi n’Tichka, con i suoi tornanti, le vette e i villaggi berberi, fermandoci per le foto. Arrivo al tuo riad o hotel a Marrakech nel primo pomeriggio."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Pick-up from your riad or hotel in Fes",
+      "es": "Recogida en tu riad u hotel en Fez",
+      "it": "Prelievo dal tuo riad o hotel a Fes"
+    },
+    {
+      "en": "Private air-conditioned vehicle, fuel included",
+      "es": "Vehículo privado con aire acondicionado, combustible incluido",
+      "it": "Veicolo privato climatizzato, carburante incluso"
+    },
+    {
+      "en": "Professional English-speaking driver-guide",
+      "es": "Conductor-guía profesional que habla inglés",
+      "it": "Autista-guida professionale che parla inglese"
+    },
+    {
+      "en": "1 night in a luxury desert camp in Erg Chebbi",
+      "es": "1 noche en un campamento de lujo en Erg Chebbi",
+      "it": "1 notte in un campo tendato di lusso a Erg Chebbi"
+    },
+    {
+      "en": "2 nights in riads or kasbah hotels",
+      "es": "2 noches en riads o kasbahs hotel",
+      "it": "2 notti in riad o kasbah hotel"
+    },
+    {
+      "en": "Camel trek into the dunes",
+      "es": "Paseo en camello por las dunas",
+      "it": "Escursione in cammello tra le dune"
+    },
+    {
+      "en": "3 breakfasts and 3 dinners",
+      "es": "3 desayunos y 3 cenas",
+      "it": "3 colazioni e 3 cene"
+    },
+    {
+      "en": "Drop-off at your riad or hotel in Marrakech",
+      "es": "Traslado a tu riad u hotel en Marrakech",
+      "it": "Accompagnamento al tuo riad o hotel a Marrakech"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Fes",
+      "description": {
+        "en": "Start",
+        "es": "Salida",
+        "it": "Partenza"
+      }
+    },
+    {
+      "name": "Ifrane",
+      "description": {
+        "en": "Switzerland of Morocco",
+        "es": "La Suiza de Marruecos",
+        "it": "La Svizzera del Marocco"
+      }
+    },
+    {
+      "name": "Midelt",
+      "description": {
+        "en": "Lunch stop",
+        "es": "Parada para comer",
+        "it": "Sosta pranzo"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Desert camp · night 1",
+        "es": "Campamento · noche 1",
+        "it": "Campo tendato · notte 1"
+      }
+    },
+    {
+      "name": "Rissani",
+      "description": {
+        "en": "Souks & medfouna",
+        "es": "Zocos y medfouna",
+        "it": "Souk e medfouna"
+      }
+    },
+    {
+      "name": "Todra Gorge",
+      "description": {
+        "en": "300 m cliffs",
+        "es": "Paredes de 300 m",
+        "it": "Pareti di 300 m"
+      }
+    },
+    {
+      "name": "Dades Valley",
+      "description": {
+        "en": "Night 2",
+        "es": "Noche 2",
+        "it": "Notte 2"
+      }
+    },
+    {
+      "name": "Skoura",
+      "description": {
+        "en": "Kasbah Amridil",
+        "es": "Kasbah Amridil",
+        "it": "Kasbah Amridil"
+      }
+    },
+    {
+      "name": "Ouarzazate",
+      "description": {
+        "en": "Taourirt kasbah",
+        "es": "Kasbah de Taourirt",
+        "it": "Kasbah di Taourirt"
+      }
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "description": {
+        "en": "UNESCO ksar · night 3",
+        "es": "Ksar UNESCO · noche 3",
+        "it": "Ksar UNESCO · notte 3"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "End",
+        "es": "Fin",
+        "it": "Fine"
+      }
+    }
+  ],
+  "map_route": [
+    "Fes",
+    "Ifrane",
+    "Azrou",
+    "Midelt",
+    "Errachidia",
+    "Merzouga",
+    "Rissani",
+    "Tinghir",
+    "Boumalne Dades",
+    "Skoura",
+    "Ouarzazate",
+    "Ait Ben Haddou",
+    "Marrakech"
+  ],
+  "planner": {
+    "show": true,
+    "days": 4,
+    "start": "fes",
+    "tags": [
+      "desert",
+      "mountains"
+    ]
+  }
+}

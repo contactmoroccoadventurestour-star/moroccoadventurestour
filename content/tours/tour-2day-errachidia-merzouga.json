@@ -1,0 +1,274 @@
+{
+  "title": "2 Days Errachidia to Merzouga Desert Tour",
+  "type": "tour",
+  "category": "errachidia",
+  "order": 400,
+  "show_on_home": true,
+  "home_extra": [
+    "shared"
+  ],
+  "price": "",
+  "image": "/images/tour-er2.jpg",
+  "image_position": "70% 55%",
+  "meta_description": "2-day desert tour from Errachidia to Merzouga: Ziz Valley palm groves, camel ride in the Erg Chebbi dunes, a night in a luxury desert camp, Sahara sunrise and return to Errachidia.",
+  "eyebrow": {
+    "en": "Errachidia · Merzouga · Errachidia",
+    "es": "Errachidia · Merzouga · Errachidia",
+    "it": "Errachidia · Merzouga · Errachidia"
+  },
+  "title_line1": {
+    "en": "2 Days Errachidia",
+    "es": "2 días de Errachidia",
+    "it": "2 giorni da Errachidia"
+  },
+  "title_line2": {
+    "en": "to Merzouga Desert Tour",
+    "es": "al desierto de Merzouga",
+    "it": "al deserto di Merzouga"
+  },
+  "duration": {
+    "en": "2 days",
+    "es": "2 días",
+    "it": "2 giorni"
+  },
+  "duration_short": {
+    "en": "2 days",
+    "es": "2 días",
+    "it": "2 giorni"
+  },
+  "start": "Errachidia",
+  "end": "Errachidia",
+  "card": {
+    "title": {
+      "en": "2 Days Errachidia to Merzouga Desert Tour",
+      "es": "2 días de Errachidia al desierto de Merzouga",
+      "it": "2 giorni da Errachidia al deserto di Merzouga"
+    },
+    "highlights": {
+      "en": "Ziz Valley · camel ride · Erg Chebbi camp · Sahara sunrise",
+      "es": "Valle del Ziz · camello · campamento en Erg Chebbi · amanecer en el Sáhara",
+      "it": "Valle dello Ziz · cammello · campo a Erg Chebbi · alba sul Sahara"
+    },
+    "route": [
+      "Errachidia",
+      "Merzouga",
+      "Errachidia"
+    ],
+    "image_alt": "2 Days Errachidia to Merzouga Desert Tour"
+  },
+  "overview": [
+    {
+      "en": "If you’re looking to explore the heart of Morocco’s Sahara Desert in just two days, this 2-day desert tour from Errachidia to Merzouga offers an unforgettable adventure. Perfect for those with limited time, this tour takes you from the oasis town of Errachidia to the iconic Merzouga desert, where you’ll experience the magic of the Sahara, camel trekking, and a night under the stars.",
+      "es": "Si quieres descubrir el corazón del desierto del Sáhara en solo dos días, este tour de 2 días de Errachidia a Merzouga te ofrece una aventura inolvidable. Perfecto para quienes tienen poco tiempo, este tour te lleva del oasis de Errachidia al famoso desierto de Merzouga, donde vivirás la magia del Sáhara, un paseo en camello y una noche bajo las estrellas.",
+      "it": "Se vuoi scoprire il cuore del deserto del Sahara in soli due giorni, questo tour di 2 giorni da Errachidia a Merzouga ti offre un’avventura indimenticabile. Perfetto per chi ha poco tempo, ti porta dall’oasi di Errachidia al celebre deserto di Merzouga, dove vivrai la magia del Sahara, un’escursione in cammello e una notte sotto le stelle."
+    },
+    {
+      "en": "A desert tour from Errachidia typically covers the Merzouga Desert, home to the towering Erg Chebbi dunes.",
+      "es": "Un tour por el desierto desde Errachidia suele incluir el desierto de Merzouga, hogar de las altas dunas de Erg Chebbi.",
+      "it": "Un tour nel deserto da Errachidia comprende di solito il deserto di Merzouga, dove si trovano le alte dune di Erg Chebbi."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "Discover the stunning Ziz Valley and its lush palm groves",
+        "es": "Descubre el impresionante valle del Ziz y sus frondosos palmerales",
+        "it": "Scopri la splendida valle dello Ziz e i suoi rigogliosi palmeti"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Enjoy a camel ride through the magnificent Erg Chebbi dunes",
+        "es": "Disfruta de un paseo en camello por las magníficas dunas de Erg Chebbi",
+        "it": "Goditi un giro in cammello tra le magnifiche dune di Erg Chebbi"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Experience an unforgettable night at a luxury desert camp",
+        "es": "Vive una noche inolvidable en un campamento de lujo",
+        "it": "Vivi una notte indimenticabile in un campo di lusso nel deserto"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Explore Merzouga and the surrounding desert landscape",
+        "es": "Explora Merzouga y el paisaje desértico que la rodea",
+        "it": "Esplora Merzouga e il paesaggio desertico che la circonda"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Errachidia",
+    "Ziz Valley",
+    "Merzouga",
+    "Errachidia"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Errachidia to Merzouga – A Journey Through the Desert Landscape",
+        "es": "Errachidia a Merzouga – Viaje por el paisaje del desierto",
+        "it": "Errachidia a Merzouga – Viaggio nel paesaggio del deserto"
+      },
+      "text": {
+        "en": "Your desert adventure begins in Errachidia, where you’ll be greeted by your guide and driver. After a scenic drive through the Ziz Valley, famous for its palm groves and picturesque landscapes, you’ll make your way towards Merzouga, the gateway to the Sahara. Upon arrival, you’ll take a camel ride across the Erg Chebbi dunes, the tallest dunes in Morocco, and head towards your luxury desert camp. Watch the stunning desert sunset and enjoy an authentic Berber dinner under the stars.",
+        "es": "Tu aventura en el desierto comienza en Errachidia, donde te recibirán tu guía y tu conductor. Tras una ruta panorámica por el valle del Ziz, famoso por sus palmerales y sus paisajes pintorescos, te dirigirás a Merzouga, la puerta del Sáhara. Al llegar, harás un paseo en camello por las dunas de Erg Chebbi, las más altas de Marruecos, hasta tu campamento de lujo. Contempla la impresionante puesta de sol y disfruta de una auténtica cena bereber bajo las estrellas.",
+        "it": "La tua avventura nel deserto inizia a Errachidia, dove ti accoglieranno la guida e l’autista. Dopo una strada panoramica nella valle dello Ziz, famosa per i suoi palmeti e i paesaggi pittoreschi, raggiungerai Merzouga, la porta del Sahara. All’arrivo farai un giro in cammello tra le dune di Erg Chebbi, le più alte del Marocco, fino al tuo campo di lusso. Ammira lo splendido tramonto e goditi un’autentica cena berbera sotto le stelle."
+      },
+      "overnight": {
+        "en": "Luxury desert camp",
+        "es": "Campamento de lujo",
+        "it": "Campo di lusso"
+      },
+      "breakfast": false,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga Desert to Errachidia – Sunrise and Scenic Return",
+        "es": "Desierto de Merzouga a Errachidia – Amanecer y regreso",
+        "it": "Deserto di Merzouga a Errachidia – Alba e ritorno"
+      },
+      "text": {
+        "en": "Wake up early to watch the sunrise over the Sahara Desert, a truly magical experience. Afterward, you’ll return to Merzouga by camel or 4×4, depending on your preference. From here, you’ll head back to Errachidia, passing through more stunning desert landscapes, desert towns and valleys, and arrive in the city by the evening, with drop-off in Errachidia.",
+        "es": "Levántate temprano para ver el amanecer sobre el Sáhara, una experiencia realmente mágica. Después volverás a Merzouga en camello o en 4×4, según prefieras. Desde allí regresarás a Errachidia, pasando por más paisajes desérticos, pueblos y valles, y llegarás a la ciudad por la tarde, con traslado en Errachidia.",
+        "it": "Sveglia presto per l’alba sul Sahara, un’esperienza davvero magica. Poi tornerai a Merzouga in cammello o in 4×4, come preferisci. Da qui rientrerai a Errachidia, attraversando altri paesaggi desertici, paesi e valli, con arrivo in città in serata e accompagnamento a Errachidia."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Pickup & dropoff service",
+      "es": "Servicio de recogida y traslado",
+      "it": "Servizio di prelievo e accompagnamento"
+    },
+    {
+      "en": "English/Spanish speaking driver",
+      "es": "Conductor que habla inglés/español",
+      "it": "Autista che parla inglese/spagnolo"
+    },
+    {
+      "en": "Private transportation in an SUV or minivan with A/C",
+      "es": "Transporte privado en SUV o minivan con aire acondicionado",
+      "it": "Trasporto privato in SUV o minivan con aria condizionata"
+    },
+    {
+      "en": "Camel for each person in the desert",
+      "es": "Un camello por persona en el desierto",
+      "it": "Un cammello per persona nel deserto"
+    },
+    {
+      "en": "Accommodations",
+      "es": "Alojamiento",
+      "it": "Alloggi"
+    },
+    {
+      "en": "Breakfasts",
+      "es": "Desayunos",
+      "it": "Colazioni"
+    },
+    {
+      "en": "Dinners",
+      "es": "Cenas",
+      "it": "Cene"
+    }
+  ],
+  "not_included_extra": [
+    {
+      "en": "Plane ticket",
+      "es": "Billete de avión",
+      "it": "Biglietto aereo"
+    }
+  ],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Errachidia",
+      "description": {
+        "en": "Start",
+        "es": "Salida",
+        "it": "Partenza"
+      }
+    },
+    {
+      "name": "Ziz Valley",
+      "description": {
+        "en": "Palm groves",
+        "es": "Palmerales",
+        "it": "Palmeti"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Gateway to the Sahara",
+        "es": "Puerta del Sáhara",
+        "it": "Porta del Sahara"
+      }
+    },
+    {
+      "name": "Erg Chebbi",
+      "description": {
+        "en": "Desert camp · night 1",
+        "es": "Campamento · noche 1",
+        "it": "Campo · notte 1"
+      }
+    },
+    {
+      "name": "Errachidia",
+      "description": {
+        "en": "End",
+        "es": "Fin",
+        "it": "Fine"
+      }
+    }
+  ],
+  "map_route": [
+    "Errachidia",
+    "Erfoud",
+    "Merzouga",
+    "Erfoud",
+    "Errachidia"
+  ],
+  "planner": {
+    "show": true,
+    "days": 2,
+    "start": "errachidia",
+    "tags": [
+      "desert"
+    ]
+  }
+}

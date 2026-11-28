@@ -1,0 +1,161 @@
+{
+  "title": "A perfect day in the Ourika Valley from Marrakech",
+  "category": "daytrips",
+  "order": 10,
+  "featured": false,
+  "image": "/images/blog-ourika.jpg",
+  "minutes": 5,
+  "headline": {
+    "en": "A perfect day in the Ourika Valley from Marrakech",
+    "es": "Un día perfecto en el valle del Ourika desde Marrakech",
+    "it": "Una giornata perfetta nella valle dell’Ourika da Marrakech"
+  },
+  "excerpt": {
+    "en": "Berber villages, waterfalls, riverside lunches and mint tea — everything you need to know about the most popular day trip from Marrakech.",
+    "es": "Pueblos bereberes, cascadas, comidas junto al río y té a la menta: todo lo que necesitas saber sobre la excursión más popular desde Marrakech.",
+    "it": "Villaggi berberi, cascate, pranzi sul fiume e tè alla menta: tutto ciò che devi sapere sull’escursione più amata da Marrakech."
+  },
+  "intro": {
+    "en": "When the heat and the noise of Marrakech become a little too much, the Ourika Valley is the easiest escape. In about an hour you leave the red city behind and enter a green valley at the foot of the High Atlas, where a river runs between walnut trees and Berber villages cling to the mountainside.",
+    "es": "Cuando el calor y el ruido de Marrakech se vuelven un poco excesivos, el valle del Ourika es la escapada más fácil. En aproximadamente una hora dejas atrás la ciudad roja y entras en un valle verde al pie del Alto Atlas, donde un río corre entre nogales y los pueblos bereberes se aferran a la ladera.",
+    "it": "Quando il caldo e il rumore di Marrakech diventano un po’ troppo, la valle dell’Ourika è la fuga più facile. In circa un’ora ti lasci alle spalle la città rossa ed entri in una valle verde ai piedi dell’Alto Atlante, dove un fiume scorre tra i noci e i villaggi berberi si aggrappano ai pendii."
+  },
+  "sections": [
+    {
+      "heading": {
+        "en": "Getting there",
+        "es": "Cómo llegar",
+        "it": "Come arrivare"
+      },
+      "text": {
+        "en": "The valley starts about 30 km south of Marrakech, and the road climbs gently towards the village of Setti Fatma at the end of the paved road, around 60 km from the city. With a private driver the journey takes roughly an hour, with stops at viewpoints and small villages on the way.",
+        "es": "El valle empieza a unos 30 km al sur de Marrakech, y la carretera sube suavemente hasta el pueblo de Setti Fatma, al final del asfalto, a unos 60 km de la ciudad. Con un chófer privado el trayecto dura alrededor de una hora, con paradas en miradores y pequeños pueblos por el camino.",
+        "it": "La valle inizia a circa 30 km a sud di Marrakech e la strada sale dolcemente fino al villaggio di Setti Fatma, alla fine dell’asfalto, a circa 60 km dalla città. Con un autista privato il tragitto dura circa un’ora, con soste nei punti panoramici e nei piccoli villaggi lungo la strada."
+      }
+    },
+    {
+      "heading": {
+        "en": "The waterfalls of Setti Fatma",
+        "es": "Las cascadas de Setti Fatma",
+        "it": "Le cascate di Setti Fatma"
+      },
+      "text": {
+        "en": "The highlight of the day is the walk to the waterfalls above Setti Fatma. A path climbs along the river, over rocks and small bridges, to a series of cascades. The first waterfall can be reached in about 30 to 45 minutes and the walk is fairly easy, though the rocks can be slippery — good shoes help. Local guides know the path well and can show you the easiest way up.\n\nIf you prefer not to hike, simply sit at one of the riverside cafés with a mint tea and your feet close to the cool water.",
+        "es": "Lo mejor del día es la caminata hasta las cascadas sobre Setti Fatma. Un sendero sube junto al río, entre rocas y pequeños puentes, hasta una serie de saltos de agua. A la primera cascada se llega en unos 30 a 45 minutos y el camino es bastante fácil, aunque las rocas pueden resbalar: un buen calzado ayuda. Los guías locales conocen bien el sendero y te enseñan el camino más sencillo.\n\nSi prefieres no caminar, siéntate en uno de los cafés junto al río con un té a la menta y los pies cerca del agua fresca.",
+        "it": "Il momento clou della giornata è la camminata fino alle cascate sopra Setti Fatma. Un sentiero sale lungo il fiume, tra rocce e piccoli ponti, fino a una serie di cascate. La prima si raggiunge in circa 30-45 minuti e il percorso è abbastanza facile, anche se le rocce possono essere scivolose: aiutano delle buone scarpe. Le guide locali conoscono bene il sentiero e ti mostrano la via più semplice.\n\nSe preferisci non camminare, siediti in uno dei caffè sul fiume con un tè alla menta e i piedi vicino all’acqua fresca."
+      }
+    },
+    {
+      "heading": {
+        "en": "Berber villages and daily life",
+        "es": "Pueblos bereberes y vida cotidiana",
+        "it": "Villaggi berberi e vita quotidiana"
+      },
+      "text": {
+        "en": "On the way, we like to stop in a traditional village to see how life works in the mountains: terraced fields, irrigation channels that share the water between families, and houses built of earth and stone. Some families open their homes to visitors for tea, and an argan oil cooperative run by local women shows how the famous oil is made by hand.",
+        "es": "Por el camino nos gusta parar en un pueblo tradicional para ver cómo es la vida en la montaña: campos en terrazas, canales de riego que reparten el agua entre las familias y casas de tierra y piedra. Algunas familias abren su casa a los visitantes para tomar un té, y una cooperativa de aceite de argán gestionada por mujeres del lugar muestra cómo se elabora a mano este famoso aceite.",
+        "it": "Lungo la strada ci piace fermarci in un villaggio tradizionale per vedere come si vive in montagna: campi a terrazze, canali d’irrigazione che dividono l’acqua tra le famiglie e case di terra e pietra. Alcune famiglie aprono la casa ai visitatori per un tè, e una cooperativa di olio di argan gestita da donne del posto mostra come si produce a mano questo famoso olio."
+      }
+    },
+    {
+      "heading": {
+        "en": "Lunch by the river",
+        "es": "Comida junto al río",
+        "it": "Pranzo sul fiume"
+      },
+      "text": {
+        "en": "One of the joys of Ourika is lunch with your feet almost in the river. Small restaurants put tables and cushions along the water and serve tagines slowly cooked over charcoal, fresh salads and grilled meat. It is simple, local and delicious.",
+        "es": "Uno de los placeres del Ourika es comer con los pies casi en el río. Pequeños restaurantes colocan mesas y cojines junto al agua y sirven tajines cocinados lentamente sobre carbón, ensaladas frescas y carne a la parrilla. Es sencillo, local y delicioso.",
+        "it": "Uno dei piaceri dell’Ourika è pranzare con i piedi quasi nel fiume. Piccoli ristoranti sistemano tavoli e cuscini lungo l’acqua e servono tajine cotti lentamente sulla brace, insalate fresche e carne alla griglia. Semplice, locale e delizioso."
+      }
+    },
+    {
+      "heading": {
+        "en": "Tips for your day",
+        "es": "Consejos para tu día",
+        "it": "Consigli per la tua giornata"
+      },
+      "text": {
+        "en": "Go on a weekday if you can: on weekends many families from Marrakech come to cool down by the river. Spring is especially beautiful, when the valley is green and the snow is still on the peaks. In summer, the valley is several degrees cooler than the city. Always check the weather after heavy rain, as the river can rise quickly in the mountains.",
+        "es": "Ve entre semana si puedes: los fines de semana muchas familias de Marrakech vienen a refrescarse junto al río. La primavera es especialmente bonita, con el valle verde y todavía nieve en las cumbres. En verano el valle está varios grados más fresco que la ciudad. Después de lluvias fuertes, consulta siempre el tiempo, ya que el río puede crecer rápidamente en la montaña.",
+        "it": "Se puoi, vai in un giorno feriale: nel fine settimana molte famiglie di Marrakech vengono a rinfrescarsi sul fiume. La primavera è particolarmente bella, con la valle verde e la neve ancora sulle cime. D’estate la valle è più fresca della città di diversi gradi. Dopo forti piogge controlla sempre il meteo, perché in montagna il fiume può ingrossarsi rapidamente."
+      }
+    }
+  ],
+  "facts": [
+    {
+      "label": {
+        "en": "Distance",
+        "es": "Distancia",
+        "it": "Distanza"
+      },
+      "value": {
+        "en": "About 1 hour from Marrakech",
+        "es": "Aprox. 1 hora desde Marrakech",
+        "it": "Circa 1 ora da Marrakech"
+      }
+    },
+    {
+      "label": {
+        "en": "Highlight",
+        "es": "Lo mejor",
+        "it": "Da non perdere"
+      },
+      "value": {
+        "en": "Setti Fatma waterfalls",
+        "es": "Las cascadas de Setti Fatma",
+        "it": "Le cascate di Setti Fatma"
+      }
+    },
+    {
+      "label": {
+        "en": "Walk",
+        "es": "Caminata",
+        "it": "Camminata"
+      },
+      "value": {
+        "en": "30 – 45 min to the first waterfall",
+        "es": "30 – 45 min hasta la primera cascada",
+        "it": "30 – 45 min fino alla prima cascata"
+      }
+    },
+    {
+      "label": {
+        "en": "Best for",
+        "es": "Ideal para",
+        "it": "Ideale per"
+      },
+      "value": {
+        "en": "A cool, green day out of the city",
+        "es": "Un día fresco y verde fuera de la ciudad",
+        "it": "Una giornata fresca e verde fuori città"
+      }
+    }
+  ],
+  "related": [
+    {
+      "page": "daytrip-ourika.html",
+      "label": {
+        "en": "Ourika Valley day trip",
+        "es": "Excursión al valle del Ourika",
+        "it": "Escursione nella valle dell’Ourika"
+      }
+    },
+    {
+      "page": "daytrip-imlil.html",
+      "label": {
+        "en": "Imlil Valley day trip",
+        "es": "Excursión al valle de Imlil",
+        "it": "Escursione nella valle di Imlil"
+      }
+    },
+    {
+      "page": "day-trips.html",
+      "label": {
+        "en": "All day trips",
+        "es": "Todas las excursiones",
+        "it": "Tutte le escursioni"
+      }
+    }
+  ]
+}

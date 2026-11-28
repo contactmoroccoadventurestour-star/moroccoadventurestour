@@ -1,0 +1,309 @@
+{
+  "title": "2 Days from Marrakech to the Zagora Desert",
+  "type": "tour",
+  "category": "marrakech",
+  "order": 0,
+  "show_on_home": true,
+  "home_extra": [
+    "shared"
+  ],
+  "price": "",
+  "image": "/images/tour-zagora.jpg",
+  "image_position": "center 30%",
+  "meta_description": "Private 2-day tour from Marrakech to the Zagora desert: High Atlas, Tizi n'Tichka, Ait Ben Haddou, Draa Valley, sunset camel ride and a night in a desert camp.",
+  "eyebrow": {
+    "en": "Private desert tour",
+    "es": "Tour privado al desierto",
+    "it": "Tour privato nel deserto"
+  },
+  "title_line1": {
+    "en": "2 Days from Marrakech",
+    "es": "2 días desde Marrakech",
+    "it": "2 giorni da Marrakech"
+  },
+  "title_line2": {
+    "en": "to the Zagora Desert",
+    "es": "al desierto de Zagora",
+    "it": "al deserto di Zagora"
+  },
+  "duration": {
+    "en": "2 days · 1 night",
+    "es": "2 días · 1 noche",
+    "it": "2 giorni · 1 notte"
+  },
+  "duration_short": {
+    "en": "2 days",
+    "es": "2 días",
+    "it": "2 giorni"
+  },
+  "start": "Marrakech",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "2 Days Marrakech to Zagora Desert",
+      "es": "2 días de Marrakech al desierto de Zagora",
+      "it": "2 giorni da Marrakech al deserto di Zagora"
+    },
+    "highlights": {
+      "en": "Atlas Mountains · Ait Ben Haddou · camel ride · desert camp",
+      "es": "Montañas del Atlas · Ait Ben Haddou · paseo en camello · campamento",
+      "it": "Monti dell'Atlante · Ait Ben Haddou · cammello · campo tendato"
+    },
+    "route": [
+      "Marrakech",
+      "Zagora"
+    ],
+    "image_alt": "2 Days Marrakech to Zagora Desert"
+  },
+  "overview": [
+    {
+      "en": "Short on time but dreaming of the desert? This two-day journey takes you from Marrakech into southern Morocco, across the High Atlas Mountains, past Berber villages, old kasbahs and palm valleys, all the way to the gateway of the Sahara.",
+      "es": "¿Poco tiempo pero sueñas con el desierto? Este viaje de dos días te lleva de Marrakech al sur de Marruecos, cruzando el Alto Atlas, pueblos bereberes, viejas kasbahs y valles de palmeras, hasta la puerta del Sáhara.",
+      "it": "Poco tempo ma sogni il deserto? Questo viaggio di due giorni ti porta da Marrakech al sud del Marocco, attraverso l’Alto Atlante, villaggi berberi, antiche kasbah e valli di palme, fino alle porte del Sahara."
+    },
+    {
+      "en": "The road climbs over the Tizi n’Tichka pass, one of the most spectacular mountain roads in the country, before reaching Ait Ben Haddou, a fortified earthen village listed by UNESCO and seen in many famous films.",
+      "es": "La carretera sube por el puerto de Tizi n’Tichka, una de las rutas de montaña más espectaculares del país, antes de llegar a Ait Ben Haddou, un pueblo fortificado de tierra declarado Patrimonio de la UNESCO y escenario de muchas películas famosas.",
+      "it": "La strada sale sul passo del Tizi n’Tichka, una delle strade di montagna più spettacolari del paese, prima di arrivare ad Ait Ben Haddou, un villaggio fortificato in terra cruda patrimonio UNESCO e set di molti film famosi."
+    },
+    {
+      "en": "From Ouarzazate you follow the Draa Valley, a long ribbon of palm groves and mud-brick villages, to Zagora. There you ride a camel at sunset and spend the night in a desert camp under the stars.",
+      "es": "Desde Ouarzazate sigues el valle del Draa, una larga cinta de palmerales y pueblos de adobe, hasta Zagora. Allí montas en camello al atardecer y pasas la noche en un campamento bajo las estrellas.",
+      "it": "Da Ouarzazate segui la valle del Draa, un lungo nastro di palmeti e villaggi in argilla, fino a Zagora. Lì fai un giro in cammello al tramonto e passi la notte in un campo tendato sotto le stelle."
+    },
+    {
+      "en": "An ideal choice if you have only a few days in Morocco and still want to see its mountains, its kasbahs and a real night in the desert.",
+      "es": "Una opción ideal si tienes pocos días en Marruecos y quieres ver sus montañas, sus kasbahs y vivir una noche de verdad en el desierto.",
+      "it": "Una scelta ideale se hai pochi giorni in Marocco e vuoi comunque vedere le sue montagne, le sue kasbah e vivere una vera notte nel deserto."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "High Atlas & Tizi n’Tichka",
+        "es": "Alto Atlas y Tizi n’Tichka",
+        "it": "Alto Atlante e Tizi n’Tichka"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Ait Ben Haddou",
+        "es": "Ait Ben Haddou",
+        "it": "Ait Ben Haddou"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Draa Valley palm groves",
+        "es": "Palmerales del valle del Draa",
+        "it": "Palmeti della valle del Draa"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Sunset camel ride",
+        "es": "Paseo en camello al atardecer",
+        "it": "Cammello al tramonto"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Night in a desert camp",
+        "es": "Noche en un campamento",
+        "it": "Notte in un campo tendato"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Marrakech",
+    "Ait Ben Haddou",
+    "Draa Valley",
+    "Zagora",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "label": {
+        "en": "Day 1",
+        "es": "Día 1",
+        "it": "Giorno 1"
+      },
+      "title": {
+        "en": "Marrakech to Zagora",
+        "es": "De Marrakech a Zagora",
+        "it": "Da Marrakech a Zagora"
+      },
+      "text": {
+        "en": "We pick you up in the morning in Marrakech and drive into the High Atlas over the Tizi n’Tichka pass, with stops for views over the mountains and Berber villages. Visit the kasbah of Ait Ben Haddou, then continue through Ouarzazate, the gateway to the desert, and along the palm groves of the Draa Valley. In the afternoon you reach Zagora, ride a camel at sunset to the camp, and enjoy dinner and a quiet night under the stars.",
+        "es": "Te recogemos por la mañana en Marrakech y cruzamos el Alto Atlas por el puerto de Tizi n’Tichka, con paradas para disfrutar de las vistas y los pueblos bereberes. Visitamos la kasbah de Ait Ben Haddou y seguimos por Ouarzazate, la puerta del desierto, y los palmerales del valle del Draa. Por la tarde llegas a Zagora, paseas en camello al atardecer hasta el campamento y disfrutas de la cena y una noche tranquila bajo las estrellas.",
+        "it": "Ti veniamo a prendere la mattina a Marrakech e attraversiamo l’Alto Atlante sul passo del Tizi n’Tichka, con soste per ammirare le montagne e i villaggi berberi. Visitiamo la kasbah di Ait Ben Haddou, poi proseguiamo per Ouarzazate, la porta del deserto, e lungo i palmeti della valle del Draa. Nel pomeriggio arrivi a Zagora, raggiungi il campo in cammello al tramonto e ti godi la cena e una notte tranquilla sotto le stelle."
+      },
+      "overnight": {
+        "en": "Desert camp in Zagora",
+        "es": "Campamento en Zagora",
+        "it": "Campo tendato a Zagora"
+      },
+      "breakfast": false,
+      "dinner": true
+    },
+    {
+      "label": {
+        "en": "Day 2",
+        "es": "Día 2",
+        "it": "Giorno 2"
+      },
+      "title": {
+        "en": "Zagora to Marrakech",
+        "es": "De Zagora a Marrakech",
+        "it": "Da Zagora a Marrakech"
+      },
+      "text": {
+        "en": "Wake up early for the sunrise over the desert, then have breakfast at the camp. We drive back through the Draa Valley and Ouarzazate and cross the High Atlas again, with stops for photos, coffee and views. You arrive in Marrakech in the late afternoon and we drop you at your accommodation.",
+        "es": "Te levantas temprano para ver el amanecer sobre el desierto y desayunas en el campamento. Regresamos por el valle del Draa y Ouarzazate y cruzamos de nuevo el Alto Atlas, con paradas para fotos, café y vistas. Llegas a Marrakech a última hora de la tarde y te dejamos en tu alojamiento.",
+        "it": "Sveglia presto per l’alba sul deserto, poi colazione al campo. Rientriamo attraverso la valle del Draa e Ouarzazate e riattraversiamo l’Alto Atlante, con soste per foto, caffè e panorami. Arrivi a Marrakech nel tardo pomeriggio e ti accompagniamo al tuo alloggio."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Pick-up and drop-off at your accommodation in Marrakech",
+      "es": "Recogida y regreso a tu alojamiento en Marrakech",
+      "it": "Ritiro e rientro al tuo alloggio a Marrakech"
+    },
+    {
+      "en": "Private modern vehicle with air conditioning, fuel included",
+      "es": "Vehículo privado moderno con aire acondicionado, combustible incluido",
+      "it": "Veicolo privato moderno con aria condizionata, carburante incluso"
+    },
+    {
+      "en": "Experienced driver-guide speaking English or Spanish",
+      "es": "Conductor-guía con experiencia que habla inglés o español",
+      "it": "Autista-guida esperto che parla inglese o spagnolo"
+    },
+    {
+      "en": "Camel ride at sunset in Zagora",
+      "es": "Paseo en camello al atardecer en Zagora",
+      "it": "Giro in cammello al tramonto a Zagora"
+    },
+    {
+      "en": "1 night in a desert camp",
+      "es": "1 noche en un campamento del desierto",
+      "it": "1 notte in un campo tendato"
+    },
+    {
+      "en": "Dinner and breakfast at the camp",
+      "es": "Cena y desayuno en el campamento",
+      "it": "Cena e colazione al campo"
+    },
+    {
+      "en": "Optional 4×4 transfer to the camp instead of the camels",
+      "es": "Traslado opcional en 4×4 al campamento en lugar de camellos",
+      "it": "Trasferimento facoltativo in 4×4 al campo al posto dei cammelli"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Start",
+        "es": "Salida",
+        "it": "Partenza"
+      }
+    },
+    {
+      "name": "Tizi n'Tichka",
+      "description": {
+        "en": "2,260 m pass",
+        "es": "Puerto de 2.260 m",
+        "it": "Passo a 2.260 m"
+      }
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "description": {
+        "en": "UNESCO kasbah",
+        "es": "Kasbah UNESCO",
+        "it": "Kasbah UNESCO"
+      }
+    },
+    {
+      "name": "Ouarzazate",
+      "description": {
+        "en": "Gateway to the desert",
+        "es": "Puerta del desierto",
+        "it": "Porta del deserto"
+      }
+    },
+    {
+      "name": "Agdz",
+      "description": {
+        "en": "Draa Valley",
+        "es": "Valle del Draa",
+        "it": "Valle del Draa"
+      }
+    },
+    {
+      "name": "Zagora",
+      "description": {
+        "en": "Desert camp",
+        "es": "Campamento",
+        "it": "Campo tendato"
+      }
+    }
+  ],
+  "map_route": [
+    "Marrakech",
+    "Ait Ben Haddou",
+    "Ouarzazate",
+    "Agdz",
+    "Zagora"
+  ],
+  "planner": {
+    "show": true,
+    "days": 2,
+    "start": "marrakech",
+    "tags": [
+      "desert",
+      "cities"
+    ]
+  }
+}

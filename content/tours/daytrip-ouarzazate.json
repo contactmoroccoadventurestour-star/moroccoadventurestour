@@ -1,0 +1,304 @@
+{
+  "title": "Ouarzazate & Ait Ben Haddou Day Trip",
+  "type": "daytrip",
+  "category": "daytrip",
+  "order": 601,
+  "show_on_home": true,
+  "home_extra": [],
+  "price": "",
+  "image": "/images/dt-ouarzazate.jpg",
+  "image_position": "center 55%",
+  "meta_description": "Full-day trip from Marrakech to Ait Ben Haddou and Ouarzazate over the Tizi n'Tichka pass: the UNESCO ksar, Taourirt Kasbah, Atlas Film Studios and High Atlas views.",
+  "eyebrow": {
+    "en": "Marrakech · Ait Ben Haddou · Ouarzazate",
+    "es": "Marrakech · Ait Ben Haddou · Ouarzazate",
+    "it": "Marrakech · Ait Ben Haddou · Ouarzazate"
+  },
+  "title_line1": {
+    "en": "Ouarzazate & Ait Ben Haddou",
+    "es": "Excursión de un día a",
+    "it": "Escursione di un giorno a"
+  },
+  "title_line2": {
+    "en": "Day Trip",
+    "es": "Ouarzazate y Ait Ben Haddou",
+    "it": "Ouarzazate e Ait Ben Haddou"
+  },
+  "duration": {
+    "en": "Full day",
+    "es": "Día completo",
+    "it": "Giornata intera"
+  },
+  "duration_short": {
+    "en": "Full day",
+    "es": "Día completo",
+    "it": "Giornata intera"
+  },
+  "start": "Marrakech",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "Ouarzazate & Ait Ben Haddou Day Trip",
+      "es": "Excursión a Ouarzazate y Ait Ben Haddou",
+      "it": "Escursione a Ouarzazate e Ait Ben Haddou"
+    },
+    "highlights": {
+      "en": "",
+      "es": "",
+      "it": ""
+    },
+    "route": [
+      "Marrakech"
+    ],
+    "image_alt": "Ait Ben Haddou & Ouarzazate Day Trip from Marrakech, Morocco"
+  },
+  "overview": [
+    {
+      "en": "A full-day excursion from Marrakech to Ouarzazate and Ait Ben Haddou, where history, culture and landscape come together in one journey. It is a good day for travellers who want to explore the heritage of Morocco and the beauty of the High Atlas mountains.",
+      "es": "Una excursión de día completo desde Marrakech a Ouarzazate y Ait Ben Haddou, donde la historia, la cultura y el paisaje se unen en un solo viaje. Es un buen día para quienes quieren descubrir el patrimonio de Marruecos y la belleza de las montañas del Alto Atlas.",
+      "it": "Un’escursione di un’intera giornata da Marrakech a Ouarzazate e Ait Ben Haddou, dove storia, cultura e paesaggio si incontrano in un unico viaggio. È una bella giornata per chi vuole scoprire il patrimonio del Marocco e la bellezza delle montagne dell’Alto Atlante."
+    },
+    {
+      "en": "About 4 hours each way by road, so this is a long day and we leave early.",
+      "es": "Son unas 4 horas de carretera en cada sentido, así que es un día largo y salimos temprano.",
+      "it": "Sono circa 4 ore di strada per ogni tratta, quindi è una giornata lunga e si parte presto."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "The High Atlas",
+        "es": "El Alto Atlas",
+        "it": "L’Alto Atlante"
+      },
+      "detail": {
+        "en": "The dramatic scenery of the mountains on the way.",
+        "es": "El espectacular paisaje de las montañas por el camino.",
+        "it": "Lo spettacolare paesaggio delle montagne lungo il percorso."
+      }
+    },
+    {
+      "title": {
+        "en": "Ait Ben Haddou",
+        "es": "Ait Ben Haddou",
+        "it": "Ait Ben Haddou"
+      },
+      "detail": {
+        "en": "A historic ksar and a UNESCO World Heritage Site.",
+        "es": "Un ksar histórico y Patrimonio Mundial de la UNESCO.",
+        "it": "Uno storico ksar e Patrimonio Mondiale dell’UNESCO."
+      }
+    },
+    {
+      "title": {
+        "en": "Ouarzazate",
+        "es": "Ouarzazate",
+        "it": "Ouarzazate"
+      },
+      "detail": {
+        "en": "The cinema city of Morocco, known as the “Hollywood of Africa”.",
+        "es": "La ciudad del cine de Marruecos, conocida como el “Hollywood de África”.",
+        "it": "La città del cinema del Marocco, conosciuta come la “Hollywood d’Africa”."
+      }
+    },
+    {
+      "title": {
+        "en": "Taourirt Kasbah",
+        "es": "Kasbah de Taourirt",
+        "it": "Kasbah di Taourirt"
+      },
+      "detail": {
+        "en": "The history and architecture of a former Glaoui residence.",
+        "es": "La historia y la arquitectura de una antigua residencia de los Glaoui.",
+        "it": "La storia e l’architettura di un’antica residenza dei Glaoui."
+      }
+    },
+    {
+      "title": {
+        "en": "Traditional cuisine",
+        "es": "Cocina tradicional",
+        "it": "Cucina tradizionale"
+      },
+      "detail": {
+        "en": "A Moroccan meal with views of the desert.",
+        "es": "Una comida marroquí con vistas al desierto.",
+        "it": "Un pasto marocchino con vista sul deserto."
+      }
+    }
+  ],
+  "route": [
+    "Marrakech",
+    "Tizi n'Tichka",
+    "Ait Ben Haddou",
+    "Ouarzazate",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Departure from Marrakech",
+        "es": "Salida de Marrakech",
+        "it": "Partenza da Marrakech"
+      },
+      "text": {
+        "en": "Your day begins with an early pick-up from your accommodation in Marrakech. You settle into a comfortable air-conditioned vehicle and drive through the High Atlas mountains over the Tizi n’Tichka pass, one of the highest mountain passes in Morocco (2,260 m). On the way, admire the rugged peaks, terraced fields and Berber villages, stop at panoramic viewpoints for photos, and learn about the history and culture of the region from your driver or guide.",
+        "es": "Tu día empieza con la recogida temprano en tu alojamiento de Marrakech. Te acomodas en un vehículo confortable con aire acondicionado y cruzas las montañas del Alto Atlas por el puerto de Tizi n’Tichka, uno de los puertos de montaña más altos de Marruecos (2.260 m). Por el camino, admira los picos escarpados, los campos en terrazas y los pueblos bereberes, para en miradores panorámicos para hacer fotos y descubre la historia y la cultura de la región con tu chófer o guía.",
+        "it": "La tua giornata inizia con il prelievo di buon mattino presso il tuo alloggio a Marrakech. Ti accomodi in un veicolo confortevole con aria condizionata e attraversi le montagne dell’Alto Atlante passando per il passo di Tizi n’Tichka, uno dei passi di montagna più alti del Marocco (2.260 m). Lungo la strada ammira le vette aspre, i campi a terrazze e i villaggi berberi, fermati nei punti panoramici per scattare foto e scopri la storia e la cultura della regione con il tuo autista o la tua guida."
+      },
+      "label": {
+        "en": "Early morning",
+        "es": "Primera hora",
+        "it": "Mattino presto"
+      }
+    },
+    {
+      "title": {
+        "en": "Visit Ait Ben Haddou",
+        "es": "Visita de Ait Ben Haddou",
+        "it": "Visita di Ait Ben Haddou"
+      },
+      "text": {
+        "en": "Arrive at Ait Ben Haddou, a ksar (fortified village) and UNESCO World Heritage Site. Walk through the narrow winding streets of this old village, where earthen buildings rise against the desert. Learn how it served as a trading post on the caravan route between Marrakech and the Sahara, and see filming locations of films such as The Mummy, Kingdom of Heaven and Lawrence of Arabia. After the visit, have a relaxed lunch at a nearby restaurant with views of the ksar, with dishes such as tagine, couscous and freshly baked bread.",
+        "es": "Llegada a Ait Ben Haddou, un ksar (pueblo fortificado) y Patrimonio Mundial de la UNESCO. Recorre las calles estrechas y sinuosas de este antiguo pueblo, donde los edificios de tierra se alzan frente al desierto. Descubre cómo fue un puesto comercial en la ruta de las caravanas entre Marrakech y el Sáhara, y conoce lugares de rodaje de películas como La momia, El reino de los cielos y Lawrence de Arabia. Después de la visita, disfruta de un almuerzo tranquilo en un restaurante cercano con vistas al ksar, con platos como tajín, cuscús y pan recién hecho.",
+        "it": "Arrivo ad Ait Ben Haddou, uno ksar (villaggio fortificato) e Patrimonio Mondiale dell’UNESCO. Passeggia tra le strette stradine tortuose di questo antico villaggio, dove gli edifici in terra cruda si stagliano contro il deserto. Scopri come fosse una stazione commerciale sulla via carovaniera tra Marrakech e il Sahara, e vedi i luoghi delle riprese di film come La mummia, Le crociate e Lawrence d’Arabia. Dopo la visita, goditi un pranzo tranquillo in un ristorante vicino con vista sullo ksar, con piatti come tajine, cuscus e pane appena sfornato."
+      },
+      "label": {
+        "en": "Late morning",
+        "es": "Media mañana",
+        "it": "Tarda mattinata"
+      }
+    },
+    {
+      "title": {
+        "en": "Discover Ouarzazate",
+        "es": "Descubre Ouarzazate",
+        "it": "Scopri Ouarzazate"
+      },
+      "text": {
+        "en": "Continue to Ouarzazate, a city known for its history and its link with cinema. Explore the Taourirt Kasbah, a former residence of the Glaoui family, with its detailed architecture and maze-like layout. Visit the Atlas Film Studios, one of the largest film studios in the world, where films such as Gladiator and Babel were shot. Walk through the local souks for souvenirs, including handwoven rugs and crafts.",
+        "es": "Continuación a Ouarzazate, una ciudad conocida por su historia y su relación con el cine. Explora la kasbah de Taourirt, antigua residencia de la familia Glaoui, con su arquitectura detallada y su trazado laberíntico. Visita los Atlas Film Studios, uno de los estudios de cine más grandes del mundo, donde se rodaron películas como Gladiator y Babel. Pasea por los zocos locales en busca de recuerdos, como alfombras tejidas a mano y artesanía.",
+        "it": "Proseguimento verso Ouarzazate, una città conosciuta per la sua storia e il suo legame con il cinema. Esplora la kasbah di Taourirt, antica residenza della famiglia Glaoui, con la sua architettura ricca di dettagli e la sua pianta a labirinto. Visita gli Atlas Film Studios, tra i più grandi studi cinematografici al mondo, dove sono stati girati film come Il gladiatore e Babel. Passeggia nei souk locali per i souvenir, tra tappeti tessuti a mano e artigianato."
+      },
+      "label": {
+        "en": "Afternoon",
+        "es": "Tarde",
+        "it": "Pomeriggio"
+      }
+    },
+    {
+      "title": {
+        "en": "Return to Marrakech",
+        "es": "Regreso a Marrakech",
+        "it": "Rientro a Marrakech"
+      },
+      "text": {
+        "en": "The day ends with a relaxed drive back to Marrakech. Watch the sunset over the Atlas mountains and look back on the day. You arrive in Marrakech by late evening.",
+        "es": "El día termina con un tranquilo regreso a Marrakech. Contempla la puesta de sol sobre las montañas del Atlas y recuerda todo lo vivido. Llegada a Marrakech a última hora de la tarde.",
+        "it": "La giornata si conclude con un rilassante viaggio di ritorno a Marrakech. Ammira il tramonto sulle montagne dell’Atlante e ripensa alla giornata. Arrivo a Marrakech in tarda serata."
+      },
+      "label": {
+        "en": "Evening",
+        "es": "Noche",
+        "it": "Sera"
+      }
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Round-trip transportation in a comfortable air-conditioned vehicle",
+      "es": "Transporte de ida y vuelta en un vehículo cómodo con aire acondicionado",
+      "it": "Trasporto andata e ritorno in un veicolo confortevole con aria condizionata"
+    },
+    {
+      "en": "Professional English-speaking driver and guide",
+      "es": "Chófer y guía profesional de habla inglesa",
+      "it": "Autista e guida professionista di lingua inglese"
+    },
+    {
+      "en": "Hotel pick-up and drop-off in Marrakech",
+      "es": "Recogida y regreso al hotel en Marrakech",
+      "it": "Prelievo e rientro in hotel a Marrakech"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [
+    {
+      "en": "Entrance fees to attractions",
+      "es": "Entradas a los lugares de visita",
+      "it": "Biglietti d’ingresso alle attrazioni"
+    },
+    {
+      "en": "Lunch and beverages",
+      "es": "Almuerzo y bebidas",
+      "it": "Pranzo e bevande"
+    },
+    {
+      "en": "Personal expenses and souvenirs",
+      "es": "Gastos personales y recuerdos",
+      "it": "Spese personali e souvenir"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Early pick-up from your accommodation",
+        "es": "Recogida temprano en tu alojamiento",
+        "it": "Prelievo di buon mattino presso il tuo alloggio"
+      }
+    },
+    {
+      "name": "Tizi n'Tichka",
+      "description": {
+        "en": "High Atlas pass and panoramic viewpoints",
+        "es": "Puerto del Alto Atlas y miradores",
+        "it": "Passo dell’Alto Atlante e punti panoramici"
+      }
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "description": {
+        "en": "UNESCO ksar and lunch with views",
+        "es": "Ksar UNESCO y almuerzo con vistas",
+        "it": "Ksar UNESCO e pranzo con vista"
+      }
+    },
+    {
+      "name": "Ouarzazate",
+      "description": {
+        "en": "Taourirt Kasbah, Atlas Film Studios and souks",
+        "es": "Kasbah de Taourirt, Atlas Film Studios y zocos",
+        "it": "Kasbah di Taourirt, Atlas Film Studios e souk"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Drop-off by late evening",
+        "es": "Regreso a última hora de la tarde",
+        "it": "Rientro in tarda serata"
+      }
+    }
+  ],
+  "map_route": [
+    "Marrakech, Morocco",
+    "Tizi n'Tichka, Morocco",
+    "Ait Ben Haddou, Morocco",
+    "Ouarzazate, Morocco",
+    "Marrakech, Morocco"
+  ],
+  "planner": {
+    "show": true,
+    "days": 1,
+    "start": "marrakech",
+    "tags": [
+      "cities",
+      "mountains"
+    ]
+  }
+}

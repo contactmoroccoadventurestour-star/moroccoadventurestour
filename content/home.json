@@ -1,0 +1,29 @@
+{
+  "hero": {
+    "eyebrow": {
+      "en": "Desert & Adventure Tours",
+      "es": "Tours de desierto y aventura",
+      "it": "Tour nel deserto e avventura"
+    },
+    "title_line1": {
+      "en": "Live the Real",
+      "es": "Vive la auténtica",
+      "it": "Vivi la vera"
+    },
+    "title_line2": {
+      "en": "Moroccan Adventure",
+      "es": "Aventura Marroquí",
+      "it": "Avventura Marocchina"
+    },
+    "text": {
+      "en": "Private tours across all of Morocco — imperial cities, the Atlas Mountains, the Sahara and the coast. Day trips, desert adventures and tailor-made journeys, organised from start to finish by our local team.",
+      "es": "Tours privados por todo Marruecos: ciudades imperiales, el Atlas, el Sáhara y la costa. Excursiones, aventuras en el desierto y viajes a medida, organizados de principio a fin por nuestro equipo local.",
+      "it": "Tour privati in tutto il Marocco: città imperiali, Atlante, Sahara e costa. Escursioni, avventure nel deserto e viaggi su misura, organizzati dall'inizio alla fine dal nostro team locale."
+    },
+    "button": {
+      "en": "Explore Our Tours",
+      "es": "Ver nuestros circuitos",
+      "it": "Scopri i nostri tour"
+    }
+  }
+}

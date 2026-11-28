@@ -1,0 +1,63 @@
+# Rebuilds the HTML pages after each change made in Pages CMS (content/ or images/).
+# It only commits the generated pages, thumbnails and build/applied.json — never CNAME.
+name: Build site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+      - 'images/**'
+      - 'build/**'
+      - '.github/workflows/build-site.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: build-site
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install image tool (for thumbnails)
+        run: pip install --quiet pillow
+
+      - name: Build pages from content/
+        run: python3 build/build.py
+
+      - name: Commit the rebuilt pages
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- '*.html' script.js sitemap.xml robots.txt images build/applied.json
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "Rebuild pages from Pages CMS content"
+          git pull --rebase origin main
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      # A push made by this workflow does not start GitHub Pages by itself,
+      # so we ask GitHub Pages to publish the new version.
+      - name: Publish on GitHub Pages
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds"

@@ -1,0 +1,450 @@
+{
+  "title": "5 Days From Errachidia to Marrakech via Sahara Desert",
+  "type": "tour",
+  "category": "errachidia",
+  "order": 404,
+  "show_on_home": true,
+  "home_extra": [
+    "authentic"
+  ],
+  "price": "",
+  "image": "/images/tour-er5.jpg",
+  "image_position": "center 85%",
+  "meta_description": "5-day tour from Errachidia to Marrakech: Ziz Valley, Erfoud, Rissani, Merzouga, Khamlia, nomad families, camel trek and desert camp in Erg Chebbi, Todra Gorges, Dades Valley, Rose Valley, Skoura, Ouarzazate and Ait Ben Haddou.",
+  "eyebrow": {
+    "en": "Errachidia to Marrakech via the Sahara",
+    "es": "De Errachidia a Marrakech por el Sáhara",
+    "it": "Da Errachidia a Marrakech via Sahara"
+  },
+  "title_line1": {
+    "en": "5 Days From Errachidia",
+    "es": "5 días desde Errachidia",
+    "it": "5 giorni da Errachidia"
+  },
+  "title_line2": {
+    "en": "to Marrakech via Sahara Desert",
+    "es": "a Marrakech por el desierto del Sáhara",
+    "it": "a Marrakech via deserto del Sahara"
+  },
+  "duration": {
+    "en": "5 days",
+    "es": "5 días",
+    "it": "5 giorni"
+  },
+  "duration_short": {
+    "en": "5 days",
+    "es": "5 días",
+    "it": "5 giorni"
+  },
+  "start": "Errachidia",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "5 Days From Errachidia to Marrakech",
+      "es": "5 días de Errachidia a Marrakech",
+      "it": "5 giorni da Errachidia a Marrakech"
+    },
+    "highlights": {
+      "en": "Ziz Valley · Khamlia · Erg Chebbi camp · Todra · Dades · Ait Ben Haddou",
+      "es": "Valle del Ziz · Khamlia · campamento en Erg Chebbi · Todra · Dades · Ait Ben Haddou",
+      "it": "Valle dello Ziz · Khamlia · campo a Erg Chebbi · Todra · Dades · Ait Ben Haddou"
+    },
+    "route": [
+      "Errachidia",
+      "Merzouga",
+      "Ouarzazate",
+      "Marrakech"
+    ],
+    "image_alt": "5 Days From Errachidia to Marrakech via Sahara Desert"
+  },
+  "overview": [
+    {
+      "en": "The 5 Days From Errachidia to Marrakech via Sahara Desert is a complete journey from eastern Morocco to the red city of Marrakech through the Ziz Valley, Merzouga desert, Todra Gorges, Dades Valley, Ouarzazate, Ait Ben Haddou, and the High Atlas Mountains. This tour is designed for travelers who arrive in Errachidia and want a deeper Sahara experience before continuing to Marrakech.",
+      "es": "El tour de 5 días de Errachidia a Marrakech por el desierto del Sáhara es un viaje completo desde el este de Marruecos hasta la ciudad roja de Marrakech, por el valle del Ziz, el desierto de Merzouga, las gargantas del Todra, el valle del Dades, Ouarzazate, Ait Ben Haddou y el Alto Atlas. Este tour está pensado para viajeros que llegan a Errachidia y quieren vivir el Sáhara más a fondo antes de seguir hacia Marrakech.",
+      "it": "Il tour di 5 giorni da Errachidia a Marrakech via deserto del Sahara è un viaggio completo dal Marocco orientale alla città rossa di Marrakech, attraverso la valle dello Ziz, il deserto di Merzouga, le gole del Todra, la valle del Dades, Ouarzazate, Ait Ben Haddou e l’Alto Atlante. È pensato per chi arriva a Errachidia e vuole vivere il Sahara più a fondo prima di proseguire per Marrakech."
+    },
+    {
+      "en": "Your journey starts in Errachidia, a city located near the Ziz Valley and the desert routes of southeastern Morocco. From Errachidia, the road continues through Erfoud, Rissani, and desert villages before reaching Merzouga, near the golden dunes of Erg Chebbi.",
+      "es": "Tu viaje comienza en Errachidia, una ciudad cercana al valle del Ziz y a las rutas del desierto del sureste de Marruecos. Desde Errachidia, la carretera sigue por Erfoud, Rissani y pueblos del desierto hasta llegar a Merzouga, junto a las dunas doradas de Erg Chebbi.",
+      "it": "Il viaggio inizia a Errachidia, città vicina alla valle dello Ziz e alle rotte del deserto del sud-est del Marocco. Da Errachidia la strada prosegue per Erfoud, Rissani e i villaggi del deserto fino a Merzouga, vicino alle dune dorate di Erg Chebbi."
+    },
+    {
+      "en": "In Merzouga, you will enjoy camel trekking across the dunes, sunset views, dinner at the desert camp, and an overnight stay under the stars. You will also have a full day to explore the desert area, including Khamlia village, nomad families, palm areas, and the landscapes around Erg Chebbi.",
+      "es": "En Merzouga disfrutarás de un paseo en camello por las dunas, la puesta de sol, la cena en el campamento y una noche bajo las estrellas. También tendrás un día entero para descubrir la zona del desierto, con el pueblo de Khamlia, familias nómadas, palmerales y los paisajes que rodean Erg Chebbi.",
+      "it": "A Merzouga vivrai un’escursione in cammello tra le dune, il tramonto, la cena al campo e una notte sotto le stelle. Avrai anche un giorno intero per esplorare la zona del deserto, con il villaggio di Khamlia, le famiglie nomadi, i palmeti e i paesaggi intorno a Erg Chebbi."
+    },
+    {
+      "en": "After the Sahara experience, the route continues through Todra Gorges, Dades Valley, Rose Valley, Ouarzazate, and Ait Ben Haddou before crossing the High Atlas Mountains to Marrakech. This tour is ideal for travelers who want a slow and complete desert route from Errachidia with camel trekking, Sahara camp, desert exploration, valleys, kasbahs, and mountain landscapes.",
+      "es": "Después del Sáhara, la ruta sigue por las gargantas del Todra, el valle del Dades, el valle de las Rosas, Ouarzazate y Ait Ben Haddou antes de cruzar el Alto Atlas hasta Marrakech. Este tour es ideal para quienes buscan una ruta del desierto tranquila y completa desde Errachidia, con paseo en camello, campamento en el Sáhara, exploración del desierto, valles, kasbahs y paisajes de montaña.",
+      "it": "Dopo il Sahara, il percorso prosegue per le gole del Todra, la valle del Dades, la valle delle Rose, Ouarzazate e Ait Ben Haddou prima di attraversare l’Alto Atlante fino a Marrakech. Questo tour è ideale per chi cerca un itinerario nel deserto con calma e completo da Errachidia, con cammello, campo nel Sahara, esplorazione del deserto, valli, kasbah e paesaggi di montagna."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "Ziz Valley, Erfoud & Rissani",
+        "es": "Valle del Ziz, Erfoud y Rissani",
+        "it": "Valle dello Ziz, Erfoud e Rissani"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Khamlia & nomad families",
+        "es": "Khamlia y familias nómadas",
+        "it": "Khamlia e famiglie nomadi"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Sunset camel ride & desert camp",
+        "es": "Camello al atardecer y campamento",
+        "it": "Cammello al tramonto e campo"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Todra Gorges & Dades Valley",
+        "es": "Gargantas del Todra y valle del Dades",
+        "it": "Gole del Todra e valle del Dades"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Rose Valley, Skoura & Ouarzazate",
+        "es": "Valle de las Rosas, Skoura y Ouarzazate",
+        "it": "Valle delle Rose, Skoura e Ouarzazate"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Ait Ben Haddou & Tizi n’Tichka",
+        "es": "Ait Ben Haddou y Tizi n’Tichka",
+        "it": "Ait Ben Haddou e Tizi n’Tichka"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Errachidia",
+    "Merzouga",
+    "Todra",
+    "Dades",
+    "Ouarzazate",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Errachidia – Ziz Valley – Erfoud – Rissani – Merzouga Desert",
+        "es": "Errachidia – valle del Ziz – Erfoud – Rissani – desierto de Merzouga",
+        "it": "Errachidia – valle dello Ziz – Erfoud – Rissani – deserto di Merzouga"
+      },
+      "text": {
+        "en": "Your 5 Days Desert Tour From Errachidia to Marrakech via Sahara Desert starts with pick-up from your accommodation or airport in Errachidia. We begin the journey by driving through the Ziz Valley, one of the most beautiful palm valleys in southeastern Morocco. Along the way, several stops can be made for panoramic views over the palm groves, oasis landscapes, and desert scenery. The route continues towards Erfoud, a town known for fossils and desert products. After Erfoud, we continue towards Rissani, a historic town linked to old caravan routes and traditional markets. Depending on the day, we can stop near the market area before continuing to Merzouga. By the afternoon, we arrive in Merzouga, near the dunes of Erg Chebbi. Dinner and overnight stay will be at a hotel or riad near the desert.",
+        "es": "Tu tour de 5 días de Errachidia a Marrakech por el desierto del Sáhara empieza con la recogida en tu alojamiento o en el aeropuerto de Errachidia. Comenzamos el viaje por el valle del Ziz, uno de los valles de palmeras más bonitos del sureste de Marruecos. Por el camino haremos varias paradas para ver los palmerales, los paisajes de oasis y el desierto. La ruta sigue hacia Erfoud, ciudad conocida por sus fósiles y productos del desierto. Después continuamos hacia Rissani, ciudad histórica ligada a las antiguas rutas de caravanas y a los mercados tradicionales. Según el día, podemos parar cerca del mercado antes de seguir a Merzouga. Por la tarde llegamos a Merzouga, junto a las dunas de Erg Chebbi. Cena y noche en un hotel o riad cerca del desierto.",
+        "it": "Il tour di 5 giorni da Errachidia a Marrakech via deserto del Sahara inizia con il prelievo dal tuo alloggio o dall’aeroporto di Errachidia. Si parte attraversando la valle dello Ziz, una delle più belle valli di palme del sud-est del Marocco. Lungo il percorso faremo diverse soste per ammirare palmeti, oasi e paesaggi desertici. La strada prosegue verso Erfoud, cittadina nota per i fossili e i prodotti del deserto. Dopo Erfoud continuiamo verso Rissani, città storica legata alle antiche rotte carovaniere e ai mercati tradizionali. A seconda del giorno possiamo fermarci vicino al mercato prima di proseguire per Merzouga. Nel pomeriggio arriviamo a Merzouga, vicino alle dune di Erg Chebbi. Cena e notte in hotel o riad vicino al deserto."
+      },
+      "overnight": {
+        "en": "Hotel or riad near the desert",
+        "es": "Hotel o riad cerca del desierto",
+        "it": "Hotel o riad vicino al deserto"
+      },
+      "breakfast": false,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Explore Merzouga Area – Khamlia – Nomad Families – Camel Trekking – Desert Camp",
+        "es": "Zona de Merzouga – Khamlia – familias nómadas – camello – campamento",
+        "it": "Zona di Merzouga – Khamlia – famiglie nomadi – cammello – campo"
+      },
+      "text": {
+        "en": "After breakfast, we start exploring the Merzouga area. The visit can include Khamlia village, known for its Gnawa music, and nearby desert areas with black volcanic landscapes around the dunes. You may also visit nomad families living around the desert region and learn more about their traditional way of life. The route continues through small desert villages, palm areas, and viewpoints around Erg Chebbi. In the afternoon, you will prepare for the camel trek. You will ride camels across the golden dunes and enjoy the sunset over the Sahara. After the camel trek, you will reach the desert camp. Dinner will be served at the camp, followed by a peaceful night under the stars. Overnight stay will be in a desert tent.",
+        "es": "Después del desayuno empezamos a descubrir la zona de Merzouga. La visita puede incluir el pueblo de Khamlia, conocido por su música gnawa, y zonas cercanas del desierto con paisajes volcánicos negros alrededor de las dunas. También podrás visitar familias nómadas de la región y conocer su forma de vida tradicional. La ruta sigue por pequeños pueblos del desierto, palmerales y miradores alrededor de Erg Chebbi. Por la tarde te prepararás para el paseo en camello: recorrerás las dunas doradas y disfrutarás de la puesta de sol sobre el Sáhara. Tras el paseo llegarás al campamento, donde se sirve la cena, seguida de una noche tranquila bajo las estrellas. Noche en una jaima del desierto.",
+        "it": "Dopo la colazione iniziamo a esplorare la zona di Merzouga. La visita può includere il villaggio di Khamlia, noto per la musica gnawa, e le zone del deserto vicine con paesaggi vulcanici neri intorno alle dune. Potrai anche visitare famiglie nomadi della regione e conoscere il loro stile di vita tradizionale. Il percorso prosegue tra piccoli villaggi del deserto, palmeti e belvedere intorno a Erg Chebbi. Nel pomeriggio ti preparerai per l’escursione in cammello: attraverserai le dune dorate godendoti il tramonto sul Sahara. Dopo il cammello arriverai al campo, dove sarà servita la cena, seguita da una notte tranquilla sotto le stelle. Notte in tenda nel deserto."
+      },
+      "overnight": {
+        "en": "Desert tent in Erg Chebbi",
+        "es": "Jaima en Erg Chebbi",
+        "it": "Tenda a Erg Chebbi"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga Desert – Rissani – Erfoud – Todra Gorges – Dades Valley",
+        "es": "Desierto de Merzouga – Rissani – Erfoud – gargantas del Todra – valle del Dades",
+        "it": "Deserto di Merzouga – Rissani – Erfoud – gole del Todra – valle del Dades"
+      },
+      "text": {
+        "en": "Wake up early to enjoy the sunrise over the dunes before breakfast at the camp. After breakfast, we leave Merzouga and drive towards Rissani. Rissani is known for its traditional market, old trading history, and connection with desert caravan routes. After the visit, we continue through Erfoud and desert landscapes towards Todra Gorges. Todra Gorges are among the most impressive natural sites in southern Morocco, with high rocky cliffs and narrow canyon views. You will have time to walk through the gorge and enjoy the scenery. After visiting Todra Gorges, the journey continues through Tinghir and the valley road towards Dades Valley. Along the way, you will see palm groves, kasbahs, rock formations, and mountain views. Dinner and overnight stay will be at a hotel or riad in Dades Valley.",
+        "es": "Levántate temprano para ver el amanecer sobre las dunas antes de desayunar en el campamento. Después dejamos Merzouga y vamos hacia Rissani, conocida por su mercado tradicional, su antigua historia comercial y su relación con las rutas de caravanas. Tras la visita seguimos por Erfoud y paisajes desérticos hacia las gargantas del Todra, uno de los lugares naturales más impresionantes del sur de Marruecos, con altos acantilados y un cañón estrecho. Tendrás tiempo para caminar por la garganta y disfrutar del paisaje. Después seguimos por Tinghir y la carretera del valle hacia el valle del Dades, entre palmerales, kasbahs, formaciones rocosas y vistas de montaña. Cena y noche en un hotel o riad en el valle del Dades.",
+        "it": "Sveglia presto per l’alba sulle dune prima della colazione al campo. Poi lasciamo Merzouga in direzione di Rissani, nota per il suo mercato tradizionale, l’antica storia commerciale e il legame con le rotte carovaniere. Dopo la visita proseguiamo per Erfoud e paesaggi desertici verso le gole del Todra, tra i luoghi naturali più spettacolari del sud del Marocco, con alte pareti rocciose e un canyon stretto. Avrai tempo per camminare nella gola e goderti il paesaggio. Poi proseguiamo per Tinghir e la strada della valle verso la valle del Dades, tra palmeti, kasbah, formazioni rocciose e viste sulle montagne. Cena e notte in hotel o riad nella valle del Dades."
+      },
+      "overnight": {
+        "en": "Hotel or riad in the Dades Valley",
+        "es": "Hotel o riad en el valle del Dades",
+        "it": "Hotel o riad nella valle del Dades"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Dades Valley – Rose Valley – Skoura – Ouarzazate",
+        "es": "Valle del Dades – valle de las Rosas – Skoura – Ouarzazate",
+        "it": "Valle del Dades – valle delle Rose – Skoura – Ouarzazate"
+      },
+      "text": {
+        "en": "After breakfast, we leave Dades Valley and continue through the Rose Valley, known for its valley landscapes and local rose products. The road passes through small villages, kasbahs, and palm areas. The journey continues towards Skoura, an area famous for its palm groves and old kasbahs. Several stops can be made along the way for photos and panoramic views. After Skoura, we continue to Ouarzazate, often called the gateway to the desert. Depending on time, you can enjoy a short visit or relax at your accommodation. Dinner and overnight stay will be at a hotel or riad in Ouarzazate.",
+        "es": "Después del desayuno dejamos el valle del Dades y seguimos por el valle de las Rosas, conocido por sus paisajes y sus productos de rosa. La carretera pasa por pequeños pueblos, kasbahs y palmerales. El viaje sigue hacia Skoura, zona famosa por sus palmerales y sus antiguas kasbahs, con varias paradas para hacer fotos y ver el paisaje. Después de Skoura llegamos a Ouarzazate, a menudo llamada la puerta del desierto. Según el tiempo, podrás hacer una breve visita o descansar en tu alojamiento. Cena y noche en un hotel o riad en Ouarzazate.",
+        "it": "Dopo la colazione lasciamo la valle del Dades e proseguiamo nella valle delle Rose, nota per i suoi paesaggi e i prodotti locali alla rosa. La strada attraversa piccoli villaggi, kasbah e palmeti. Il viaggio continua verso Skoura, famosa per i suoi palmeti e le antiche kasbah, con diverse soste per foto e panorami. Dopo Skoura arriviamo a Ouarzazate, spesso chiamata la porta del deserto. In base al tempo potrai fare una breve visita o riposarti nel tuo alloggio. Cena e notte in hotel o riad a Ouarzazate."
+      },
+      "overnight": {
+        "en": "Hotel or riad in Ouarzazate",
+        "es": "Hotel o riad en Ouarzazate",
+        "it": "Hotel o riad a Ouarzazate"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Ouarzazate – Ait Ben Haddou – High Atlas Mountains – Marrakech",
+        "es": "Ouarzazate – Ait Ben Haddou – Alto Atlas – Marrakech",
+        "it": "Ouarzazate – Ait Ben Haddou – Alto Atlante – Marrakech"
+      },
+      "text": {
+        "en": "After breakfast, we leave Ouarzazate and continue to Ait Ben Haddou Kasbah. This ancient fortified village is one of Morocco’s most famous kasbahs and a strong example of traditional earthen architecture. You will have time to visit the kasbah, walk through its old alleys, and enjoy the surrounding views. After the visit, we continue towards the High Atlas Mountains. The road crosses the Tizi n’Tichka pass, with several stops for panoramic views, coffee, or short breaks. Along the way, you will pass Berber villages and mountain landscapes before reaching Marrakech. By the late afternoon or evening, we arrive in Marrakech. The tour ends with drop-off at your accommodation.",
+        "es": "Después del desayuno dejamos Ouarzazate y vamos a la kasbah de Ait Ben Haddou. Este antiguo pueblo fortificado es una de las kasbahs más famosas de Marruecos y un gran ejemplo de arquitectura tradicional de tierra. Tendrás tiempo para visitarla, pasear por sus viejas callejuelas y disfrutar de las vistas. Después seguimos hacia el Alto Atlas. La carretera cruza el puerto de Tizi n’Tichka, con varias paradas para ver el paisaje, tomar un café o descansar. Por el camino pasarás por pueblos bereberes y paisajes de montaña antes de llegar a Marrakech a última hora de la tarde o por la noche. El tour termina con el traslado a tu alojamiento.",
+        "it": "Dopo la colazione lasciamo Ouarzazate e raggiungiamo la kasbah di Ait Ben Haddou. Questo antico villaggio fortificato è una delle kasbah più famose del Marocco e un grande esempio di architettura tradizionale in terra. Avrai il tempo di visitarla, passeggiare nei suoi vecchi vicoli e goderti il panorama. Poi proseguiamo verso l’Alto Atlante. La strada attraversa il passo del Tizi n’Tichka, con diverse soste per panorami, un caffè o brevi pause. Lungo il percorso passerai villaggi berberi e paesaggi di montagna prima di arrivare a Marrakech nel tardo pomeriggio o in serata. Il tour termina con l’accompagnamento al tuo alloggio."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Pick-up from your accommodation or airport in Errachidia",
+      "es": "Recogida en tu alojamiento o en el aeropuerto de Errachidia",
+      "it": "Prelievo dal tuo alloggio o dall’aeroporto di Errachidia"
+    },
+    {
+      "en": "Drop off at your accommodation in Marrakech",
+      "es": "Traslado a tu alojamiento en Marrakech",
+      "it": "Accompagnamento al tuo alloggio a Marrakech"
+    },
+    {
+      "en": "Car fuel",
+      "es": "Combustible",
+      "it": "Carburante"
+    },
+    {
+      "en": "Experienced English/Spanish speaking driver/guide",
+      "es": "Conductor/guía con experiencia que habla inglés/español",
+      "it": "Autista/guida esperto che parla inglese/spagnolo"
+    },
+    {
+      "en": "Camel trekking",
+      "es": "Paseo en camello",
+      "it": "Escursione in cammello"
+    },
+    {
+      "en": "Sunset camel ride",
+      "es": "Paseo en camello al atardecer",
+      "it": "Cammello al tramonto"
+    },
+    {
+      "en": "3 nights in a private room at a hotel/riad",
+      "es": "3 noches en habitación privada en hotel/riad",
+      "it": "3 notti in camera privata in hotel/riad"
+    },
+    {
+      "en": "Overnight at the desert camp",
+      "es": "Noche en el campamento del desierto",
+      "it": "Notte al campo nel deserto"
+    },
+    {
+      "en": "Dinner and breakfast",
+      "es": "Cena y desayuno",
+      "it": "Cena e colazione"
+    },
+    {
+      "en": "4x4 transfer from and to the camp (alternative to camels)",
+      "es": "Traslado en 4x4 al campamento (alternativa al camello)",
+      "it": "Trasferimento in 4x4 al campo (alternativa al cammello)"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Errachidia",
+      "description": {
+        "en": "Start",
+        "es": "Salida",
+        "it": "Partenza"
+      }
+    },
+    {
+      "name": "Ziz Valley",
+      "description": {
+        "en": "Palm valley",
+        "es": "Valle de palmeras",
+        "it": "Valle di palme"
+      }
+    },
+    {
+      "name": "Erfoud",
+      "description": {
+        "en": "Fossils",
+        "es": "Fósiles",
+        "it": "Fossili"
+      }
+    },
+    {
+      "name": "Rissani",
+      "description": {
+        "en": "Caravan town",
+        "es": "Ciudad caravanera",
+        "it": "Città carovaniera"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Night 1",
+        "es": "Noche 1",
+        "it": "Notte 1"
+      }
+    },
+    {
+      "name": "Khamlia",
+      "description": {
+        "en": "Gnawa music",
+        "es": "Música gnawa",
+        "it": "Musica gnawa"
+      }
+    },
+    {
+      "name": "Erg Chebbi",
+      "description": {
+        "en": "Desert camp · night 2",
+        "es": "Campamento · noche 2",
+        "it": "Campo · notte 2"
+      }
+    },
+    {
+      "name": "Todra Gorges",
+      "description": {
+        "en": "Canyon walk",
+        "es": "Paseo por el cañón",
+        "it": "Passeggiata nel canyon"
+      }
+    },
+    {
+      "name": "Dades Valley",
+      "description": {
+        "en": "Night 3",
+        "es": "Noche 3",
+        "it": "Notte 3"
+      }
+    },
+    {
+      "name": "Skoura",
+      "description": {
+        "en": "Palm groves & kasbahs",
+        "es": "Palmerales y kasbahs",
+        "it": "Palmeti e kasbah"
+      }
+    },
+    {
+      "name": "Ouarzazate",
+      "description": {
+        "en": "Night 4",
+        "es": "Noche 4",
+        "it": "Notte 4"
+      }
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "description": {
+        "en": "Kasbah",
+        "es": "Kasbah",
+        "it": "Kasbah"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "End",
+        "es": "Fin",
+        "it": "Fine"
+      }
+    }
+  ],
+  "map_route": [
+    "Errachidia",
+    "Erfoud",
+    "Rissani",
+    "Merzouga",
+    "Khamlia",
+    "Rissani",
+    "Tinghir",
+    "Boumalne Dades",
+    "Kalaat M'Gouna",
+    "Skoura",
+    "Ouarzazate",
+    "Ait Ben Haddou",
+    "Marrakech"
+  ],
+  "planner": {
+    "show": true,
+    "days": 5,
+    "start": "errachidia",
+    "tags": [
+      "desert",
+      "mountains"
+    ]
+  }
+}

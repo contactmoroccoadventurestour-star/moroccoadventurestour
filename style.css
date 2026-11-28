@@ -1586,3 +1586,6 @@ html[lang="en"] .lg-en, html:not([lang="es"]):not([lang="it"]) .lg-en, html[lang
 
 /* hero video: poster = first frame, show at once (no old photo flash) */
 .hero-video { opacity: 1 !important; transition: none; }
+
+/* ===== price shown on tour cards (only when a price is set in Pages CMS) ===== */
+.lx-price { display: inline-block; margin: 2px 0 10px; padding: 5px 12px; border-radius: 30px; background: rgba(232,168,74,.92); color: #2a160c; font-size: 12px; font-weight: 700; letter-spacing: .5px; }

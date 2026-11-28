@@ -1,0 +1,344 @@
+{
+  "title": "3 Days Tour from Marrakech to Merzouga Desert",
+  "type": "tour",
+  "category": "marrakech",
+  "order": 1,
+  "show_on_home": true,
+  "home_extra": [
+    "shared"
+  ],
+  "price": "",
+  "image": "/images/tour-merzouga3.jpg",
+  "image_position": "center 60%",
+  "meta_description": "Private 3-day tour from Marrakech to the Merzouga desert: Tizi n'Tichka, Ait Ben Haddou, Ouarzazate, Dades Valley, Todra Gorge, camel trek and a night in a desert camp in Erg Chebbi.",
+  "eyebrow": {
+    "en": "Private desert tour",
+    "es": "Tour privado al desierto",
+    "it": "Tour privato nel deserto"
+  },
+  "title_line1": {
+    "en": "3 Days from Marrakech",
+    "es": "3 días desde Marrakech",
+    "it": "3 giorni da Marrakech"
+  },
+  "title_line2": {
+    "en": "to the Merzouga Desert",
+    "es": "al desierto de Merzouga",
+    "it": "al deserto di Merzouga"
+  },
+  "duration": {
+    "en": "3 days · 2 nights",
+    "es": "3 días · 2 noches",
+    "it": "3 giorni · 2 notti"
+  },
+  "duration_short": {
+    "en": "3 days",
+    "es": "3 días",
+    "it": "3 giorni"
+  },
+  "start": "Marrakech",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "3 Days Marrakech to Merzouga Desert",
+      "es": "3 días de Marrakech al desierto de Merzouga",
+      "it": "3 giorni da Marrakech al deserto di Merzouga"
+    },
+    "highlights": {
+      "en": "Ait Ben Haddou · Dades & Todra Gorges · Erg Chebbi dunes",
+      "es": "Ait Ben Haddou · gargantas del Dades y Todra · dunas de Erg Chebbi",
+      "it": "Ait Ben Haddou · gole del Dades e Todra · dune di Erg Chebbi"
+    },
+    "route": [
+      "Marrakech",
+      "Merzouga"
+    ],
+    "image_alt": "3 Days Marrakech to Merzouga Desert"
+  },
+  "overview": [
+    {
+      "en": "Three days, one unforgettable road: from Marrakech over the High Atlas to the golden dunes of Erg Chebbi, with kasbahs, canyons and a night in the Sahara along the way.",
+      "es": "Tres días y una carretera inolvidable: de Marrakech, cruzando el Alto Atlas, hasta las dunas doradas de Erg Chebbi, con kasbahs, cañones y una noche en el Sáhara por el camino.",
+      "it": "Tre giorni e una strada indimenticabile: da Marrakech, oltre l’Alto Atlante, fino alle dune dorate di Erg Chebbi, con kasbah, canyon e una notte nel Sahara lungo il percorso."
+    },
+    {
+      "en": "You cross the Tizi n’Tichka pass at 2,260 m, explore the UNESCO ksar of Ait Ben Haddou — seen in films like Gladiator — and visit Ouarzazate before spending the night in the Dades Valley, the “valley of a thousand kasbahs”.",
+      "es": "Cruzas el puerto de Tizi n’Tichka a 2.260 m, recorres el ksar de Ait Ben Haddou (UNESCO), escenario de películas como Gladiator, y visitas Ouarzazate antes de dormir en el valle del Dades, el “valle de las mil kasbahs”.",
+      "it": "Attraversi il passo del Tizi n’Tichka a 2.260 m, esplori lo ksar di Ait Ben Haddou (UNESCO), set di film come Il Gladiatore, e visiti Ouarzazate prima di dormire nella valle del Dades, la “valle delle mille kasbah”."
+    },
+    {
+      "en": "On day two you walk through the Todra Gorge between 300-metre cliffs, then ride a camel into the dunes of Merzouga for sunset, dinner, Berber music around the fire and a night in a comfortable desert camp. Day three starts with sunrise over the sand before the drive back to Marrakech.",
+      "es": "El segundo día caminas por la garganta del Todra entre paredes de 300 metros y luego montas en camello por las dunas de Merzouga para el atardecer, la cena, música bereber junto al fuego y una noche en un cómodo campamento. El tercer día empieza con el amanecer sobre la arena antes de volver a Marrakech.",
+      "it": "Il secondo giorno cammini nella gola del Todra tra pareti di 300 metri, poi entri in cammello tra le dune di Merzouga per il tramonto, la cena, musica berbera attorno al fuoco e una notte in un comodo campo tendato. Il terzo giorno inizia con l’alba sulla sabbia prima del rientro a Marrakech."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "Tizi n’Tichka pass",
+        "es": "Puerto de Tizi n’Tichka",
+        "it": "Passo del Tizi n’Tichka"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Ait Ben Haddou & Ouarzazate",
+        "es": "Ait Ben Haddou y Ouarzazate",
+        "it": "Ait Ben Haddou e Ouarzazate"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Dades Valley",
+        "es": "Valle del Dades",
+        "it": "Valle del Dades"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Todra Gorge",
+        "es": "Garganta del Todra",
+        "it": "Gola del Todra"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Camel trek in Erg Chebbi",
+        "es": "Camello en Erg Chebbi",
+        "it": "Cammello a Erg Chebbi"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Sunrise over the dunes",
+        "es": "Amanecer sobre las dunas",
+        "it": "Alba sulle dune"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Marrakech",
+    "Ait Ben Haddou",
+    "Dades",
+    "Todra",
+    "Merzouga",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Marrakech – Ait Ben Haddou – Dades Valley",
+        "es": "Marrakech – Ait Ben Haddou – valle del Dades",
+        "it": "Marrakech – Ait Ben Haddou – valle del Dades"
+      },
+      "text": {
+        "en": "An early start from Marrakech takes you into the High Atlas over the Tizi n’Tichka pass, with views of peaks, valleys and Berber villages. Explore the alleys of Ait Ben Haddou and climb to the top for the view, then visit Ouarzazate and its Taourirt kasbah. In the late afternoon you reach the Dades Valley, with its red cliffs and kasbahs, for a traditional dinner and the night.",
+        "es": "Salimos temprano de Marrakech hacia el Alto Atlas por el puerto de Tizi n’Tichka, con vistas de cumbres, valles y pueblos bereberes. Recorres las callejuelas de Ait Ben Haddou y subes a lo alto para ver el paisaje, luego visitas Ouarzazate y su kasbah de Taourirt. Por la tarde llegas al valle del Dades, con sus acantilados rojos y kasbahs, para una cena tradicional y la noche.",
+        "it": "Partenza presto da Marrakech verso l’Alto Atlante sul passo del Tizi n’Tichka, con vista su vette, valli e villaggi berberi. Esplori i vicoli di Ait Ben Haddou e sali in cima per il panorama, poi visiti Ouarzazate e la sua kasbah di Taourirt. Nel tardo pomeriggio arrivi nella valle del Dades, con le sue rupi rosse e le kasbah, per una cena tradizionale e la notte."
+      },
+      "overnight": {
+        "en": "Hotel or riad in Dades Valley",
+        "es": "Hotel o riad en el valle del Dades",
+        "it": "Hotel o riad nella valle del Dades"
+      },
+      "breakfast": false,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Dades – Todra Gorge – Merzouga",
+        "es": "Dades – garganta del Todra – Merzouga",
+        "it": "Dades – gola del Todra – Merzouga"
+      },
+      "text": {
+        "en": "After breakfast, walk along the river at the bottom of the Todra Gorge between cliffs up to 300 metres high. Drive on through Berber villages, Tinjdad and Erfoud, known for its fossil workshops. In Merzouga you ride a camel into the dunes of Erg Chebbi as the sun sets, then enjoy dinner, Berber music and a night in a comfortable desert camp.",
+        "es": "Después del desayuno caminas junto al río en el fondo de la garganta del Todra, entre paredes de hasta 300 metros. Seguimos por pueblos bereberes, Tinjdad y Erfoud, famoso por sus talleres de fósiles. En Merzouga montas en camello por las dunas de Erg Chebbi al atardecer y disfrutas de la cena, música bereber y una noche en un cómodo campamento.",
+        "it": "Dopo colazione cammini lungo il fiume sul fondo della gola del Todra, tra pareti alte fino a 300 metri. Proseguiamo tra villaggi berberi, Tinjdad ed Erfoud, famosa per i laboratori di fossili. A Merzouga entri in cammello tra le dune di Erg Chebbi al tramonto, poi cena, musica berbera e una notte in un comodo campo tendato."
+      },
+      "overnight": {
+        "en": "Desert camp in Merzouga",
+        "es": "Campamento en Merzouga",
+        "it": "Campo tendato a Merzouga"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga – Ouarzazate – Marrakech",
+        "es": "Merzouga – Ouarzazate – Marrakech",
+        "it": "Merzouga – Ouarzazate – Marrakech"
+      },
+      "text": {
+        "en": "Wake up for the sunrise over the dunes and have breakfast at the camp, then return to Merzouga by camel or 4×4. The long road back crosses the south and the High Atlas, with stops for photos and breaks, and you arrive in Marrakech in the evening.",
+        "es": "Te despiertas para el amanecer sobre las dunas, desayunas en el campamento y vuelves a Merzouga en camello o 4×4. El largo camino de regreso cruza el sur y el Alto Atlas, con paradas para fotos y descansos, y llegas a Marrakech por la noche.",
+        "it": "Sveglia per l’alba sulle dune e colazione al campo, poi ritorno a Merzouga in cammello o in 4×4. La lunga strada del rientro attraversa il sud e l’Alto Atlante, con soste per foto e pause, e arrivi a Marrakech in serata."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Pick-up and drop-off at your accommodation in Marrakech",
+      "es": "Recogida y regreso a tu alojamiento en Marrakech",
+      "it": "Ritiro e rientro al tuo alloggio a Marrakech"
+    },
+    {
+      "en": "Private air-conditioned vehicle, fuel included",
+      "es": "Vehículo privado con aire acondicionado, combustible incluido",
+      "it": "Veicolo privato climatizzato, carburante incluso"
+    },
+    {
+      "en": "Professional English-speaking driver-guide",
+      "es": "Conductor-guía profesional que habla inglés",
+      "it": "Autista-guida professionale che parla inglese"
+    },
+    {
+      "en": "1 night in a hotel or riad in Dades Valley",
+      "es": "1 noche en hotel o riad en el valle del Dades",
+      "it": "1 notte in hotel o riad nella valle del Dades"
+    },
+    {
+      "en": "1 night in a desert camp in Erg Chebbi",
+      "es": "1 noche en un campamento en Erg Chebbi",
+      "it": "1 notte in un campo tendato a Erg Chebbi"
+    },
+    {
+      "en": "Camel trek into the dunes",
+      "es": "Paseo en camello por las dunas",
+      "it": "Escursione in cammello tra le dune"
+    },
+    {
+      "en": "2 breakfasts and 2 dinners",
+      "es": "2 desayunos y 2 cenas",
+      "it": "2 colazioni e 2 cene"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Start",
+        "es": "Salida",
+        "it": "Partenza"
+      }
+    },
+    {
+      "name": "Tizi n'Tichka",
+      "description": {
+        "en": "2,260 m pass",
+        "es": "Puerto de 2.260 m",
+        "it": "Passo a 2.260 m"
+      }
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "description": {
+        "en": "UNESCO ksar",
+        "es": "Ksar UNESCO",
+        "it": "Ksar UNESCO"
+      }
+    },
+    {
+      "name": "Ouarzazate",
+      "description": {
+        "en": "Taourirt kasbah",
+        "es": "Kasbah de Taourirt",
+        "it": "Kasbah di Taourirt"
+      }
+    },
+    {
+      "name": "Dades Valley",
+      "description": {
+        "en": "Night 1",
+        "es": "Noche 1",
+        "it": "Notte 1"
+      }
+    },
+    {
+      "name": "Todra Gorge",
+      "description": {
+        "en": "300 m cliffs",
+        "es": "Paredes de 300 m",
+        "it": "Pareti di 300 m"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Desert camp · night 2",
+        "es": "Campamento · noche 2",
+        "it": "Campo tendato · notte 2"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "End",
+        "es": "Fin",
+        "it": "Fine"
+      }
+    }
+  ],
+  "map_route": [
+    "Marrakech",
+    "Ait Ben Haddou",
+    "Ouarzazate",
+    "Boumalne Dades",
+    "Tinghir",
+    "Merzouga",
+    "Marrakech"
+  ],
+  "planner": {
+    "show": true,
+    "days": 3,
+    "start": "marrakech",
+    "tags": [
+      "desert",
+      "mountains"
+    ]
+  }
+}

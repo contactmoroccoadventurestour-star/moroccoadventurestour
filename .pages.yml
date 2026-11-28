@@ -1,0 +1,386 @@
+# Pages CMS — https://app.pagescms.org
+# Two things can be edited here: the site photos and the blog.
+# Every save is a commit on "main"; the GitHub Action "Build site" then updates the pages
+# (about 1–3 minutes). Tours are not edited here: they stay on the site as they are.
+
+media:
+  input: images
+  output: /images
+  categories: [image]
+
+components:
+  text3:
+    type: object
+    fields:
+      - { name: en, label: English, type: string }
+      - { name: es, label: Español, type: string }
+      - { name: it, label: Italiano, type: string }
+  para3:
+    type: object
+    fields:
+      - { name: en, label: English, type: text }
+      - { name: es, label: Español, type: text }
+      - { name: it, label: Italiano, type: text }
+
+content:
+  # ---------------------------------------------------------------- SITE PHOTOS
+  - name: photos
+    label: Site photos
+    type: file
+    path: content/photos.json
+    format: json
+    fields:
+      - name: home
+        label: "Home page"
+        type: object
+        fields:
+          - name: pp_bg
+            label: "Home - \"Desert Activities\" background"
+            description: "Used on: Home"
+            type: image
+          - name: hero_poster
+            label: "Home - Hero (photo shown before the video starts)"
+            description: "Used on: Home"
+            type: image
+          - name: day_essaouira
+            label: "Home - Instagram strip photo (day essaouira)"
+            description: "Used on: Home"
+            type: image
+          - name: day_ourika
+            label: "Home - Instagram strip photo (day ourika)"
+            description: "Used on: Home"
+            type: image
+          - name: day_ouzoud
+            label: "Home - Instagram strip photo (day ouzoud)"
+            description: "Used on: About us, Home"
+            type: image
+      - name: tours
+        label: "Tours"
+        type: object
+        fields:
+          - name: tour_tg10
+            label: "Tour - 10 Days Holiday in Morocco from Tangier - Main photo"
+            description: "Used on: Home, tour-10day-tangier, tours-tangier"
+            type: image
+          - name: tour_tg12
+            label: "Tour - 12 Days Absolute Morocco Tour from Tangier - Main photo"
+            description: "Used on: Home, tour-12day-tangier, tours-tangier"
+            type: image
+          - name: tour_mk12
+            label: "Tour - 12 Days From Marrakech - Main photo"
+            description: "Used on: Home, tour-12day-marrakech, tours-marrakech"
+            type: image
+          - name: tour_cs12
+            label: "Tour - 12 Days Morocco Itinerary from Casablanca - Main photo"
+            description: "Used on: Home, tour-12day-casablanca, tours-casablanca"
+            type: image
+          - name: tour_er2
+            label: "Tour - 2 Days Errachidia to Merzouga Desert Tour - Main photo"
+            description: "Used on: Home, tour-2day-errachidia-merzouga, tour-3day-errachidia-merzouga, tour-4day-errachidia-fes, tour-4day-errachidia-marrakech, tour-5day-errachidia-marrakech and 1 more pages"
+            type: image
+          - name: tour_fes_merzouga2
+            label: "Tour - 2 Days from Fes to Merzouga Desert - Main photo"
+            description: "Used on: Home, tour-2day-fes-merzouga, tour-3day-fes-desert, tour-3day-fes-marrakech, tour-4day-fes-marrakech, tour-5day-fes-marrakech and 2 more pages"
+            type: image
+          - name: tour_zagora
+            label: "Tour - 2 Days from Marrakech to the Zagora Desert - Main photo"
+            description: "Used on: Home, tour-12day-marrakech, tour-2day-zagora, tour-3day-marrakech-fes, tour-3day-merzouga, tour-4day-marrakech-fes and 5 more pages"
+            type: image
+          - name: tour_fes_marrakech3
+            label: "Tour - 3 Days Desert Tour from Fes to Marrakech - Main photo"
+            description: "Used on: Home, tour-2day-fes-merzouga, tour-3day-fes-desert, tour-3day-fes-marrakech, tour-4day-fes-marrakech, tour-5day-fes-marrakech and 2 more pages"
+            type: image
+          - name: tour_er3
+            label: "Tour - 3 Days Errachidia to Merzouga Desert Tour - Main photo"
+            description: "Used on: Home, tour-2day-errachidia-merzouga, tour-3day-errachidia-merzouga, tour-4day-errachidia-fes, tour-4day-errachidia-marrakech, tour-5day-errachidia-marrakech and 1 more pages"
+            type: image
+          - name: tour_fes_merzouga3
+            label: "Tour - 3 Days Morocco Sahara Desert Tour from Fes - Main photo"
+            description: "Used on: Home, tour-2day-fes-merzouga, tour-3day-fes-desert, tour-3day-fes-marrakech, tour-4day-fes-marrakech, tour-5day-fes-marrakech and 2 more pages"
+            type: image
+          - name: tour_merzouga3
+            label: "Tour - 3 Days Tour from Marrakech to Merzouga Desert - Main photo"
+            description: "Used on: About us, Home, tour-12day-marrakech, tour-2day-zagora, tour-3day-marrakech-fes, tour-3day-merzouga and 7 more pages"
+            type: image
+          - name: tour_oz3
+            label: "Tour - 3 Days Tour from Ouarzazate to Fes - Main photo"
+            description: "Used on: Home, tour-3day-ouarzazate-fes, tour-3day-ouarzazate-marrakech, tour-4day-ouarzazate-merzouga, tour-5day-ouarzazate-marrakech, tours-ouarzazate"
+            type: image
+          - name: tour_ozm3
+            label: "Tour - 3 Days Tour from Ouarzazate to Marrakech - Main photo"
+            description: "Used on: Home, tour-3day-ouarzazate-fes, tour-3day-ouarzazate-marrakech, tour-4day-ouarzazate-merzouga, tour-5day-ouarzazate-marrakech, tours-ouarzazate"
+            type: image
+          - name: tour_fes
+            label: "Tour - 3 Days from Marrakech to Fes Desert Tour - Main photo"
+            description: "Used on: Home, tour-12day-marrakech, tour-2day-zagora, tour-3day-marrakech-fes, tour-3day-merzouga, tour-4day-marrakech-fes and 6 more pages"
+            type: image
+          - name: tour_ozz4
+            label: "Tour - 4 Days Desert Tour from Ouarzazate to Merzouga - Main photo"
+            description: "Used on: Home, tour-3day-ouarzazate-fes, tour-3day-ouarzazate-marrakech, tour-4day-ouarzazate-merzouga, tour-5day-ouarzazate-marrakech, tours-ouarzazate"
+            type: image
+          - name: tour_erf4
+            label: "Tour - 4 Days From Errachidia to Fes via Merzouga - Main photo"
+            description: "Used on: Home, tour-2day-errachidia-merzouga, tour-3day-errachidia-merzouga, tour-4day-errachidia-fes, tour-4day-errachidia-marrakech, tours-errachidia"
+            type: image
+          - name: tour_er4
+            label: "Tour - 4 Days From Errachidia to Marrakech via Merzouga - Main photo"
+            description: "Used on: Home, tour-2day-errachidia-merzouga, tour-3day-errachidia-merzouga, tour-4day-errachidia-fes, tour-4day-errachidia-marrakech, tour-5day-errachidia-marrakech and 1 more pages"
+            type: image
+          - name: tour_fes_marrakech4
+            label: "Tour - 4 Days Morocco Desert Tour from Fes to Marrakech - Main photo"
+            description: "Used on: Home, tour-2day-fes-merzouga, tour-3day-fes-desert, tour-3day-fes-marrakech, tour-4day-fes-marrakech, tours-fes"
+            type: image
+          - name: tour_cs4
+            label: "Tour - 4 Days Morocco Tour from Casablanca - Main photo"
+            description: "Used on: Home, tour-12day-casablanca, tour-4day-casablanca, tour-5day-casablanca, tour-6day-casablanca, tour-7day-casablanca and 2 more pages"
+            type: image
+          - name: tour_merzouga4
+            label: "Tour - 4 Days from Marrakech to Fes via Desert - Main photo"
+            description: "Used on: Home, tour-2day-zagora, tour-3day-marrakech-fes, tour-3day-merzouga, tour-4day-marrakech-fes, tours-marrakech"
+            type: image
+          - name: tour_er5
+            label: "Tour - 5 Days From Errachidia to Marrakech via Sahara Desert - Main photo"
+            description: "Used on: Home, tour-5day-errachidia-marrakech, tours-errachidia"
+            type: image
+          - name: tour_mk5
+            label: "Tour - 5 Days Morocco Desert Tour from Marrakech - Main photo"
+            description: "Used on: Home, tour-5day-marrakech, tours-marrakech"
+            type: image
+          - name: tour_cs5
+            label: "Tour - 5 Days Morocco Itinerary from Casablanca - Main photo"
+            description: "Used on: Home, tour-12day-casablanca, tour-4day-casablanca, tour-5day-casablanca, tour-6day-casablanca, tour-7day-casablanca and 2 more pages"
+            type: image
+          - name: tour_ozm5
+            label: "Tour - 5 Days Ouarzazate to Marrakech Sahara Trip - Main photo"
+            description: "Used on: Home, tour-3day-ouarzazate-fes, tour-3day-ouarzazate-marrakech, tour-4day-ouarzazate-merzouga, tour-5day-ouarzazate-marrakech, tours-ouarzazate"
+            type: image
+          - name: tour_tg5
+            label: "Tour - 5 Days Tour from Tangier to Marrakech - Main photo"
+            description: "Used on: Home, tour-10day-tangier, tour-12day-tangier, tour-5day-tangier-marrakech, tour-6day-tangier-marrakech, tour-7day-tangier-marrakech and 2 more pages"
+            type: image
+          - name: tour_fes5
+            label: "Tour - 5 Days from Fes to Marrakech Morocco Desert Tour - Main photo"
+            description: "Used on: Home, tour-5day-fes-marrakech, tours-fes"
+            type: image
+          - name: tour_chef6
+            label: "Tour - 6 Days From Marrakech to Chefchaouen via Sahara - Main photo"
+            description: "Used on: Home, tour-6day-chefchaouen, tours-marrakech, tours-tangier"
+            type: image
+          - name: tour_cs6
+            label: "Tour - 6 Days Morocco Itinerary from Casablanca - Main photo"
+            description: "Used on: Home, tour-12day-casablanca, tour-4day-casablanca, tour-5day-casablanca, tour-6day-casablanca, tour-7day-casablanca and 2 more pages"
+            type: image
+          - name: tour_tg6
+            label: "Tour - 6 Days Tour from Tangier to Marrakech - Main photo"
+            description: "Used on: Home, tour-10day-tangier, tour-12day-tangier, tour-5day-tangier-marrakech, tour-6day-tangier-marrakech, tour-7day-tangier-marrakech and 2 more pages"
+            type: image
+          - name: tour_cs7
+            label: "Tour - 7 Days Morocco Itinerary from Casablanca - Main photo"
+            description: "Used on: Home, tour-4day-casablanca, tour-5day-casablanca, tour-6day-casablanca, tour-7day-casablanca, tours-casablanca"
+            type: image
+          - name: tour_tg7
+            label: "Tour - 7 Days Tour from Tangier to Marrakech - Main photo"
+            description: "Used on: Home, tour-10day-tangier, tour-12day-tangier, tour-5day-tangier-marrakech, tour-6day-tangier-marrakech, tour-7day-tangier-marrakech and 2 more pages"
+            type: image
+          - name: tour_fs7
+            label: "Tour - 7 Days Tour in Morocco from Fes - Main photo"
+            description: "Used on: Home, tour-7day-fes, tours-fes"
+            type: image
+          - name: tour_mk7
+            label: "Tour - 7 Days from Marrakech: Morocco Sahara Desert Tour - Main photo"
+            description: "Used on: Home, tour-7day-marrakech, tours-marrakech"
+            type: image
+          - name: tour_mk8
+            label: "Tour - 8 Days Essential Morocco Tour from Marrakech - Main photo"
+            description: "Used on: Home, tour-8day-marrakech, tours-marrakech"
+            type: image
+          - name: tour_tg8_hero
+            label: "Tour - 8 Days Tour from Tangier to Marrakech - Main photo"
+            description: "Used on: Home, tour-5day-tangier-marrakech, tour-6day-tangier-marrakech, tour-7day-tangier-marrakech, tour-8day-tangier-marrakech, tours-tangier"
+            type: image
+          - name: tour_cs9
+            label: "Tour - 9 Days Morocco Itinerary from Casablanca - Main photo"
+            description: "Used on: Home, tour-9day-casablanca, tours-casablanca"
+            type: image
+      - name: daytrips
+        label: "Day trips"
+        type: object
+        fields:
+          - name: dt_agafay
+            label: "Day trip - Agafay Day Trip - Main photo"
+            description: "Used on: Day trips page, daytrip-agafay, daytrip-essaouira, daytrip-high-atlas, daytrip-imlil, daytrip-ouarzazate and 3 more pages"
+            type: image
+          - name: dt_essaouira
+            label: "Day trip - Essaouira Day Trip - Main photo"
+            description: "Used on: Day trips page, daytrip-essaouira, Home"
+            type: image
+          - name: dt_highatlas
+            label: "Day trip - High Atlas Mountains Day Trip - Main photo"
+            description: "Used on: Day trips page, daytrip-agafay, daytrip-essaouira, daytrip-high-atlas, daytrip-imlil, daytrip-ouarzazate and 3 more pages"
+            type: image
+          - name: dt_imlil
+            label: "Day trip - Imlil Valley Day Trip - Main photo"
+            description: "Used on: Day trips page, daytrip-imlil, Home"
+            type: image
+          - name: dt_ouarzazate
+            label: "Day trip - Ouarzazate & Ait Ben Haddou Day Trip - Main photo"
+            description: "Used on: Day trips page, daytrip-agafay, daytrip-essaouira, daytrip-high-atlas, daytrip-imlil, daytrip-ouarzazate and 3 more pages"
+            type: image
+          - name: dt_ourika
+            label: "Day trip - Ourika Valley Day Trip - Main photo"
+            description: "Used on: Day trips page, daytrip-ourika, Home"
+            type: image
+          - name: dt_ouzoud
+            label: "Day trip - Ouzoud Waterfalls Day Trip - Main photo"
+            description: "Used on: Day trips page, daytrip-agafay, daytrip-high-atlas, daytrip-ouarzazate, daytrip-ouzoud, Home"
+            type: image
+      - name: special
+        label: "Special tours"
+        type: object
+        fields:
+          - name: tour_honeymoon
+            label: "Tour - Morocco Honeymoon Desert Tour From Marrakech - Main photo"
+            description: "Used on: About us, special-honeymoon, special-jewish-heritage, special-photography, special-student-group, Special tours page"
+            type: image
+          - name: tour_jewish
+            label: "Tour - Morocco Jewish Heritage Tour From Casablanca - Main photo"
+            description: "Used on: special-honeymoon, special-jewish-heritage, special-photography, special-student-group, Special tours page"
+            type: image
+          - name: tour_photography
+            label: "Tour - Morocco Photography Desert Tour From Fes - Main photo"
+            description: "Used on: special-honeymoon, special-jewish-heritage, special-photography, special-student-group, Special tours page"
+            type: image
+          - name: tour_student
+            label: "Tour - Morocco Student Group Tour From Tangier - Main photo"
+            description: "Used on: special-honeymoon, special-jewish-heritage, special-photography, special-student-group, Special tours page"
+            type: image
+      - name: activities
+        label: "Activities"
+        type: object
+        fields:
+          - name: ag_hero
+            label: "Agafay activities page - Top photo"
+            description: "Used on: Agafay activities"
+            type: image
+          - name: ag_buggy
+            label: "Agafay activity - Buggy ride in the Agafay desert near Marrakech"
+            description: "Used on: Agafay activities, Home"
+            type: image
+          - name: ag_camel
+            label: "Agafay activity - Camel ride in the Agafay desert near Marrakech"
+            description: "Used on: Agafay activities, Home"
+            type: image
+          - name: ag_balloon
+            label: "Agafay activity - Hot air balloon flight at sunrise near Marrakech"
+            description: "Used on: Agafay activities, Home"
+            type: image
+          - name: ag_quad
+            label: "Agafay activity - Quad biking in the Agafay desert near Marrakech"
+            description: "Used on: Agafay activities, Home"
+            type: image
+          - name: act_4x4
+            label: "Merzouga activity - 4x4 Desert Tour in the Sahara, Morocco"
+            description: "Used on: Merzouga activities, Home"
+            type: image
+          - name: act_buggy
+            label: "Merzouga activity - Buggy Ride in the Sahara, Morocco"
+            description: "Used on: Merzouga activities, Home"
+            type: image
+          - name: act_camel
+            label: "Merzouga activity - Camel caravan at sunset in the Erg Chebbi dunes"
+            description: "Used on: About us, Merzouga activities, Home"
+            type: image
+          - name: act_gnawa
+            label: "Merzouga activity - Gnawa Music & Nomad Visit in the Sahara, Morocco"
+            description: "Used on: Merzouga activities, Home"
+            type: image
+          - name: act_horse
+            label: "Merzouga activity - Horse Riding in the Sahara, Morocco"
+            description: "Used on: Merzouga activities, Home"
+            type: image
+          - name: act_quad
+            label: "Merzouga activity - Quad Biking in the Sahara, Morocco"
+            description: "Used on: About us, Merzouga activities, Home"
+            type: image
+          - name: act_sandboard
+            label: "Merzouga activity - Sandboarding in the Sahara, Morocco"
+            description: "Used on: Merzouga activities, Home"
+            type: image
+      - name: other
+        label: "Other (logo, banners)"
+        type: object
+        fields:
+          - name: day_ouarzazate
+            label: "About us - Kasbah road in the south of Morocco"
+            description: "Used on: About us, Home"
+            type: image
+          - name: hero
+            label: "Contact banner background (\"Ready when you are\", on most pages)"
+            description: "Used on: About us, Merzouga activities, Agafay activities, blog-compare, blog-days, blog-fes and 22 more pages"
+            type: image
+          - name: logo
+            label: "Logo"
+            description: "Used on: About us, Merzouga activities, Agafay activities, blog-compare, blog-days, blog-fes and 69 more pages"
+            type: image
+          - name: og_image
+            label: "Share preview image (WhatsApp / Facebook)"
+            description: "Used on: About us, Merzouga activities, Agafay activities, Blog page, Contact, Day trips page and 12 more pages"
+            type: image
+
+  # ---------------------------------------------------------------- BLOG
+  - name: blog
+    label: Blog articles
+    type: collection
+    path: content/blog
+    format: json
+    filename: "blog-{primary}.json"
+    view:
+      fields: [title, category, order]
+      primary: title
+      sort: [order, title]
+      default:
+        sort: order
+    fields:
+      - { name: title, label: Article name (English), type: string, required: true }
+      - { name: draft, label: Hide this article (draft), type: boolean, default: false }
+      - name: category
+        label: Category
+        type: select
+        default: desert
+        options:
+          values:
+            - { name: desert, label: Desert }
+            - { name: tips, label: Travel tips }
+            - { name: daytrips, label: Day trips }
+            - { name: culture, label: Culture }
+      - { name: order, label: Position (small number = first), type: number, default: 50 }
+      - { name: featured, label: Big featured article on the blog page, type: boolean, default: false }
+      - { name: image, label: Photo, type: image, required: true }
+      - { name: minutes, label: Minutes to read, type: number, default: 5 }
+      - { name: headline, label: Title, component: text3 }
+      - { name: excerpt, label: Short description, component: para3 }
+      - { name: intro, label: Introduction, component: para3 }
+      - name: sections
+        label: Sections
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "Section {index}"
+        fields:
+          - { name: heading, label: Heading, component: text3 }
+          - { name: text, label: "Text (leave an empty line between paragraphs)", component: para3 }
+      - name: facts
+        label: Quick facts (box on the side)
+        type: object
+        list: { max: 6 }
+        fields:
+          - { name: label, label: Label, component: text3 }
+          - { name: value, label: Value, component: text3 }
+      - name: related
+        label: Related tours (links)
+        type: object
+        list: { max: 4 }
+        fields:
+          - { name: page, label: "Page (e.g. tour-3day-merzouga.html)", type: string }
+          - { name: label, label: Link text, component: text3 }

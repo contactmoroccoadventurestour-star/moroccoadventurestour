@@ -1,0 +1,240 @@
+{
+  "title": "Imlil Valley Day Trip",
+  "type": "daytrip",
+  "category": "daytrip",
+  "order": 606,
+  "show_on_home": true,
+  "home_extra": [],
+  "price": "",
+  "image": "/images/dt-imlil.jpg",
+  "image_position": "center 60%",
+  "meta_description": "Imlil Valley day trip from Marrakech: hike in Toubkal National Park to the Berber village of Aremd, views of Jbel Toubkal and lunch in a traditional mountain guesthouse.",
+  "eyebrow": {
+    "en": "Marrakech · Imlil · Aremd · Marrakech",
+    "es": "Marrakech · Imlil · Aremd · Marrakech",
+    "it": "Marrakech · Imlil · Aremd · Marrakech"
+  },
+  "title_line1": {
+    "en": "Imlil Valley",
+    "es": "Excursión de un día",
+    "it": "Escursione di un giorno"
+  },
+  "title_line2": {
+    "en": "Day Trip",
+    "es": "al valle de Imlil",
+    "it": "nella valle di Imlil"
+  },
+  "duration": {
+    "en": "Full day",
+    "es": "Día completo",
+    "it": "Giornata intera"
+  },
+  "duration_short": {
+    "en": "Full day",
+    "es": "Día completo",
+    "it": "Giornata intera"
+  },
+  "start": "Marrakech",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "Imlil Valley Day Trip",
+      "es": "Excursión al valle de Imlil",
+      "it": "Escursione nella valle di Imlil"
+    },
+    "highlights": {
+      "en": "",
+      "es": "",
+      "it": ""
+    },
+    "route": [
+      "Marrakech"
+    ],
+    "image_alt": "Imlil & Toubkal Valley Day Trip from Marrakech, Morocco"
+  },
+  "overview": [
+    {
+      "en": "Discover life in the High Atlas Mountains by Imlil Valley Day Trip from Marrakech, Enjoy a hike through spectacular mountain valleys at the foot of Mount Toubkal. Enjoy lunch in a local Berber house while enjoying a relaxing day away from bustling Marrakech!",
+      "es": "Descubre la vida en las montañas del Alto Atlas con esta excursión de un día al valle de Imlil desde Marrakech. Disfruta de una caminata por espectaculares valles de montaña a los pies del monte Toubkal. ¡Disfruta de un almuerzo en una casa bereber local mientras pasas un día relajado lejos del bullicio de Marrakech!",
+      "it": "Scopri la vita sulle montagne dell’Alto Atlante con questa escursione di un giorno nella valle di Imlil da Marrakech. Goditi un’escursione a piedi tra spettacolari valli di montagna ai piedi del monte Toubkal. Gusta un pranzo in una casa berbera locale e trascorri una giornata rilassante lontano dalla frenesia di Marrakech!"
+    }
+  ],
+  "highlights": [],
+  "route": [
+    "Marrakech",
+    "Imlil",
+    "Aremd",
+    "Imlil",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Pick-up in Marrakech",
+        "es": "Recogida en Marrakech",
+        "it": "Prelievo a Marrakech"
+      },
+      "text": {
+        "en": "Explore Imlil Valley on a day tour from Marrakech! You will be picked up at your hotel in the morning at 8.30 AM by your driver and guide. We then drive to Toubkal National Park at the foot of Mount Toubkal, the highest peak in North Africa.",
+        "es": "¡Explora el valle de Imlil en una excursión de un día desde Marrakech! Tu chófer y tu guía te recogerán en tu hotel por la mañana, a las 8:30. Después iremos en coche al Parque Nacional del Toubkal, a los pies del monte Toubkal, el pico más alto del norte de África.",
+        "it": "Esplora la valle di Imlil con un’escursione di un giorno da Marrakech! Il tuo autista e la tua guida ti verranno a prendere in hotel la mattina alle 8:30. Poi si parte in auto verso il Parco Nazionale del Toubkal, ai piedi del monte Toubkal, la vetta più alta del Nord Africa."
+      },
+      "label": {
+        "en": "8:30 AM",
+        "es": "8:30 AM",
+        "it": "8:30 AM"
+      }
+    },
+    {
+      "title": {
+        "en": "Imlil village",
+        "es": "El pueblo de Imlil",
+        "it": "Il villaggio di Imlil"
+      },
+      "text": {
+        "en": "The little village of Imlil is where most trekkings start from in this area, and we too will start our walk from here.",
+        "es": "El pequeño pueblo de Imlil es el punto de partida de la mayoría de los trekkings de la zona, y nosotros también empezaremos aquí nuestra caminata.",
+        "it": "Il piccolo villaggio di Imlil è il punto di partenza della maggior parte dei trekking della zona, e anche noi inizieremo da qui la nostra camminata."
+      },
+      "label": {
+        "en": "Morning",
+        "es": "Mañana",
+        "it": "Mattina"
+      }
+    },
+    {
+      "title": {
+        "en": "Walk up to Aremd",
+        "es": "Subida a Aremd",
+        "it": "Salita ad Aremd"
+      },
+      "text": {
+        "en": "We will walk up to the small village of Aremd, situated at an altitude of 1.900 meters. From here we have a beautiful view over the surrounding valley. On the way you will be able to see traditional Berber villages and Jbel Toubkal (4.167 meters).",
+        "es": "Subiremos caminando hasta el pequeño pueblo de Aremd, situado a 1.900 metros de altitud. Desde aquí tendremos una preciosa vista del valle. Por el camino podrás ver pueblos bereberes tradicionales y el Jbel Toubkal (4.167 metros).",
+        "it": "Saliremo a piedi fino al piccolo villaggio di Aremd, a 1.900 metri di altitudine. Da qui si gode di una splendida vista sulla valle circostante. Lungo il percorso vedrai villaggi berberi tradizionali e il Jbel Toubkal (4.167 metri)."
+      },
+      "label": {
+        "en": "Late morning",
+        "es": "Media mañana",
+        "it": "Tarda mattinata"
+      }
+    },
+    {
+      "title": {
+        "en": "Lunch in a mountain gîte",
+        "es": "Almuerzo en un gîte de montaña",
+        "it": "Pranzo in un gîte di montagna"
+      },
+      "text": {
+        "en": "After about 1 – 1,5 hours, we arrive at a traditional mountain gîte (guesthouse) to enjoy a wonderful lunch. From here we will have a spectacular view over the Mizane Valley.",
+        "es": "Después de 1 – 1,5 horas aproximadamente, llegaremos a un gîte (casa de huéspedes) tradicional de montaña para disfrutar de un estupendo almuerzo. Desde aquí tendremos una vista espectacular del valle del Mizane.",
+        "it": "Dopo circa 1 – 1,5 ore, arriveremo in un gîte (casa per ospiti) tradizionale di montagna per gustare un ottimo pranzo. Da qui avremo una vista spettacolare sulla valle del Mizane."
+      },
+      "label": {
+        "en": "Midday",
+        "es": "Mediodía",
+        "it": "Mezzogiorno"
+      }
+    },
+    {
+      "title": {
+        "en": "Descent and return to Marrakech",
+        "es": "Bajada y regreso a Marrakech",
+        "it": "Discesa e rientro a Marrakech"
+      },
+      "text": {
+        "en": "After lunch you can explore the village a bit more, and we then start the descent of about 30 minutes back to Imlil. From there, your guide and driver will take you back to Marrakech and drop you off at your hotel around 5 PM.",
+        "es": "Después del almuerzo podrás explorar un poco más el pueblo y luego empezaremos la bajada, de unos 30 minutos, de vuelta a Imlil. Desde allí, tu guía y tu chófer te llevarán de regreso a Marrakech y te dejarán en tu hotel hacia las 17:00.",
+        "it": "Dopo pranzo potrai esplorare ancora un po’ il villaggio, poi inizieremo la discesa di circa 30 minuti fino a Imlil. Da lì, la tua guida e il tuo autista ti riporteranno a Marrakech e ti lasceranno in hotel verso le 17:00."
+      },
+      "label": {
+        "en": "5:00 PM",
+        "es": "5:00 PM",
+        "it": "5:00 PM"
+      }
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Transport from Marrakech and back",
+      "es": "Transporte desde Marrakech, ida y vuelta",
+      "it": "Trasporto da Marrakech, andata e ritorno"
+    },
+    {
+      "en": "Qualified Mountain Guide",
+      "es": "Guía de montaña titulado",
+      "it": "Guida di montagna qualificata"
+    },
+    {
+      "en": "Lunch",
+      "es": "Almuerzo",
+      "it": "Pranzo"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [
+    {
+      "en": "Drinks",
+      "es": "Bebidas",
+      "it": "Bevande"
+    },
+    {
+      "en": "Tips",
+      "es": "Propinas",
+      "it": "Mance"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Hotel pick-up at 8:30 AM",
+        "es": "Recogida en el hotel a las 8:30",
+        "it": "Prelievo in hotel alle 8:30"
+      }
+    },
+    {
+      "name": "Imlil",
+      "description": {
+        "en": "Start of the walk in Toubkal National Park",
+        "es": "Inicio de la caminata en el Parque Nacional del Toubkal",
+        "it": "Inizio della camminata nel Parco Nazionale del Toubkal"
+      }
+    },
+    {
+      "name": "Aremd",
+      "description": {
+        "en": "Berber village at 1,900 m and lunch in a mountain gîte",
+        "es": "Pueblo bereber a 1.900 m y almuerzo en un gîte",
+        "it": "Villaggio berbero a 1.900 m e pranzo in un gîte"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Drop-off at your hotel around 5 PM",
+        "es": "Regreso al hotel hacia las 17:00",
+        "it": "Rientro in hotel verso le 17:00"
+      }
+    }
+  ],
+  "map_route": [
+    "Marrakech, Morocco",
+    "Imlil, Morocco",
+    "Aremd, Morocco",
+    "Marrakech, Morocco"
+  ],
+  "planner": {
+    "show": true,
+    "days": 1,
+    "start": "marrakech",
+    "tags": [
+      "mountains"
+    ]
+  }
+}

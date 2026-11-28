@@ -1,0 +1,405 @@
+{
+  "title": "5 Days Morocco Itinerary from Casablanca",
+  "type": "tour",
+  "category": "casablanca",
+  "order": 301,
+  "show_on_home": true,
+  "home_extra": [],
+  "price": "",
+  "image": "/images/tour-cs5.jpg",
+  "image_position": "center 22%",
+  "meta_description": "Private 5-day Morocco itinerary from Casablanca: Hassan II Mosque, Chefchaouen, Volubilis, Fes, Ifrane, the Ziz Valley, a camel trek and desert camp in Merzouga, Todra Gorge, Dades, Ouarzazate, Ait Ben Haddou and back to Casablanca.",
+  "eyebrow": {
+    "en": "Private tour · round trip from Casablanca",
+    "es": "Tour privado · ida y vuelta desde Casablanca",
+    "it": "Tour privato · andata e ritorno da Casablanca"
+  },
+  "title_line1": {
+    "en": "5 Days Morocco Itinerary",
+    "es": "5 días por Marruecos",
+    "it": "5 giorni in Marocco"
+  },
+  "title_line2": {
+    "en": "from Casablanca",
+    "es": "desde Casablanca",
+    "it": "da Casablanca"
+  },
+  "duration": {
+    "en": "5 days",
+    "es": "5 días",
+    "it": "5 giorni"
+  },
+  "duration_short": {
+    "en": "5 days",
+    "es": "5 días",
+    "it": "5 giorni"
+  },
+  "start": "Casablanca",
+  "end": "Casablanca",
+  "card": {
+    "title": {
+      "en": "5 Days Morocco Itinerary from Casablanca",
+      "es": "5 días por Marruecos desde Casablanca",
+      "it": "5 giorni in Marocco da Casablanca"
+    },
+    "highlights": {
+      "en": "Chefchaouen · Volubilis · Fes · Erg Chebbi camp · Ouarzazate · Ait Ben Haddou",
+      "es": "Chefchaouen · Volubilis · Fez · campamento en Erg Chebbi · Ouarzazate · Ait Ben Haddou",
+      "it": "Chefchaouen · Volubilis · Fes · campo a Erg Chebbi · Ouarzazate · Ait Ben Haddou"
+    },
+    "route": [
+      "Casablanca",
+      "Fes",
+      "Merzouga",
+      "Casablanca"
+    ],
+    "image_alt": "5 Days Morocco Itinerary from Casablanca"
+  },
+  "overview": [
+    {
+      "en": "Embark on a breathtaking journey through Morocco in just five days, as you explore the beautiful blue city of Chefchaouen, the historic city of Fes, and the stunning Sahara Desert. This 5-day Morocco itinerary from Casablanca offers a perfect balance of natural wonders, rich culture, and ancient history.",
+      "es": "Emprende un viaje impresionante por Marruecos en solo cinco días y descubre la preciosa ciudad azul de Chefchaouen, la histórica Fez y el impresionante desierto del Sáhara. Este itinerario de 5 días desde Casablanca ofrece el equilibrio perfecto entre maravillas naturales, cultura e historia antigua.",
+      "it": "Intraprendi un viaggio mozzafiato attraverso il Marocco in soli cinque giorni, alla scoperta della splendida città blu di Chefchaouen, della storica Fes e dello spettacolare deserto del Sahara. Questo itinerario di 5 giorni da Casablanca offre il perfetto equilibrio tra meraviglie naturali, cultura e storia antica."
+    },
+    {
+      "en": "For travelers who want to experience the best of Morocco in a short time, this itinerary is ideal. Whether you’re drawn to the vibrant streets of Fes, the tranquil charm of Chefchaouen, or the majestic dunes of the Sahara Desert, this tour offers a diverse range of experiences.",
+      "es": "Para los viajeros que quieren vivir lo mejor de Marruecos en poco tiempo, este itinerario es ideal. Tanto si te atraen las animadas calles de Fez, el encanto tranquilo de Chefchaouen o las majestuosas dunas del Sáhara, este tour ofrece experiencias muy variadas.",
+      "it": "Per chi vuole vivere il meglio del Marocco in poco tempo, questo itinerario è ideale. Che tu sia attratto dalle vivaci strade di Fes, dal fascino tranquillo di Chefchaouen o dalle maestose dune del Sahara, questo tour offre esperienze molto diverse."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "Hassan II Mosque",
+        "es": "Mezquita Hassan II",
+        "it": "Moschea Hassan II"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "The blue medina of Chefchaouen",
+        "es": "La medina azul de Chefchaouen",
+        "it": "La medina blu di Chefchaouen"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Volubilis & the Fes medina",
+        "es": "Volubilis y la medina de Fez",
+        "it": "Volubilis e la medina di Fes"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Camel trek & desert camp in Erg Chebbi",
+        "es": "Camello y campamento en Erg Chebbi",
+        "it": "Cammello e campo a Erg Chebbi"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Todra Gorge & Dades Valley",
+        "es": "Garganta del Todra y valle del Dades",
+        "it": "Gola del Todra e valle del Dades"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Ait Ben Haddou & Tizi n’Tichka",
+        "es": "Ait Ben Haddou y Tizi n’Tichka",
+        "it": "Ait Ben Haddou e Tizi n’Tichka"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Casablanca",
+    "Chefchaouen",
+    "Fes",
+    "Merzouga",
+    "Ouarzazate",
+    "Casablanca"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Casablanca to Chefchaouen – A Journey to the Blue City",
+        "es": "Casablanca a Chefchaouen – Viaje a la ciudad azul",
+        "it": "Casablanca a Chefchaouen – Viaggio nella città blu"
+      },
+      "text": {
+        "en": "Your Moroccan adventure begins in Casablanca, Morocco’s economic hub, where you will visit some iconic landmarks before heading to the charming city of Chefchaouen. Visit the spectacular Hassan II Mosque, one of the largest mosques in the world, standing proudly by the Atlantic Ocean. In the afternoon, you’ll arrive in Chefchaouen, a small city nestled in the Rif Mountains, renowned for its blue-painted buildings and narrow streets. Stroll through its winding alleys, soaking in the sights, sounds, and unique atmosphere of the city. Spend the night in a cozy riad or hotel, where you can relax and reflect on the beauty of Chefchaouen.",
+        "es": "Tu aventura marroquí comienza en Casablanca, el centro económico de Marruecos, donde visitarás algunos lugares emblemáticos antes de ir a la encantadora Chefchaouen. Visita la espectacular mezquita Hassan II, una de las mayores del mundo, frente al océano Atlántico. Por la tarde llegarás a Chefchaouen, una pequeña ciudad de las montañas del Rif famosa por sus edificios pintados de azul y sus calles estrechas. Pasea por sus callejuelas y disfruta de sus imágenes, sus sonidos y su ambiente único. Noche en un acogedor riad u hotel, donde podrás descansar y disfrutar de la belleza de Chefchaouen.",
+        "it": "La tua avventura marocchina inizia a Casablanca, il centro economico del Marocco, dove visiterai alcuni luoghi iconici prima di raggiungere l’incantevole Chefchaouen. Visita la spettacolare moschea Hassan II, una delle più grandi del mondo, affacciata sull’oceano Atlantico. Nel pomeriggio arriverai a Chefchaouen, piccola città tra i monti del Rif famosa per i suoi edifici dipinti di blu e le vie strette. Passeggia tra i vicoli, immerso nei colori, nei suoni e nell’atmosfera unica della città. Notte in un accogliente riad o hotel, dove rilassarti e goderti la bellezza di Chefchaouen."
+      },
+      "overnight": {
+        "en": "Riad or hotel in Chefchaouen",
+        "es": "Riad u hotel en Chefchaouen",
+        "it": "Riad o hotel a Chefchaouen"
+      },
+      "breakfast": false,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Chefchaouen to Fes – Exploring Ancient History",
+        "es": "Chefchaouen a Fez – Historia antigua",
+        "it": "Chefchaouen a Fes – Storia antica"
+      },
+      "text": {
+        "en": "Head from Chefchaouen to Fes, one of Morocco’s oldest and most important cities, known for its rich history, beautiful architecture, and medieval charm. Stop at the ancient Roman ruins of Volubilis, a UNESCO World Heritage site where you’ll explore well-preserved mosaics and architectural remnants. Continue to Fes, where you’ll enjoy a panoramic view of the city upon arrival before diving into its historic heart. Discover the maze-like streets of the Fes medina, a UNESCO World Heritage site that feels like stepping back in time, and visit the famous Al-Qarawiyyin University and the Bou Inania Madrasa. Stay in a charming riad within the medina to fully immerse yourself in Fes’s captivating atmosphere.",
+        "es": "Viaja de Chefchaouen a Fez, una de las ciudades más antiguas e importantes de Marruecos, conocida por su rica historia, su bella arquitectura y su encanto medieval. Para en las antiguas ruinas romanas de Volubilis, Patrimonio de la UNESCO, con mosaicos y restos arquitectónicos bien conservados. Continúa hasta Fez, donde disfrutarás de una vista panorámica de la ciudad antes de entrar en su corazón histórico. Descubre las calles laberínticas de la medina de Fez, Patrimonio de la UNESCO, donde parece que el tiempo se ha detenido, y visita la famosa Universidad Al-Qarawiyyin y la madrasa Bou Inania. Noche en un encantador riad dentro de la medina para vivir plenamente el ambiente fascinante de Fez.",
+        "it": "Da Chefchaouen a Fes, una delle città più antiche e importanti del Marocco, nota per la sua ricca storia, la bella architettura e il fascino medievale. Sosta alle antiche rovine romane di Volubilis, patrimonio UNESCO, con mosaici e resti architettonici ben conservati. Prosegui per Fes, dove all’arrivo ammirerai la vista panoramica sulla città prima di entrare nel suo cuore storico. Scopri le vie labirintiche della medina di Fes, patrimonio UNESCO dove sembra di tornare indietro nel tempo, e visita la famosa Università Al-Qarawiyyin e la madrasa Bou Inania. Notte in un affascinante riad nella medina, per immergerti nell’atmosfera di Fes."
+      },
+      "overnight": {
+        "en": "Riad in the Fes medina",
+        "es": "Riad en la medina de Fez",
+        "it": "Riad nella medina di Fes"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Fes to Merzouga – A Desert Adventure Awaits",
+        "es": "Fez a Merzouga – Aventura en el desierto",
+        "it": "Fes a Merzouga – Avventura nel deserto"
+      },
+      "text": {
+        "en": "Leave the cultural richness of Fes behind and embark on your desert adventure as you head towards the Sahara Desert. Stop by the picturesque town of Ifrane, known as “Little Switzerland” for its alpine-style architecture and cool climate, then continue through the Ziz Valley, a lush oasis surrounded by towering desert mountains, known for its palm groves and vast date plantations. Arrive in Merzouga in the late afternoon and take a camel trek across the towering dunes of Erg Chebbi to your desert camp. Enjoy a traditional Berber dinner in the camp, followed by stargazing and Berber music.",
+        "es": "Deja atrás la riqueza cultural de Fez y empieza tu aventura hacia el desierto del Sáhara. Para en el pintoresco pueblo de Ifrane, conocido como la “Pequeña Suiza” por su arquitectura alpina y su clima fresco, y continúa por el valle del Ziz, un oasis frondoso rodeado de altas montañas desérticas, famoso por sus palmerales y sus extensas plantaciones de dátiles. Llega a Merzouga a última hora de la tarde y recorre en camello las altas dunas de Erg Chebbi hasta tu campamento. Disfruta de una cena bereber tradicional, seguida de observación de estrellas y música bereber.",
+        "it": "Lascia la ricchezza culturale di Fes e inizia la tua avventura verso il deserto del Sahara. Sosta nella pittoresca Ifrane, detta la “Piccola Svizzera” per la sua architettura alpina e il clima fresco, poi prosegui nella valle dello Ziz, un’oasi rigogliosa circondata da alte montagne desertiche, famosa per i palmeti e le vaste piantagioni di datteri. Arrivo a Merzouga nel tardo pomeriggio ed escursione in cammello tra le alte dune di Erg Chebbi fino al campo. Cena berbera tradizionale, poi stelle e musica berbera."
+      },
+      "overnight": {
+        "en": "Desert camp in Erg Chebbi",
+        "es": "Campamento en Erg Chebbi",
+        "it": "Campo a Erg Chebbi"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga to Ouarzazate – Exploring Kasbahs and Valleys",
+        "es": "Merzouga a Ouarzazate – Kasbahs y valles",
+        "it": "Merzouga a Ouarzazate – Kasbah e valli"
+      },
+      "text": {
+        "en": "Wake up early to watch a magical desert sunrise, then continue your journey to Ouarzazate, the gateway to the southern Sahara, known for its dramatic landscapes and historic kasbahs. Visit the Todra Gorge, a stunning canyon with towering cliff walls that offer breathtaking views and a chance to take a short walk or explore the area. Drive through the Dades Valley, often called the “Valley of a Thousand Kasbahs,” with its vast landscapes and unique architectural structures. Arrive in Ouarzazate, famous for its Taourirt Kasbah and nearby film studios, where many Hollywood blockbusters have been filmed. Overnight in a traditional guesthouse or hotel in Ouarzazate, enjoying the peaceful surroundings.",
+        "es": "Levántate temprano para ver un amanecer mágico en el desierto y sigue hacia Ouarzazate, la puerta del Sáhara del sur, conocida por sus paisajes espectaculares y sus kasbahs históricas. Visita la garganta del Todra, un cañón impresionante de altísimas paredes con vistas espectaculares, donde podrás dar un corto paseo. Recorre el valle del Dades, a menudo llamado el “Valle de las Mil Kasbahs”, con sus amplios paisajes y su arquitectura única. Llega a Ouarzazate, famosa por la kasbah de Taourirt y sus estudios de cine cercanos, donde se han rodado muchas superproducciones de Hollywood. Noche en una casa de huéspedes tradicional u hotel en Ouarzazate, en un entorno tranquilo.",
+        "it": "Sveglia presto per un’alba magica nel deserto, poi prosegui verso Ouarzazate, porta del Sahara meridionale, nota per i suoi paesaggi spettacolari e le kasbah storiche. Visita la gola del Todra, uno splendido canyon dalle pareti altissime con viste mozzafiato, dove potrai fare una breve passeggiata. Percorri la valle del Dades, spesso chiamata la “Valle delle Mille Kasbah”, con i suoi vasti paesaggi e la sua architettura unica. Arrivo a Ouarzazate, famosa per la kasbah di Taourirt e i vicini studi cinematografici, dove sono stati girati molti grandi film di Hollywood. Notte in una guesthouse tradizionale o in hotel a Ouarzazate, in un ambiente tranquillo."
+      },
+      "overnight": {
+        "en": "Guesthouse or hotel in Ouarzazate",
+        "es": "Casa de huéspedes u hotel en Ouarzazate",
+        "it": "Guesthouse o hotel a Ouarzazate"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Ouarzazate to Casablanca – Back to the Modern World",
+        "es": "Ouarzazate a Casablanca – Regreso al mundo moderno",
+        "it": "Ouarzazate a Casablanca – Ritorno al mondo moderno"
+      },
+      "text": {
+        "en": "On the final day, you will make your way back to Casablanca, passing through the breathtaking High Atlas Mountains. Stop at Ait Ben Haddou, an ancient mud-brick village and UNESCO World Heritage site that has been featured in numerous films, including Gladiator and Game of Thrones. Travel through the Tizi n’Tichka Pass, one of the highest roads in Morocco, with panoramic views of the Atlas Mountains. Arrive back in Casablanca by evening, where you can relax or explore the city further before your departure.",
+        "es": "El último día regresarás a Casablanca cruzando el impresionante Alto Atlas. Para en Ait Ben Haddou, un antiguo pueblo de adobe Patrimonio de la UNESCO que ha aparecido en numerosas películas, como Gladiator y Juego de Tronos. Recorre el puerto de Tizi n’Tichka, una de las carreteras más altas de Marruecos, con vistas panorámicas del Atlas. Llegada a Casablanca por la tarde, donde podrás descansar o seguir descubriendo la ciudad antes de tu salida.",
+        "it": "L’ultimo giorno rientrerai a Casablanca attraversando lo spettacolare Alto Atlante. Sosta ad Ait Ben Haddou, antico villaggio di terra cruda patrimonio UNESCO apparso in numerosi film, tra cui Il Gladiatore e Il Trono di Spade. Percorri il passo del Tizi n’Tichka, una delle strade più alte del Marocco, con vista panoramica sull’Atlante. Arrivo a Casablanca in serata, dove potrai rilassarti o esplorare ancora la città prima della partenza."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Pickup & drop-off service",
+      "es": "Servicio de recogida y traslado",
+      "it": "Servizio di prelievo e accompagnamento"
+    },
+    {
+      "en": "English/Spanish speaking driver",
+      "es": "Conductor que habla inglés/español",
+      "it": "Autista che parla inglese/spagnolo"
+    },
+    {
+      "en": "Private transportation in an SUV or minivan with A/C",
+      "es": "Transporte privado en SUV o minivan con aire acondicionado",
+      "it": "Trasporto privato in SUV o minivan con aria condizionata"
+    },
+    {
+      "en": "Camel for each person in the desert",
+      "es": "Un camello por persona en el desierto",
+      "it": "Un cammello per persona nel deserto"
+    },
+    {
+      "en": "Accommodations",
+      "es": "Alojamiento",
+      "it": "Alloggi"
+    },
+    {
+      "en": "Breakfasts",
+      "es": "Desayunos",
+      "it": "Colazioni"
+    },
+    {
+      "en": "Dinners",
+      "es": "Cenas",
+      "it": "Cene"
+    }
+  ],
+  "not_included_extra": [
+    {
+      "en": "Plane ticket",
+      "es": "Billete de avión",
+      "it": "Biglietto aereo"
+    }
+  ],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Casablanca",
+      "description": {
+        "en": "Hassan II Mosque · start",
+        "es": "Mezquita Hassan II · salida",
+        "it": "Moschea Hassan II · partenza"
+      }
+    },
+    {
+      "name": "Chefchaouen",
+      "description": {
+        "en": "Night 1",
+        "es": "Noche 1",
+        "it": "Notte 1"
+      }
+    },
+    {
+      "name": "Volubilis",
+      "description": {
+        "en": "UNESCO Roman ruins",
+        "es": "Ruinas romanas UNESCO",
+        "it": "Rovine romane UNESCO"
+      }
+    },
+    {
+      "name": "Fes",
+      "description": {
+        "en": "Night 2",
+        "es": "Noche 2",
+        "it": "Notte 2"
+      }
+    },
+    {
+      "name": "Ifrane",
+      "description": {
+        "en": "Little Switzerland",
+        "es": "La Pequeña Suiza",
+        "it": "La Piccola Svizzera"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Desert camp · night 3",
+        "es": "Campamento · noche 3",
+        "it": "Campo · notte 3"
+      }
+    },
+    {
+      "name": "Todra Gorge",
+      "description": {
+        "en": "Canyon walk",
+        "es": "Paseo por el cañón",
+        "it": "Passeggiata nel canyon"
+      }
+    },
+    {
+      "name": "Ouarzazate",
+      "description": {
+        "en": "Night 4",
+        "es": "Noche 4",
+        "it": "Notte 4"
+      }
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "description": {
+        "en": "UNESCO ksar",
+        "es": "Ksar UNESCO",
+        "it": "Ksar UNESCO"
+      }
+    },
+    {
+      "name": "Casablanca",
+      "description": {
+        "en": "End",
+        "es": "Fin",
+        "it": "Fine"
+      }
+    }
+  ],
+  "map_route": [
+    "Casablanca",
+    "Chefchaouen",
+    "Volubilis",
+    "Fes",
+    "Ifrane",
+    "Midelt",
+    "Errachidia",
+    "Merzouga",
+    "Tinghir",
+    "Boumalne Dades",
+    "Ouarzazate",
+    "Ait Ben Haddou",
+    "Marrakech",
+    "Casablanca"
+  ],
+  "planner": {
+    "show": true,
+    "days": 5,
+    "start": "casablanca",
+    "tags": [
+      "cities"
+    ]
+  }
+}

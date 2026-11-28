@@ -1,0 +1,405 @@
+{
+  "title": "Morocco Jewish Heritage Tour From Casablanca",
+  "type": "special",
+  "category": "special",
+  "order": 701,
+  "show_on_home": false,
+  "home_extra": [],
+  "price": "",
+  "image": "/images/tour-jewish.jpg",
+  "image_position": "center 40%",
+  "meta_description": "8-day Morocco Jewish heritage tour from Casablanca: Rabat, Meknes, the Mellahs of Fes and Marrakech, Essaouira's Jewish heritage, synagogues, cemeteries and imperial cities.",
+  "eyebrow": {
+    "en": "Casablanca · Fes · Marrakech · Essaouira",
+    "es": "Casablanca · Fez · Marrakech · Esauira",
+    "it": "Casablanca · Fes · Marrakech · Essaouira"
+  },
+  "title_line1": {
+    "en": "Morocco Jewish Heritage",
+    "es": "Tour del patrimonio judío",
+    "it": "Tour del patrimonio ebraico"
+  },
+  "title_line2": {
+    "en": "Tour From Casablanca",
+    "es": "de Marruecos desde Casablanca",
+    "it": "del Marocco da Casablanca"
+  },
+  "duration": {
+    "en": "8 Days / 7 Nights",
+    "es": "8 días / 7 noches",
+    "it": "8 giorni / 7 notti"
+  },
+  "duration_short": {
+    "en": "8 Days / 7 Nights",
+    "es": "8 días / 7 noches",
+    "it": "8 giorni / 7 notti"
+  },
+  "start": "Casablanca",
+  "end": "Casablanca",
+  "card": {
+    "title": {
+      "en": "Jewish heritage tour from Casablanca",
+      "es": "Tour del patrimonio judío desde Casablanca",
+      "it": "Tour del patrimonio ebraico da Casablanca"
+    },
+    "highlights": {
+      "en": "8 Days · Rabat · Meknes · the Mellahs of Fes and Marrakech · Essaouira",
+      "es": "8 días · Rabat · Mequinez · los mellahs de Fez y Marrakech · Esauira",
+      "it": "8 giorni · Rabat · Meknes · i mellah di Fes e Marrakech · Essaouira"
+    },
+    "route": [
+      "Casablanca",
+      "Fes",
+      "Essaouira"
+    ],
+    "image_alt": "Morocco Jewish Heritage Tour From Casablanca"
+  },
+  "overview": [
+    {
+      "en": "The Morocco Jewish Heritage Tour From Casablanca is a cultural journey designed for travelers who want to explore Morocco through its Jewish history, imperial cities, old medinas, mellahs, synagogues, cemeteries, coastal towns, and traditional neighborhoods. This tour combines Casablanca, Rabat, Meknes, Fes, Marrakech, Essaouira, and the Atlantic coast in one balanced itinerary.",
+      "es": "El tour del patrimonio judío de Marruecos desde Casablanca es un viaje cultural pensado para quienes quieren descubrir Marruecos a través de su historia judía, sus ciudades imperiales, medinas antiguas, mellahs, sinagogas, cementerios, ciudades costeras y barrios tradicionales. Este tour combina Casablanca, Rabat, Mequinez, Fez, Marrakech, Esauira y la costa atlántica en un itinerario equilibrado.",
+      "it": "Il tour del patrimonio ebraico del Marocco da Casablanca è un viaggio culturale pensato per chi vuole scoprire il Marocco attraverso la sua storia ebraica, le città imperiali, le antiche medine, i mellah, le sinagoghe, i cimiteri, le città costiere e i quartieri tradizionali. Questo tour unisce Casablanca, Rabat, Meknes, Fes, Marrakech, Essaouira e la costa atlantica in un unico itinerario equilibrato."
+    },
+    {
+      "en": "Your journey starts in Casablanca, Morocco’s largest city and one of the important centers of Jewish heritage in the country. Depending on availability and opening times, the visit can include Jewish heritage places, synagogues, cultural sites, and the Hassan II Mosque from the outside.",
+      "es": "Tu viaje comienza en Casablanca, la ciudad más grande de Marruecos y uno de los centros importantes del patrimonio judío del país. Según la disponibilidad y los horarios de apertura, la visita puede incluir lugares del patrimonio judío, sinagogas, sitios culturales y la mezquita Hassan II por fuera.",
+      "it": "Il tuo viaggio inizia a Casablanca, la città più grande del Marocco e uno dei centri importanti del patrimonio ebraico del paese. A seconda della disponibilità e degli orari di apertura, la visita può comprendere luoghi del patrimonio ebraico, sinagoghe, siti culturali e la moschea Hassan II dall’esterno."
+    },
+    {
+      "en": "From Casablanca, the route continues to Rabat and Meknes before reaching Fes, one of Morocco’s oldest imperial cities. In Fes, you will discover the old medina, the Jewish quarter, traditional streets, historic gates, and heritage sites connected to the city’s long cultural history.",
+      "es": "Desde Casablanca, la ruta continúa hacia Rabat y Mequinez antes de llegar a Fez, una de las ciudades imperiales más antiguas de Marruecos. En Fez descubrirás la medina antigua, el barrio judío, calles tradicionales, puertas históricas y lugares del patrimonio ligados a la larga historia cultural de la ciudad.",
+      "it": "Da Casablanca, il percorso prosegue verso Rabat e Meknes prima di raggiungere Fes, una delle più antiche città imperiali del Marocco. A Fes scoprirai l’antica medina, il quartiere ebraico, le strade tradizionali, le porte storiche e i luoghi del patrimonio legati alla lunga storia culturale della città."
+    },
+    {
+      "en": "The journey continues to Marrakech, where you can explore the old medina, the Mellah, traditional souks, and historic monuments with a local guide. After Marrakech, the route continues to Essaouira, a coastal town known for its old medina, Atlantic views, and important Jewish heritage.",
+      "es": "El viaje continúa hacia Marrakech, donde podrás explorar la medina antigua, el Mellah, los zocos tradicionales y los monumentos históricos con un guía local. Después de Marrakech, la ruta sigue hacia Esauira, una ciudad costera conocida por su medina antigua, sus vistas al Atlántico y su importante patrimonio judío.",
+      "it": "Il viaggio prosegue verso Marrakech, dove potrai esplorare l’antica medina, il Mellah, i souk tradizionali e i monumenti storici con una guida locale. Dopo Marrakech, il percorso continua verso Essaouira, una città costiera nota per la sua antica medina, le viste sull’Atlantico e il suo importante patrimonio ebraico."
+    },
+    {
+      "en": "The Morocco Jewish Heritage Tour From Casablanca is ideal for travelers looking for a meaningful cultural route through Morocco’s imperial cities, Jewish quarters, historic sites, local traditions, and Atlantic coastal heritage.",
+      "es": "El tour del patrimonio judío de Marruecos desde Casablanca es ideal para viajeros que buscan una ruta cultural con sentido a través de las ciudades imperiales, los barrios judíos, los lugares históricos, las tradiciones locales y el patrimonio de la costa atlántica de Marruecos.",
+      "it": "Il tour del patrimonio ebraico del Marocco da Casablanca è ideale per chi cerca un percorso culturale ricco di significato tra le città imperiali, i quartieri ebraici, i siti storici, le tradizioni locali e il patrimonio della costa atlantica del Marocco."
+    }
+  ],
+  "highlights": [],
+  "route": [
+    "Casablanca",
+    "Rabat",
+    "Meknes",
+    "Fes",
+    "Ifrane",
+    "Beni Mellal",
+    "Marrakech",
+    "Essaouira",
+    "Casablanca"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Welcome to Casablanca",
+        "es": "Bienvenida a Casablanca",
+        "it": "Benvenuti a Casablanca"
+      },
+      "text": {
+        "en": "Your Morocco Jewish Heritage Tour From Casablanca starts with pick-up from your accommodation, airport, or port in Casablanca. Depending on your arrival time, we can begin with a short visit of the city. You may visit the Hassan II Mosque from the outside, enjoy the Atlantic coast area, and explore parts of Casablanca connected to the city’s modern history. Depending on availability and opening times, the visit can also include Jewish heritage places in Casablanca. Dinner is optional. Overnight stay will be at a hotel in Casablanca.",
+        "es": "Tu tour del patrimonio judío de Marruecos desde Casablanca comienza con la recogida en tu alojamiento, el aeropuerto o el puerto de Casablanca. Según tu hora de llegada, podemos empezar con una breve visita de la ciudad. Podrás ver la mezquita Hassan II por fuera, disfrutar de la zona de la costa atlántica y explorar partes de Casablanca ligadas a su historia moderna. Según la disponibilidad y los horarios de apertura, la visita también puede incluir lugares del patrimonio judío de Casablanca. La cena es opcional. Noche en un hotel de Casablanca.",
+        "it": "Il tuo tour del patrimonio ebraico del Marocco da Casablanca inizia con il prelievo presso il tuo alloggio, l’aeroporto o il porto di Casablanca. A seconda dell’orario di arrivo, possiamo iniziare con una breve visita della città. Potrai vedere la moschea Hassan II dall’esterno, goderti la zona della costa atlantica ed esplorare parti di Casablanca legate alla sua storia moderna. A seconda della disponibilità e degli orari di apertura, la visita può comprendere anche luoghi del patrimonio ebraico di Casablanca. La cena è facoltativa. Pernottamento in un hotel a Casablanca."
+      },
+      "overnight": {
+        "en": "Casablanca",
+        "es": "Casablanca",
+        "it": "Casablanca"
+      },
+      "breakfast": false,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Casablanca - Rabat - Meknes - Fes",
+        "es": "Casablanca - Rabat - Mequinez - Fez",
+        "it": "Casablanca - Rabat - Meknes - Fes"
+      },
+      "text": {
+        "en": "After breakfast, we leave Casablanca and drive towards Rabat, the capital city of Morocco. In Rabat, you can visit the Hassan Tower, Mohammed V Mausoleum, the Kasbah of the Udayas, and the old medina area. After visiting Rabat, we continue towards Meknes, one of Morocco’s imperial cities. In Meknes, you can explore the old medina area, Bab Mansour, and historical places linked to the city’s imperial past. The journey continues to Fes. By the evening, we arrive in Fes. Dinner is optional. Overnight stay will be at a hotel or riad in Fes.",
+        "es": "Después del desayuno salimos de Casablanca hacia Rabat, la capital de Marruecos. En Rabat podrás visitar la Torre Hassan, el Mausoleo de Mohammed V, la Kasbah de los Udayas y la zona de la medina antigua. Tras la visita de Rabat, seguimos hacia Mequinez, una de las ciudades imperiales de Marruecos. En Mequinez podrás explorar la medina antigua, Bab Mansour y lugares históricos ligados a su pasado imperial. El viaje continúa hacia Fez, adonde llegamos por la tarde. La cena es opcional. Noche en un hotel o riad de Fez.",
+        "it": "Dopo colazione lasciamo Casablanca in direzione di Rabat, la capitale del Marocco. A Rabat potrai visitare la Torre Hassan, il Mausoleo di Mohammed V, la Kasbah degli Udaya e la zona dell’antica medina. Dopo la visita di Rabat proseguiamo verso Meknes, una delle città imperiali del Marocco. A Meknes potrai esplorare l’antica medina, Bab Mansour e i luoghi storici legati al suo passato imperiale. Il viaggio continua verso Fes, dove arriviamo in serata. La cena è facoltativa. Pernottamento in un hotel o riad a Fes."
+      },
+      "overnight": {
+        "en": "Fes",
+        "es": "Fez",
+        "it": "Fes"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Fes Jewish Heritage and Medina Tour",
+        "es": "Patrimonio judío y medina de Fez",
+        "it": "Patrimonio ebraico e medina di Fes"
+      },
+      "text": {
+        "en": "After breakfast, you will meet a local guide for a full-day visit of Fes. The visit can include the old medina, traditional souks, historic gates, artisan areas, and important cultural places in the city. You will also explore the Jewish quarter of Fes, known as the Mellah. Depending on access and opening times, the visit can include Jewish heritage sites, old streets, cemetery areas, and buildings connected to the Jewish history of the city. Fes is one of Morocco’s most important cultural cities, and this day gives you time to discover both the old medina and the heritage of the Jewish community that lived there for centuries. Dinner is optional. Overnight stay will be in Fes.",
+        "es": "Después del desayuno te reunirás con un guía local para una visita de día completo de Fez. La visita puede incluir la medina antigua, los zocos tradicionales, las puertas históricas, las zonas de artesanos y lugares culturales importantes de la ciudad. También explorarás el barrio judío de Fez, conocido como el Mellah. Según el acceso y los horarios de apertura, la visita puede incluir lugares del patrimonio judío, calles antiguas, zonas del cementerio y edificios ligados a la historia judía de la ciudad. Fez es una de las ciudades culturales más importantes de Marruecos, y este día te da tiempo para descubrir tanto la medina antigua como el patrimonio de la comunidad judía que vivió allí durante siglos. La cena es opcional. Noche en Fez.",
+        "it": "Dopo colazione incontrerai una guida locale per una visita di un’intera giornata di Fes. La visita può comprendere l’antica medina, i souk tradizionali, le porte storiche, le zone degli artigiani e i luoghi culturali più importanti della città. Esplorerai anche il quartiere ebraico di Fes, chiamato Mellah. A seconda dell’accesso e degli orari di apertura, la visita può comprendere siti del patrimonio ebraico, strade antiche, zone del cimitero ed edifici legati alla storia ebraica della città. Fes è una delle città culturali più importanti del Marocco, e questa giornata ti dà il tempo di scoprire sia l’antica medina sia il patrimonio della comunità ebraica che vi ha vissuto per secoli. La cena è facoltativa. Pernottamento a Fes."
+      },
+      "overnight": {
+        "en": "Fes",
+        "es": "Fez",
+        "it": "Fes"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Fes - Ifrane - Beni Mellal - Marrakech",
+        "es": "Fez - Ifrane - Beni Mellal - Marrakech",
+        "it": "Fes - Ifrane - Beni Mellal - Marrakech"
+      },
+      "text": {
+        "en": "After breakfast, we leave Fes and travel towards Marrakech through the Middle Atlas region. The road passes through Ifrane, a mountain town known for its clean streets and calm atmosphere. We continue through mountain landscapes, small towns, and open countryside towards Beni Mellal. Several stops can be made along the way for photos, coffee, or short breaks. After Beni Mellal, the journey continues towards Marrakech. By the afternoon or evening, we arrive in the red city. Dinner is optional. Overnight stay will be at a hotel or riad in Marrakech.",
+        "es": "Después del desayuno salimos de Fez hacia Marrakech atravesando la región del Medio Atlas. La carretera pasa por Ifrane, un pueblo de montaña conocido por sus calles limpias y su ambiente tranquilo. Continuamos entre paisajes de montaña, pequeños pueblos y campo abierto hacia Beni Mellal. Por el camino se pueden hacer varias paradas para fotos, café o descansos cortos. Después de Beni Mellal, el viaje sigue hacia Marrakech, adonde llegamos por la tarde o la noche. La cena es opcional. Noche en un hotel o riad de Marrakech.",
+        "it": "Dopo colazione lasciamo Fes in direzione di Marrakech attraversando la regione del Medio Atlante. La strada passa per Ifrane, una cittadina di montagna nota per le sue strade pulite e l’atmosfera tranquilla. Proseguiamo tra paesaggi di montagna, piccoli centri e aperta campagna verso Beni Mellal. Lungo il percorso si possono fare diverse soste per foto, caffè o brevi pause. Dopo Beni Mellal, il viaggio continua verso Marrakech, dove arriviamo nel pomeriggio o in serata. La cena è facoltativa. Pernottamento in un hotel o riad a Marrakech."
+      },
+      "overnight": {
+        "en": "Marrakech",
+        "es": "Marrakech",
+        "it": "Marrakech"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Marrakech Jewish Heritage and Medina Tour",
+        "es": "Patrimonio judío y medina de Marrakech",
+        "it": "Patrimonio ebraico e medina di Marrakech"
+      },
+      "text": {
+        "en": "After breakfast, you will meet a local guide for a full-day visit of Marrakech. The visit can include the old medina, traditional souks, Bahia Palace, Koutoubia Mosque from the outside, and Jemaa el-Fna square. You will also visit the Mellah of Marrakech, the historic Jewish quarter of the city. Depending on access and opening times, the visit can include heritage places, cemetery areas, local streets, and sites connected to the Jewish history of Marrakech. In the afternoon, you may continue exploring the medina, visit local craft areas, or enjoy free time in the city. Dinner is optional. Overnight stay will be in Marrakech.",
+        "es": "Después del desayuno te reunirás con un guía local para una visita de día completo de Marrakech. La visita puede incluir la medina antigua, los zocos tradicionales, el Palacio de la Bahía, la mezquita Koutoubia por fuera y la plaza Jemaa el-Fna. También visitarás el Mellah de Marrakech, el histórico barrio judío de la ciudad. Según el acceso y los horarios de apertura, la visita puede incluir lugares del patrimonio, zonas del cementerio, calles locales y sitios ligados a la historia judía de Marrakech. Por la tarde podrás seguir explorando la medina, visitar zonas de artesanía o disfrutar de tiempo libre en la ciudad. La cena es opcional. Noche en Marrakech.",
+        "it": "Dopo colazione incontrerai una guida locale per una visita di un’intera giornata di Marrakech. La visita può comprendere l’antica medina, i souk tradizionali, il Palazzo Bahia, la moschea Koutoubia dall’esterno e la piazza Jemaa el-Fna. Visiterai anche il Mellah di Marrakech, lo storico quartiere ebraico della città. A seconda dell’accesso e degli orari di apertura, la visita può comprendere luoghi del patrimonio, zone del cimitero, strade locali e siti legati alla storia ebraica di Marrakech. Nel pomeriggio potrai continuare a esplorare la medina, visitare le zone dell’artigianato o goderti del tempo libero in città. La cena è facoltativa. Pernottamento a Marrakech."
+      },
+      "overnight": {
+        "en": "Marrakech",
+        "es": "Marrakech",
+        "it": "Marrakech"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Marrakech - Essaouira",
+        "es": "Marrakech - Esauira",
+        "it": "Marrakech - Essaouira"
+      },
+      "text": {
+        "en": "After breakfast, we leave Marrakech and drive towards Essaouira on the Atlantic coast. Along the way, you may see argan trees, small villages, and open countryside before reaching the coastal town. Upon arrival in Essaouira, you will have time to explore the old medina, sea walls, fishing port, and blue-and-white streets. Essaouira is known for its relaxed atmosphere, Atlantic views, local crafts, and important Jewish heritage. Depending on availability and opening times, the visit can include the old Mellah area and heritage sites connected to the Jewish community of Essaouira. Dinner is optional. Overnight stay will be at a hotel or riad in Essaouira.",
+        "es": "Después del desayuno salimos de Marrakech hacia Esauira, en la costa atlántica. Por el camino podrás ver arganes, pequeños pueblos y campo abierto antes de llegar a la ciudad costera. A la llegada a Esauira tendrás tiempo para explorar la medina antigua, las murallas junto al mar, el puerto pesquero y las calles blancas y azules. Esauira es conocida por su ambiente relajado, sus vistas al Atlántico, su artesanía y su importante patrimonio judío. Según la disponibilidad y los horarios de apertura, la visita puede incluir la zona del antiguo Mellah y lugares del patrimonio ligados a la comunidad judía de Esauira. La cena es opcional. Noche en un hotel o riad de Esauira.",
+        "it": "Dopo colazione lasciamo Marrakech in direzione di Essaouira, sulla costa atlantica. Lungo la strada vedrai alberi di argan, piccoli villaggi e aperta campagna prima di raggiungere la città costiera. All’arrivo a Essaouira avrai tempo per esplorare l’antica medina, le mura sul mare, il porto dei pescatori e le strade bianche e blu. Essaouira è nota per la sua atmosfera rilassata, le viste sull’Atlantico, l’artigianato locale e il suo importante patrimonio ebraico. A seconda della disponibilità e degli orari di apertura, la visita può comprendere la zona dell’antico Mellah e i luoghi del patrimonio legati alla comunità ebraica di Essaouira. La cena è facoltativa. Pernottamento in un hotel o riad a Essaouira."
+      },
+      "overnight": {
+        "en": "Essaouira",
+        "es": "Esauira",
+        "it": "Essaouira"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Essaouira Jewish Heritage Tour - Free Time",
+        "es": "Patrimonio judío de Esauira - Tiempo libre",
+        "it": "Patrimonio ebraico di Essaouira - Tempo libero"
+      },
+      "text": {
+        "en": "After breakfast, you will continue exploring Essaouira with a local guide. The visit can include the old medina, the Mellah area, coastal walls, traditional streets, and heritage places connected to the city’s Jewish history. Essaouira was one of Morocco’s most important Atlantic towns for trade and cultural exchange. Its Jewish heritage can still be seen through old neighborhoods, cemetery areas, and historic buildings. In the afternoon, you will have free time to walk along the coast, enjoy the medina, visit local shops, or relax near the sea. Dinner is optional. Overnight stay will be in Essaouira.",
+        "es": "Después del desayuno seguirás explorando Esauira con un guía local. La visita puede incluir la medina antigua, la zona del Mellah, las murallas costeras, las calles tradicionales y lugares del patrimonio ligados a la historia judía de la ciudad. Esauira fue una de las ciudades atlánticas más importantes de Marruecos para el comercio y el intercambio cultural. Su patrimonio judío aún se puede ver en sus barrios antiguos, sus zonas del cementerio y sus edificios históricos. Por la tarde tendrás tiempo libre para pasear por la costa, disfrutar de la medina, visitar las tiendas locales o relajarte junto al mar. La cena es opcional. Noche en Esauira.",
+        "it": "Dopo colazione continuerai a esplorare Essaouira con una guida locale. La visita può comprendere l’antica medina, la zona del Mellah, le mura costiere, le strade tradizionali e i luoghi del patrimonio legati alla storia ebraica della città. Essaouira è stata una delle città atlantiche più importanti del Marocco per il commercio e lo scambio culturale. Il suo patrimonio ebraico si vede ancora nei quartieri antichi, nelle zone del cimitero e negli edifici storici. Nel pomeriggio avrai tempo libero per passeggiare lungo la costa, goderti la medina, visitare i negozi locali o rilassarti vicino al mare. La cena è facoltativa. Pernottamento a Essaouira."
+      },
+      "overnight": {
+        "en": "Essaouira",
+        "es": "Esauira",
+        "it": "Essaouira"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Essaouira - Casablanca",
+        "es": "Esauira - Casablanca",
+        "it": "Essaouira - Casablanca"
+      },
+      "text": {
+        "en": "After breakfast, we leave Essaouira and drive back towards Casablanca along the Atlantic direction. Several stops can be made along the way for coffee, photos, or short breaks. Depending on your departure time, we can go directly to Casablanca airport, port, or your accommodation. If time allows, you may enjoy a final short visit in Casablanca before the tour ends. The Morocco Jewish Heritage Tour From Casablanca ends with drop-off in Casablanca.",
+        "es": "Después del desayuno salimos de Esauira y regresamos hacia Casablanca en dirección a la costa atlántica. Por el camino se pueden hacer varias paradas para café, fotos o descansos cortos. Según tu hora de salida, podemos ir directamente al aeropuerto, al puerto o a tu alojamiento en Casablanca. Si hay tiempo, podrás disfrutar de una última visita corta de Casablanca antes de que termine el tour. El tour del patrimonio judío de Marruecos desde Casablanca termina con el traslado en Casablanca.",
+        "it": "Dopo colazione lasciamo Essaouira e torniamo verso Casablanca seguendo la direzione dell’Atlantico. Lungo il percorso si possono fare diverse soste per caffè, foto o brevi pause. A seconda dell’orario di partenza, possiamo andare direttamente all’aeroporto, al porto o al tuo alloggio a Casablanca. Se il tempo lo permette, potrai goderti un’ultima breve visita di Casablanca prima della fine del tour. Il tour del patrimonio ebraico del Marocco da Casablanca termina con il trasferimento a Casablanca."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Pick-up & drop off at/from your accommodation, airport, or port in Casablanca",
+      "es": "Recogida y traslado desde/a tu alojamiento, aeropuerto o puerto en Casablanca",
+      "it": "Prelievo e rientro presso il tuo alloggio, l’aeroporto o il porto di Casablanca"
+    },
+    {
+      "en": "Transport by private modern vehicle with A/C",
+      "es": "Transporte en vehículo privado moderno con aire acondicionado",
+      "it": "Trasporto in veicolo privato moderno con aria condizionata"
+    },
+    {
+      "en": "Car Fuel",
+      "es": "Combustible",
+      "it": "Carburante"
+    },
+    {
+      "en": "Experienced English/Spanish speaking Driver/Guide",
+      "es": "Chófer/guía con experiencia que habla inglés y español",
+      "it": "Autista/guida esperto che parla inglese e spagnolo"
+    },
+    {
+      "en": "7 nights in a private room at a hotel/riad",
+      "es": "7 noches en habitación privada en hotel/riad",
+      "it": "7 notti in camera privata in hotel/riad"
+    },
+    {
+      "en": "Breakfast",
+      "es": "Desayuno",
+      "it": "Colazione"
+    },
+    {
+      "en": "Local guide in Fes",
+      "es": "Guía local en Fez",
+      "it": "Guida locale a Fes"
+    },
+    {
+      "en": "Local guide in Marrakech",
+      "es": "Guía local en Marrakech",
+      "it": "Guida locale a Marrakech"
+    },
+    {
+      "en": "Local guide in Essaouira",
+      "es": "Guía local en Esauira",
+      "it": "Guida locale a Essaouira"
+    }
+  ],
+  "not_included_extra": [
+    {
+      "en": "Dinners",
+      "es": "Cenas",
+      "it": "Cene"
+    },
+    {
+      "en": "Synagogue or museum access fees when applicable",
+      "es": "Entradas a sinagogas o museos cuando corresponda",
+      "it": "Ingressi a sinagoghe o musei quando previsti"
+    },
+    {
+      "en": "Personal expenses",
+      "es": "Gastos personales",
+      "it": "Spese personali"
+    }
+  ],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Casablanca",
+      "description": {
+        "en": "Day 1 · Arrival, city visit and Jewish heritage places",
+        "es": "Día 1 · Llegada, visita de la ciudad y patrimonio judío",
+        "it": "Giorno 1 · Arrivo, visita della città e patrimonio ebraico"
+      }
+    },
+    {
+      "name": "Rabat",
+      "description": {
+        "en": "Day 2 · Hassan Tower, Mohammed V Mausoleum, Kasbah of the Udayas",
+        "es": "Día 2 · Torre Hassan, Mausoleo de Mohammed V, Kasbah de los Udayas",
+        "it": "Giorno 2 · Torre Hassan, Mausoleo di Mohammed V, Kasbah degli Udaya"
+      }
+    },
+    {
+      "name": "Meknes",
+      "description": {
+        "en": "Day 2 · Old medina and Bab Mansour",
+        "es": "Día 2 · Medina antigua y Bab Mansour",
+        "it": "Giorno 2 · Antica medina e Bab Mansour"
+      }
+    },
+    {
+      "name": "Fes",
+      "description": {
+        "en": "Days 2–3 · Medina and the Mellah with a local guide",
+        "es": "Días 2–3 · Medina y Mellah con guía local",
+        "it": "Giorni 2–3 · Medina e Mellah con guida locale"
+      }
+    },
+    {
+      "name": "Ifrane & Beni Mellal",
+      "description": {
+        "en": "Day 4 · Middle Atlas road to Marrakech",
+        "es": "Día 4 · Ruta del Medio Atlas hacia Marrakech",
+        "it": "Giorno 4 · Strada del Medio Atlante verso Marrakech"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Days 4–5 · Medina, Bahia Palace and the Mellah",
+        "es": "Días 4–5 · Medina, Palacio de la Bahía y Mellah",
+        "it": "Giorni 4–5 · Medina, Palazzo Bahia e Mellah"
+      }
+    },
+    {
+      "name": "Essaouira",
+      "description": {
+        "en": "Days 6–7 · Medina, sea walls and Jewish heritage",
+        "es": "Días 6–7 · Medina, murallas y patrimonio judío",
+        "it": "Giorni 6–7 · Medina, mura sul mare e patrimonio ebraico"
+      }
+    },
+    {
+      "name": "Casablanca",
+      "description": {
+        "en": "Day 8 · Drop-off at the airport, port or accommodation",
+        "es": "Día 8 · Traslado al aeropuerto, puerto o alojamiento",
+        "it": "Giorno 8 · Trasferimento in aeroporto, porto o alloggio"
+      }
+    }
+  ],
+  "map_route": [
+    "Casablanca, Morocco",
+    "Rabat, Morocco",
+    "Meknes, Morocco",
+    "Fes, Morocco",
+    "Ifrane, Morocco",
+    "Beni Mellal, Morocco",
+    "Marrakech, Morocco",
+    "Essaouira, Morocco",
+    "Casablanca, Morocco"
+  ],
+  "planner": {
+    "show": true,
+    "days": 8,
+    "start": "casablanca",
+    "tags": [
+      "cities"
+    ]
+  }
+}

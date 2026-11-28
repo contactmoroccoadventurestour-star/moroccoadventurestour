@@ -1,0 +1,274 @@
+{
+  "title": "Agafay Day Trip",
+  "type": "daytrip",
+  "category": "daytrip",
+  "order": 600,
+  "show_on_home": true,
+  "home_extra": [],
+  "price": "",
+  "image": "/images/dt-agafay.jpg",
+  "image_position": "center 60%",
+  "meta_description": "Agafay day trip from Marrakech: camel ride in the rocky Agafay desert, optional quad biking, traditional lunch in a desert camp and views of the Atlas Mountains.",
+  "eyebrow": {
+    "en": "Marrakech · Agafay Desert · Marrakech",
+    "es": "Marrakech · Desierto de Agafay · Marrakech",
+    "it": "Marrakech · Deserto di Agafay · Marrakech"
+  },
+  "title_line1": {
+    "en": "Agafay",
+    "es": "Excursión de un día",
+    "it": "Escursione di un giorno"
+  },
+  "title_line2": {
+    "en": "Day Trip",
+    "es": "a Agafay",
+    "it": "ad Agafay"
+  },
+  "duration": {
+    "en": "Full day",
+    "es": "Día completo",
+    "it": "Giornata intera"
+  },
+  "duration_short": {
+    "en": "Full day",
+    "es": "Día completo",
+    "it": "Giornata intera"
+  },
+  "start": "Marrakech",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "Agafay Day Trip",
+      "es": "Excursión a Agafay",
+      "it": "Escursione ad Agafay"
+    },
+    "highlights": {
+      "en": "",
+      "es": "",
+      "it": ""
+    },
+    "route": [
+      "Marrakech"
+    ],
+    "image_alt": "Agafay Desert Day Trip from Marrakech, Morocco"
+  },
+  "overview": [
+    {
+      "en": "Agafay Day Trip offers guests with a variety of thrilling things to enjoy. Our company promises to provide a wide range of ideas to suit their clients’ preferences. Accompanied by your professional driver guide, you will traverse the beautiful Agafay desert and experience an exciting trip via extensive desert trails with profound lows and highs.",
+      "es": "La excursión de un día a Agafay ofrece a los viajeros una gran variedad de experiencias emocionantes. Nuestra empresa se compromete a ofrecer una amplia gama de ideas que se adapten a las preferencias de cada cliente. Acompañado por tu chófer guía profesional, recorrerás el precioso desierto de Agafay y vivirás un viaje emocionante por extensas pistas del desierto, con grandes subidas y bajadas.",
+      "it": "L’escursione di un giorno ad Agafay offre ai viaggiatori una grande varietà di esperienze emozionanti. La nostra agenzia si impegna a proporre un’ampia gamma di idee adatte alle preferenze di ogni cliente. Accompagnato dal tuo autista guida professionista, attraverserai il bellissimo deserto di Agafay e vivrai un viaggio emozionante lungo ampie piste del deserto, tra profonde discese e salite."
+    }
+  ],
+  "highlights": [],
+  "route": [
+    "Marrakech",
+    "Agafay Desert",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Departure from Marrakech",
+        "es": "Salida de Marrakech",
+        "it": "Partenza da Marrakech"
+      },
+      "text": {
+        "en": "Your adventure begins with a pick-up from your accommodation in Marrakech. Set out on a comfortable drive towards the stunning Agafay Desert, located just 45 minutes from the city. Enjoy the scenic journey through small Berber villages and picturesque landscapes.",
+        "es": "Tu aventura comienza con la recogida en tu alojamiento de Marrakech. Emprenderás un cómodo trayecto hacia el impresionante desierto de Agafay, situado a solo 45 minutos de la ciudad. Disfruta del bonito recorrido entre pequeños pueblos bereberes y paisajes pintorescos.",
+        "it": "La tua avventura inizia con il prelievo presso il tuo alloggio a Marrakech. Partirai per un comodo tragitto verso lo splendido deserto di Agafay, a soli 45 minuti dalla città. Goditi il panoramico percorso tra piccoli villaggi berberi e paesaggi pittoreschi."
+      },
+      "label": {
+        "en": "9:00 AM",
+        "es": "9:00 AM",
+        "it": "9:00 AM"
+      }
+    },
+    {
+      "title": {
+        "en": "Arrival in Agafay Desert",
+        "es": "Llegada al desierto de Agafay",
+        "it": "Arrivo nel deserto di Agafay"
+      },
+      "text": {
+        "en": "Upon arrival in the vast Agafay Desert, you’ll be captivated by the rocky terrain and rolling hills. Although not a typical sand desert, Agafay offers a unique experience with its lunar-like landscape. Begin by taking in the breathtaking views of the Atlas Mountains in the distance.",
+        "es": "Al llegar al inmenso desierto de Agafay, te cautivarán su terreno rocoso y sus colinas onduladas. Aunque no es un desierto de arena típico, Agafay ofrece una experiencia única con su paisaje casi lunar. Empieza contemplando las impresionantes vistas de las montañas del Atlas a lo lejos.",
+        "it": "All’arrivo nel vasto deserto di Agafay, resterai colpito dal terreno roccioso e dalle colline ondulate. Pur non essendo un tipico deserto di sabbia, Agafay offre un’esperienza unica con il suo paesaggio quasi lunare. Inizia ammirando le splendide viste sulle montagne dell’Atlante in lontananza."
+      },
+      "label": {
+        "en": "9:45 AM",
+        "es": "9:45 AM",
+        "it": "9:45 AM"
+      }
+    },
+    {
+      "title": {
+        "en": "Camel Ride Experience",
+        "es": "Paseo en camello",
+        "it": "Escursione in cammello"
+      },
+      "text": {
+        "en": "Start your day with a traditional camel ride through the desert. Dressed in a blue turban and robe (optional), you’ll feel like a true nomad as you journey through the serene, rocky plains of Agafay. This leisurely ride offers plenty of photo opportunities and a chance to soak in the peaceful ambiance of the desert.",
+        "es": "Empieza el día con un paseo tradicional en camello por el desierto. Vestido con turbante y túnica azul (opcional), te sentirás como un auténtico nómada mientras recorres las serenas llanuras rocosas de Agafay. Este paseo tranquilo ofrece muchas oportunidades para hacer fotos y disfrutar del ambiente apacible del desierto.",
+        "it": "Inizia la giornata con un tradizionale giro in cammello nel deserto. Vestito con turbante e tunica blu (facoltativo), ti sentirai un vero nomade mentre attraversi le serene pianure rocciose di Agafay. Questa passeggiata tranquilla offre tante occasioni per scattare foto e godersi l’atmosfera pacifica del deserto."
+      },
+      "label": {
+        "en": "10:00 AM",
+        "es": "10:00 AM",
+        "it": "10:00 AM"
+      }
+    },
+    {
+      "title": {
+        "en": "Quad Biking Adventure (Optional)",
+        "es": "Aventura en quad (opcional)",
+        "it": "Avventura in quad (facoltativa)"
+      },
+      "text": {
+        "en": "For those seeking more excitement, take an optional quad biking tour through the desert. Navigate the rough terrain and feel the thrill as you explore deeper into Agafay’s untouched beauty. Experienced guides will lead you through safe trails, making this an adventure to remember.",
+        "es": "Si buscas más emoción, puedes hacer una ruta opcional en quad por el desierto. Recorre el terreno accidentado y siente la adrenalina mientras te adentras en la belleza intacta de Agafay. Guías con experiencia te llevarán por pistas seguras para que vivas una aventura inolvidable.",
+        "it": "Per chi cerca più emozioni, è possibile fare un giro facoltativo in quad nel deserto. Affronta il terreno accidentato e senti l’adrenalina mentre esplori la bellezza incontaminata di Agafay. Guide esperte ti accompagneranno lungo piste sicure, per un’avventura da ricordare."
+      },
+      "label": {
+        "en": "11:30 AM",
+        "es": "11:30 AM",
+        "it": "11:30 AM"
+      }
+    },
+    {
+      "title": {
+        "en": "Lunch in a Desert Camp",
+        "es": "Almuerzo en un campamento del desierto",
+        "it": "Pranzo in un campo nel deserto"
+      },
+      "text": {
+        "en": "Enjoy a delicious traditional Moroccan lunch at a desert camp. Savor local dishes like tagine, couscous, and salads, served in a traditional Berber tent. As you dine, take in the tranquil desert surroundings and enjoy the hospitality of your hosts.",
+        "es": "Disfruta de un delicioso almuerzo marroquí tradicional en un campamento del desierto. Saborea platos locales como el tajín, el cuscús y las ensaladas, servidos en una jaima bereber tradicional. Mientras comes, contempla la tranquilidad del desierto y disfruta de la hospitalidad de tus anfitriones.",
+        "it": "Goditi un delizioso pranzo marocchino tradizionale in un campo nel deserto. Assapora piatti locali come tajine, cuscus e insalate, serviti in una tradizionale tenda berbera. Mentre mangi, ammira la quiete del deserto e lasciati coccolare dall’ospitalità dei tuoi ospiti."
+      },
+      "label": {
+        "en": "1:00 PM",
+        "es": "1:00 PM",
+        "it": "1:00 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Free Time for Relaxation",
+        "es": "Tiempo libre para relajarse",
+        "it": "Tempo libero per rilassarsi"
+      },
+      "text": {
+        "en": "After lunch, relax and soak up the desert atmosphere. You can unwind in the lounge area of the camp, sip mint tea, or take a leisurely walk around the camp to enjoy the quiet and stillness of the desert.",
+        "es": "Después del almuerzo, relájate y empápate del ambiente del desierto. Puedes descansar en la zona lounge del campamento, tomar un té a la menta o dar un paseo tranquilo por los alrededores para disfrutar del silencio y la calma del desierto.",
+        "it": "Dopo pranzo, rilassati e lasciati avvolgere dall’atmosfera del deserto. Puoi riposare nell’area lounge del campo, sorseggiare un tè alla menta o fare una passeggiata tranquilla intorno al campo per goderti il silenzio e la quiete del deserto."
+      },
+      "label": {
+        "en": "2:30 PM",
+        "es": "2:30 PM",
+        "it": "2:30 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Departure from Agafay Desert",
+        "es": "Salida del desierto de Agafay",
+        "it": "Partenza dal deserto di Agafay"
+      },
+      "text": {
+        "en": "After a memorable day in the Agafay Desert, it’s time to head back to Marrakech. On your way, enjoy one last look at the striking landscapes that surround you.",
+        "es": "Después de un día memorable en el desierto de Agafay, llega la hora de volver a Marrakech. Por el camino, disfruta de una última mirada a los impresionantes paisajes que te rodean.",
+        "it": "Dopo una giornata memorabile nel deserto di Agafay, è ora di tornare a Marrakech. Lungo la strada, goditi un ultimo sguardo sugli spettacolari paesaggi che ti circondano."
+      },
+      "label": {
+        "en": "3:30 PM",
+        "es": "3:30 PM",
+        "it": "3:30 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Return to Marrakech",
+        "es": "Regreso a Marrakech",
+        "it": "Rientro a Marrakech"
+      },
+      "text": {
+        "en": "Arrive back in Marrakech, where you’ll be dropped off at your accommodation, concluding your Agafay day trip.",
+        "es": "Llegada a Marrakech, donde te dejaremos en tu alojamiento, poniendo fin a tu excursión de un día a Agafay.",
+        "it": "Arrivo a Marrakech, dove sarai riaccompagnato al tuo alloggio, a conclusione della tua escursione di un giorno ad Agafay."
+      },
+      "label": {
+        "en": "4:30 PM",
+        "es": "4:30 PM",
+        "it": "4:30 PM"
+      }
+    }
+  ],
+  "itinerary_note": {
+    "en": "This itinerary offers a perfect balance of adventure, cultural experiences, and relaxation, making it an unforgettable day in the unique Agafay Desert.",
+    "es": "Este itinerario ofrece el equilibrio perfecto entre aventura, experiencias culturales y relax, para que vivas un día inolvidable en el singular desierto de Agafay.",
+    "it": "Questo itinerario offre il perfetto equilibrio tra avventura, esperienze culturali e relax, per una giornata indimenticabile nel singolare deserto di Agafay."
+  },
+  "included": [
+    {
+      "en": "Pick-up & drop off at/from your accommodation",
+      "es": "Recogida y regreso a tu alojamiento",
+      "it": "Prelievo e rientro presso il tuo alloggio"
+    },
+    {
+      "en": "Transport by private modern vehicle with A/C",
+      "es": "Transporte en vehículo privado moderno con aire acondicionado",
+      "it": "Trasporto in veicolo privato moderno con aria condizionata"
+    },
+    {
+      "en": "Experienced English/Spanish speaking Driver/Guide",
+      "es": "Chófer/guía con experiencia que habla inglés y español",
+      "it": "Autista/guida esperto che parla inglese e spagnolo"
+    },
+    {
+      "en": "Car Fuel",
+      "es": "Combustible",
+      "it": "Carburante"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Pick-up from your accommodation",
+        "es": "Recogida en tu alojamiento",
+        "it": "Prelievo presso il tuo alloggio"
+      }
+    },
+    {
+      "name": "Agafay Desert",
+      "description": {
+        "en": "Camel ride, optional quad biking and lunch in a desert camp",
+        "es": "Paseo en camello, quad opcional y almuerzo en un campamento",
+        "it": "Giro in cammello, quad facoltativo e pranzo in un campo"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Drop-off at your accommodation",
+        "es": "Regreso a tu alojamiento",
+        "it": "Rientro al tuo alloggio"
+      }
+    }
+  ],
+  "map_route": [
+    "Marrakech, Morocco",
+    "Agafay Desert, Morocco",
+    "Marrakech, Morocco"
+  ],
+  "planner": {
+    "show": true,
+    "days": 1,
+    "start": "marrakech",
+    "tags": [
+      "desert"
+    ]
+  }
+}

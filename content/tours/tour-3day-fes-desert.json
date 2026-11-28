@@ -1,0 +1,365 @@
+{
+  "title": "3 Days Morocco Sahara Desert Tour from Fes",
+  "type": "tour",
+  "category": "fes",
+  "order": 101,
+  "show_on_home": true,
+  "home_extra": [
+    "shared"
+  ],
+  "price": "",
+  "image": "/images/tour-fes-merzouga3.jpg",
+  "image_position": "60% 25%",
+  "meta_description": "Private 3-day Sahara tour from Fes and back: Ifrane, the Azrou cedar forest, the Ziz Valley, a camel trek and night in the Erg Chebbi dunes, Rissani, Todra Gorge and the Dades Valley.",
+  "eyebrow": {
+    "en": "Private tour · round trip from Fes",
+    "es": "Tour privado · ida y vuelta desde Fez",
+    "it": "Tour privato · andata e ritorno da Fes"
+  },
+  "title_line1": {
+    "en": "3 Days Sahara Desert Tour",
+    "es": "3 días por el desierto del Sáhara",
+    "it": "3 giorni nel deserto del Sahara"
+  },
+  "title_line2": {
+    "en": "from Fes",
+    "es": "desde Fez",
+    "it": "da Fes"
+  },
+  "duration": {
+    "en": "3 days · 2 nights",
+    "es": "3 días · 2 noches",
+    "it": "3 giorni · 2 notti"
+  },
+  "duration_short": {
+    "en": "3 days",
+    "es": "3 días",
+    "it": "3 giorni"
+  },
+  "start": "Fes",
+  "end": "Fes",
+  "card": {
+    "title": {
+      "en": "3 Days Sahara Desert Tour from Fes",
+      "es": "3 días por el Sáhara desde Fez",
+      "it": "3 giorni nel Sahara da Fes"
+    },
+    "highlights": {
+      "en": "Ifrane · Ziz Valley · Erg Chebbi camp · Rissani · Todra · Dades",
+      "es": "Ifrane · valle del Ziz · campamento en Erg Chebbi · Rissani · Todra · Dades",
+      "it": "Ifrane · valle dello Ziz · campo a Erg Chebbi · Rissani · Todra · Dades"
+    },
+    "route": [
+      "Fes",
+      "Merzouga",
+      "Fes"
+    ],
+    "image_alt": "3 Days Morocco Sahara Desert Tour from Fes"
+  },
+  "overview": [
+    {
+      "en": "A short but complete Sahara journey that starts and ends at your riad in Fes. In three days you cross the Middle Atlas, sleep among the dunes of Erg Chebbi and discover the gorges and kasbah valleys of the south-east.",
+      "es": "Un viaje al Sáhara corto pero completo, que empieza y termina en tu riad de Fez. En tres días cruzas el Medio Atlas, duermes entre las dunas de Erg Chebbi y descubres las gargantas y los valles de kasbahs del sureste.",
+      "it": "Un viaggio nel Sahara breve ma completo, che parte e finisce al tuo riad a Fes. In tre giorni attraversi il Medio Atlante, dormi tra le dune di Erg Chebbi e scopri le gole e le valli delle kasbah del sud-est."
+    },
+    {
+      "en": "The road south passes Ifrane, the cedar forests of Azrou with their Barbary macaques and the long palm groves of the Ziz Valley. In Merzouga a camel takes you into the dunes for a night in a desert camp, with dinner and Berber music under the stars.",
+      "es": "La carretera hacia el sur pasa por Ifrane, los bosques de cedros de Azrou con sus macacos y los largos palmerales del valle del Ziz. En Merzouga un camello te lleva a las dunas para pasar la noche en un campamento, con cena y música bereber bajo las estrellas.",
+      "it": "La strada verso sud passa da Ifrane, dalle foreste di cedri di Azrou con le loro bertucce e dai lunghi palmeti della valle dello Ziz. A Merzouga un cammello ti porta tra le dune per una notte in un campo tendato, con cena e musica berbera sotto le stelle."
+    },
+    {
+      "en": "After sunrise over the dunes, you visit Rissani, walk in the Todra Gorge and spend the night in the Dades Valley, before driving back north to Fes through the Middle Atlas.",
+      "es": "Tras el amanecer sobre las dunas, visitas Rissani, caminas por la garganta del Todra y duermes en el valle del Dades, antes de volver al norte, a Fez, por el Medio Atlas.",
+      "it": "Dopo l’alba sulle dune visiti Rissani, cammini nella gola del Todra e dormi nella valle del Dades, prima di tornare a nord, a Fes, attraverso il Medio Atlante."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "Ifrane, the Switzerland of Morocco",
+        "es": "Ifrane, la Suiza de Marruecos",
+        "it": "Ifrane, la Svizzera del Marocco"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Barbary macaques in the cedar forest",
+        "es": "Macacos en el bosque de cedros",
+        "it": "Bertucce nella foresta di cedri"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Ziz Valley palm groves",
+        "es": "Palmerales del valle del Ziz",
+        "it": "Palmeti della valle dello Ziz"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Camel trek & Erg Chebbi camp",
+        "es": "Camello y campamento en Erg Chebbi",
+        "it": "Cammello e campo a Erg Chebbi"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Rissani market & Todra Gorge",
+        "es": "Mercado de Rissani y garganta del Todra",
+        "it": "Mercato di Rissani e gola del Todra"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "A night in the Dades Valley",
+        "es": "Una noche en el valle del Dades",
+        "it": "Una notte nella valle del Dades"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Fes",
+    "Ifrane",
+    "Merzouga",
+    "Todra",
+    "Dades",
+    "Fes"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Fes – Ifrane – Ziz Valley – Merzouga",
+        "es": "Fez – Ifrane – valle del Ziz – Merzouga",
+        "it": "Fes – Ifrane – valle dello Ziz – Merzouga"
+      },
+      "text": {
+        "en": "Leave Fes early and climb into the Middle Atlas. Stop in Ifrane, with its alpine houses and cool air, then meet the Barbary macaques in the cedar forest near Azrou. Continue south, stopping at viewpoints over the palm groves of the Ziz Valley. In Merzouga, ride a camel into the Erg Chebbi dunes to your camp for dinner, Berber music by the fire and a night under the stars.",
+        "es": "Salimos temprano de Fez y subimos al Medio Atlas. Paramos en Ifrane, con sus casas de estilo alpino y su aire fresco, y vemos los macacos de Berbería en el bosque de cedros de Azrou. Seguimos hacia el sur, con paradas en los miradores sobre los palmerales del valle del Ziz. En Merzouga entras en camello a las dunas de Erg Chebbi hasta el campamento, con cena, música bereber junto al fuego y noche bajo las estrellas.",
+        "it": "Partenza presto da Fes e salita nel Medio Atlante. Sosta a Ifrane, con le sue case in stile alpino e l’aria fresca, poi incontro con le bertucce nella foresta di cedri di Azrou. Si prosegue verso sud, con soste ai belvedere sui palmeti della valle dello Ziz. A Merzouga entri in cammello tra le dune di Erg Chebbi fino al campo, con cena, musica berbera accanto al fuoco e notte sotto le stelle."
+      },
+      "overnight": {
+        "en": "Desert camp in Erg Chebbi",
+        "es": "Campamento en Erg Chebbi",
+        "it": "Campo tendato a Erg Chebbi"
+      },
+      "breakfast": false,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga – Rissani – Todra Gorge – Dades",
+        "es": "Merzouga – Rissani – garganta del Todra – Dades",
+        "it": "Merzouga – Rissani – gola del Todra – Dades"
+      },
+      "text": {
+        "en": "Wake early for sunrise over the dunes, then ride back to Merzouga for breakfast. Visit Rissani, an old caravan town with a busy market, and walk between the 300-metre walls of the Todra Gorge. Continue to the Dades Valley, with its kasbahs, green oases and red rock formations, for the night.",
+        "es": "Te levantas temprano para el amanecer sobre las dunas y vuelves a Merzouga para desayunar. Visitamos Rissani, antigua ciudad caravanera con un mercado muy animado, y caminamos entre las paredes de 300 metros de la garganta del Todra. Seguimos al valle del Dades, con sus kasbahs, oasis verdes y rocas rojas, para dormir.",
+        "it": "Sveglia presto per l’alba sulle dune, poi rientro a Merzouga per la colazione. Visitiamo Rissani, antica città carovaniera con un mercato vivace, e camminiamo tra le pareti di 300 metri della gola del Todra. Proseguiamo per la valle del Dades, con le sue kasbah, le oasi verdi e le rocce rosse, per la notte."
+      },
+      "overnight": {
+        "en": "Riad or guesthouse in the Dades Valley",
+        "es": "Riad o casa de huéspedes en el valle del Dades",
+        "it": "Riad o guesthouse nella valle del Dades"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Dades – Errachidia – Midelt – Fes",
+        "es": "Dades – Errachidia – Midelt – Fez",
+        "it": "Dades – Errachidia – Midelt – Fes"
+      },
+      "text": {
+        "en": "After breakfast, start the long, scenic drive back north through Tinghir and Errachidia, then over the Middle Atlas via Midelt, with photo stops along the way. Arrival at your riad or hotel in Fes in the late afternoon or early evening.",
+        "es": "Después del desayuno empieza el largo y bonito regreso hacia el norte por Tinghir y Errachidia, y luego por el Medio Atlas pasando por Midelt, con paradas para hacer fotos. Llegada a tu riad u hotel en Fez a última hora de la tarde o al anochecer.",
+        "it": "Dopo la colazione inizia il lungo e panoramico ritorno verso nord passando per Tinghir ed Errachidia, poi attraverso il Medio Atlante via Midelt, con soste per le foto. Arrivo al tuo riad o hotel a Fes nel tardo pomeriggio o in prima serata."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Pick-up and drop-off at your riad or hotel in Fes",
+      "es": "Recogida y regreso a tu riad u hotel en Fez",
+      "it": "Prelievo e rientro al tuo riad o hotel a Fes"
+    },
+    {
+      "en": "Private air-conditioned vehicle, fuel included",
+      "es": "Vehículo privado con aire acondicionado, combustible incluido",
+      "it": "Veicolo privato climatizzato, carburante incluso"
+    },
+    {
+      "en": "Experienced English-speaking driver-guide",
+      "es": "Conductor-guía con experiencia que habla inglés",
+      "it": "Autista-guida esperto che parla inglese"
+    },
+    {
+      "en": "1 night in a luxury desert camp in Erg Chebbi",
+      "es": "1 noche en un campamento de lujo en Erg Chebbi",
+      "it": "1 notte in un campo tendato di lusso a Erg Chebbi"
+    },
+    {
+      "en": "1 night in a riad in the Dades Valley",
+      "es": "1 noche en un riad en el valle del Dades",
+      "it": "1 notte in un riad nella valle del Dades"
+    },
+    {
+      "en": "Camel trek into the dunes",
+      "es": "Paseo en camello por las dunas",
+      "it": "Escursione in cammello tra le dune"
+    },
+    {
+      "en": "2 breakfasts and 2 dinners",
+      "es": "2 desayunos y 2 cenas",
+      "it": "2 colazioni e 2 cene"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Fes",
+      "description": {
+        "en": "Start",
+        "es": "Salida",
+        "it": "Partenza"
+      }
+    },
+    {
+      "name": "Ifrane",
+      "description": {
+        "en": "Switzerland of Morocco",
+        "es": "La Suiza de Marruecos",
+        "it": "La Svizzera del Marocco"
+      }
+    },
+    {
+      "name": "Azrou",
+      "description": {
+        "en": "Cedar forest",
+        "es": "Bosque de cedros",
+        "it": "Foresta di cedri"
+      }
+    },
+    {
+      "name": "Ziz Valley",
+      "description": {
+        "en": "Palm oasis",
+        "es": "Oasis de palmeras",
+        "it": "Oasi di palme"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Desert camp · night 1",
+        "es": "Campamento · noche 1",
+        "it": "Campo tendato · notte 1"
+      }
+    },
+    {
+      "name": "Rissani",
+      "description": {
+        "en": "Caravan town",
+        "es": "Ciudad caravanera",
+        "it": "Città carovaniera"
+      }
+    },
+    {
+      "name": "Todra Gorge",
+      "description": {
+        "en": "300 m cliffs",
+        "es": "Paredes de 300 m",
+        "it": "Pareti di 300 m"
+      }
+    },
+    {
+      "name": "Dades Valley",
+      "description": {
+        "en": "Night 2",
+        "es": "Noche 2",
+        "it": "Notte 2"
+      }
+    },
+    {
+      "name": "Midelt",
+      "description": {
+        "en": "Middle Atlas",
+        "es": "Medio Atlas",
+        "it": "Medio Atlante"
+      }
+    },
+    {
+      "name": "Fes",
+      "description": {
+        "en": "End",
+        "es": "Fin",
+        "it": "Fine"
+      }
+    }
+  ],
+  "map_route": [
+    "Fes",
+    "Ifrane",
+    "Azrou",
+    "Midelt",
+    "Errachidia",
+    "Merzouga",
+    "Rissani",
+    "Tinghir",
+    "Boumalne Dades",
+    "Midelt",
+    "Fes"
+  ],
+  "planner": {
+    "show": true,
+    "days": 3,
+    "start": "fes",
+    "tags": [
+      "desert",
+      "mountains"
+    ]
+  }
+}

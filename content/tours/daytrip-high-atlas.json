@@ -1,0 +1,327 @@
+{
+  "title": "High Atlas Mountains Day Trip",
+  "type": "daytrip",
+  "category": "daytrip",
+  "order": 602,
+  "show_on_home": true,
+  "home_extra": [],
+  "price": "",
+  "image": "/images/dt-highatlas.jpg",
+  "image_position": "center 60%",
+  "meta_description": "High Atlas Mountains day trip from Marrakech to Ait Ben Haddou: Tizi n'Tichka pass, the UNESCO kasbah of Ait Ben Haddou, lunch, Taourirt Kasbah in Ouarzazate and an optional camel ride.",
+  "eyebrow": {
+    "en": "Marrakech · Tizi n’Tichka · Ait Ben Haddou · Ouarzazate",
+    "es": "Marrakech · Tizi n’Tichka · Ait Ben Haddou · Ouarzazate",
+    "it": "Marrakech · Tizi n’Tichka · Ait Ben Haddou · Ouarzazate"
+  },
+  "title_line1": {
+    "en": "High Atlas Mountains",
+    "es": "Excursión de un día",
+    "it": "Escursione di un giorno"
+  },
+  "title_line2": {
+    "en": "Day Trip",
+    "es": "al Alto Atlas",
+    "it": "sull’Alto Atlante"
+  },
+  "duration": {
+    "en": "Full day",
+    "es": "Día completo",
+    "it": "Giornata intera"
+  },
+  "duration_short": {
+    "en": "Full day",
+    "es": "Día completo",
+    "it": "Giornata intera"
+  },
+  "start": "Marrakech",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "High Atlas Mountains Day Trip",
+      "es": "Excursión al Alto Atlas",
+      "it": "Escursione sull'Alto Atlante"
+    },
+    "highlights": {
+      "en": "",
+      "es": "",
+      "it": ""
+    },
+    "route": [
+      "Marrakech"
+    ],
+    "image_alt": "High Atlas Mountains Day Trip from Marrakech, Morocco"
+  },
+  "overview": [
+    {
+      "en": "This High Atlas Mountains day trip from Marrakech to Ait Ben Haddou Kasbah is perfect for travelers short on time but eager to experience the magic of Morocco’s desert landscape. Explore the iconic Ait Ben Haddou, a UNESCO World Heritage Site, famously featured in numerous Hollywood blockbusters.",
+      "es": "Esta excursión de un día por las montañas del Alto Atlas, de Marrakech a la kasbah de Ait Ben Haddou, es perfecta para quienes tienen poco tiempo pero desean vivir la magia de los paisajes desérticos de Marruecos. Explora el emblemático Ait Ben Haddou, Patrimonio Mundial de la UNESCO, famoso por aparecer en numerosas superproducciones de Hollywood.",
+      "it": "Questa escursione di un giorno sulle montagne dell’Alto Atlante, da Marrakech alla kasbah di Ait Ben Haddou, è perfetta per chi ha poco tempo ma desidera vivere la magia dei paesaggi desertici del Marocco. Esplora l’iconico Ait Ben Haddou, Patrimonio Mondiale dell’UNESCO, famoso per essere apparso in tanti successi di Hollywood."
+    },
+    {
+      "en": "Travel in comfort by 4WD or minivan, following ancient caravan routes through the High Atlas range. Along the way, you’ll pass through lush oases, impressive kasbahs, and fortified Berber villages. Admire the architectural wonder of Ait Ben Haddou, a cultural treasure recognized by UNESCO and often used as a backdrop for movies.",
+      "es": "Viaja cómodamente en 4x4 o minivan siguiendo las antiguas rutas de las caravanas a través de la cordillera del Alto Atlas. Por el camino pasarás por exuberantes oasis, impresionantes kasbahs y pueblos bereberes fortificados. Admira la maravilla arquitectónica de Ait Ben Haddou, un tesoro cultural reconocido por la UNESCO y escenario habitual de películas.",
+      "it": "Viaggia comodamente in 4x4 o minivan seguendo le antiche vie carovaniere attraverso la catena dell’Alto Atlante. Lungo la strada attraverserai oasi rigogliose, kasbah imponenti e villaggi berberi fortificati. Ammira la meraviglia architettonica di Ait Ben Haddou, un tesoro culturale riconosciuto dall’UNESCO e spesso usato come scenografia per i film."
+    },
+    {
+      "en": "Next, visit the historic Taourirt Kasbah in Ouarzazate, a grand fortified residence with a rich past. During your visit, you’ll have the opportunity to try camel riding for a bit of fun and laughter, experiencing the warmth and hospitality of the Moroccan desert (camel riding not included in the price).",
+      "es": "Después, visita la histórica kasbah de Taourirt en Ouarzazate, una gran residencia fortificada con un rico pasado. Durante la visita tendrás la oportunidad de montar en camello para divertirte y reír, viviendo la calidez y la hospitalidad del desierto marroquí (el paseo en camello no está incluido en el precio).",
+      "it": "Poi visita la storica kasbah di Taourirt a Ouarzazate, una grande residenza fortificata dal ricco passato. Durante la visita avrai l’occasione di provare un giro in cammello per divertirti un po’, vivendo il calore e l’ospitalità del deserto marocchino (il giro in cammello non è incluso nel prezzo)."
+    },
+    {
+      "en": "Discover the breathtaking beauty of the High Atlas Mountains on this unforgettable day trip from Marrakech to Ait Ben Haddou.",
+      "es": "Descubre la impresionante belleza de las montañas del Alto Atlas en esta inolvidable excursión de un día de Marrakech a Ait Ben Haddou.",
+      "it": "Scopri la straordinaria bellezza delle montagne dell’Alto Atlante con questa indimenticabile escursione di un giorno da Marrakech ad Ait Ben Haddou."
+    }
+  ],
+  "highlights": [],
+  "route": [
+    "Marrakech",
+    "Tizi n’Tichka",
+    "Ait Ben Haddou",
+    "Ouarzazate",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Pick-Up from Marrakech",
+        "es": "Recogida en Marrakech",
+        "it": "Prelievo a Marrakech"
+      },
+      "text": {
+        "en": "Your adventure begins with an early morning pick-up from your accommodation in Marrakech. Set out on a scenic drive in a comfortable 4WD or minivan, heading towards the High Atlas Mountains. Enjoy views of traditional Berber villages and the stunning landscape as you travel along the historic caravan routes.",
+        "es": "Tu aventura comienza con la recogida a primera hora en tu alojamiento de Marrakech. Emprende un trayecto panorámico en un cómodo 4x4 o minivan rumbo a las montañas del Alto Atlas. Disfruta de las vistas de los pueblos bereberes tradicionales y del impresionante paisaje mientras recorres las históricas rutas de las caravanas.",
+        "it": "La tua avventura inizia con il prelievo di buon mattino presso il tuo alloggio a Marrakech. Parti per un tragitto panoramico in un comodo 4x4 o minivan verso le montagne dell’Alto Atlante. Goditi le viste sui villaggi berberi tradizionali e sullo splendido paesaggio mentre percorri le storiche vie carovaniere."
+      },
+      "label": {
+        "en": "7:30 AM",
+        "es": "7:30 AM",
+        "it": "7:30 AM"
+      }
+    },
+    {
+      "title": {
+        "en": "Tizi n’Tichka Pass",
+        "es": "Puerto de Tizi n’Tichka",
+        "it": "Passo di Tizi n’Tichka"
+      },
+      "text": {
+        "en": "Cross the winding Tizi n’Tichka Pass, one of the highest mountain passes in Morocco (2,260 m). Take in panoramic views of the surrounding mountains and valleys, with opportunities to stop for photos and admire the breathtaking scenery.",
+        "es": "Cruza el sinuoso puerto de Tizi n’Tichka, uno de los puertos de montaña más altos de Marruecos (2.260 m). Contempla las vistas panorámicas de las montañas y los valles, con paradas para hacer fotos y admirar el impresionante paisaje.",
+        "it": "Attraversa il tortuoso passo di Tizi n’Tichka, uno dei passi di montagna più alti del Marocco (2.260 m). Ammira le viste panoramiche sulle montagne e sulle valli circostanti, con soste per scattare foto e godersi lo splendido paesaggio."
+      },
+      "label": {
+        "en": "9:30 AM",
+        "es": "9:30 AM",
+        "it": "9:30 AM"
+      }
+    },
+    {
+      "title": {
+        "en": "Arrival at Ait Ben Haddou Kasbah",
+        "es": "Llegada a la kasbah de Ait Ben Haddou",
+        "it": "Arrivo alla kasbah di Ait Ben Haddou"
+      },
+      "text": {
+        "en": "Arrive at Ait Ben Haddou, a UNESCO World Heritage Site and one of Morocco’s most iconic landmarks. This ancient fortified village, made entirely of clay, has served as the backdrop for many famous films and TV series. Explore its narrow streets and climb to the top for a stunning view of the surrounding desert and palm groves.",
+        "es": "Llegada a Ait Ben Haddou, Patrimonio Mundial de la UNESCO y uno de los lugares más emblemáticos de Marruecos. Este antiguo pueblo fortificado, construido completamente de barro, ha sido escenario de muchas películas y series famosas. Recorre sus estrechas calles y sube hasta lo más alto para disfrutar de una vista impresionante del desierto y los palmerales.",
+        "it": "Arrivo ad Ait Ben Haddou, Patrimonio Mondiale dell’UNESCO e uno dei luoghi più iconici del Marocco. Questo antico villaggio fortificato, costruito interamente in argilla, è stato lo sfondo di molti film e serie TV famosi. Esplora le sue strette stradine e sali in cima per una vista mozzafiato sul deserto e sui palmeti circostanti."
+      },
+      "label": {
+        "en": "11:00 AM",
+        "es": "11:00 AM",
+        "it": "11:00 AM"
+      }
+    },
+    {
+      "title": {
+        "en": "Free Time for Exploration",
+        "es": "Tiempo libre para explorar",
+        "it": "Tempo libero per esplorare"
+      },
+      "text": {
+        "en": "Spend some free time exploring Ait Ben Haddou at your own pace. Wander through its historic alleys, visit the local shops, or take photos of this extraordinary site.",
+        "es": "Disfruta de tiempo libre para explorar Ait Ben Haddou a tu ritmo. Pasea por sus callejuelas históricas, visita las tiendas locales o haz fotos de este lugar extraordinario.",
+        "it": "Goditi del tempo libero per esplorare Ait Ben Haddou con calma. Passeggia tra i suoi vicoli storici, visita i negozi locali o scatta foto di questo luogo straordinario."
+      },
+      "label": {
+        "en": "12:30 PM",
+        "es": "12:30 PM",
+        "it": "12:30 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Lunch at a Local Restaurant",
+        "es": "Almuerzo en un restaurante local",
+        "it": "Pranzo in un ristorante locale"
+      },
+      "text": {
+        "en": "Enjoy a traditional Moroccan lunch at a local restaurant near Ait Ben Haddou. Savor dishes such as Tagine, couscous, and fresh salads while enjoying the relaxed desert atmosphere.",
+        "es": "Disfruta de un almuerzo marroquí tradicional en un restaurante local cerca de Ait Ben Haddou. Saborea platos como el tajín, el cuscús y ensaladas frescas mientras disfrutas del tranquilo ambiente del desierto.",
+        "it": "Goditi un pranzo marocchino tradizionale in un ristorante locale vicino ad Ait Ben Haddou. Assapora piatti come tajine, cuscus e insalate fresche, immerso nella tranquilla atmosfera del deserto."
+      },
+      "label": {
+        "en": "1:30 PM",
+        "es": "1:30 PM",
+        "it": "1:30 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Visit Taourirt Kasbah in Ouarzazate",
+        "es": "Visita de la kasbah de Taourirt en Ouarzazate",
+        "it": "Visita della kasbah di Taourirt a Ouarzazate"
+      },
+      "text": {
+        "en": "Head to Ouarzazate to visit the grand Taourirt Kasbah, a historic fortified residence that once belonged to the powerful Glaoui family. Take a guided tour of the kasbah, marveling at its intricate architecture and learning about its importance in Moroccan history.",
+        "es": "Continuación a Ouarzazate para visitar la gran kasbah de Taourirt, una residencia fortificada histórica que perteneció a la poderosa familia Glaoui. Haz una visita guiada de la kasbah, maravíllate con su arquitectura detallada y descubre su importancia en la historia de Marruecos.",
+        "it": "Proseguimento verso Ouarzazate per visitare la grande kasbah di Taourirt, una storica residenza fortificata appartenuta alla potente famiglia Glaoui. Fai una visita guidata della kasbah, ammirando la sua architettura ricca di dettagli e scoprendo la sua importanza nella storia del Marocco."
+      },
+      "label": {
+        "en": "3:00 PM",
+        "es": "3:00 PM",
+        "it": "3:00 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Optional Camel Ride (Not Included in Price)",
+        "es": "Paseo en camello opcional (no incluido en el precio)",
+        "it": "Giro in cammello facoltativo (non incluso nel prezzo)"
+      },
+      "text": {
+        "en": "Before heading back to Marrakech, enjoy an optional camel ride for a bit of fun. Experience the traditional mode of desert transport, riding through the desert landscape while soaking in the beauty of the surrounding landscape.",
+        "es": "Antes de volver a Marrakech, disfruta de un paseo opcional en camello para divertirte un poco. Vive el medio de transporte tradicional del desierto, recorriendo el paisaje desértico mientras disfrutas de su belleza.",
+        "it": "Prima di rientrare a Marrakech, goditi un giro facoltativo in cammello per divertirti un po’. Prova il mezzo di trasporto tradizionale del deserto, attraversando il paesaggio desertico e ammirandone la bellezza."
+      },
+      "label": {
+        "en": "4:00 PM",
+        "es": "4:00 PM",
+        "it": "4:00 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Departure for Marrakech",
+        "es": "Salida hacia Marrakech",
+        "it": "Partenza per Marrakech"
+      },
+      "text": {
+        "en": "After a day of exploring the High Atlas Mountains and its treasures, start your journey back to Marrakech. Relax during the comfortable drive through the scenic landscapes.",
+        "es": "Después de un día descubriendo las montañas del Alto Atlas y sus tesoros, comienza el viaje de regreso a Marrakech. Relájate durante el cómodo trayecto entre paisajes espectaculares.",
+        "it": "Dopo una giornata alla scoperta delle montagne dell’Alto Atlante e dei suoi tesori, inizia il viaggio di ritorno verso Marrakech. Rilassati durante il comodo tragitto tra paesaggi spettacolari."
+      },
+      "label": {
+        "en": "4:30 PM",
+        "es": "4:30 PM",
+        "it": "4:30 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Return to Marrakech",
+        "es": "Regreso a Marrakech",
+        "it": "Rientro a Marrakech"
+      },
+      "text": {
+        "en": "Arrive back in Marrakech and be dropped off at your accommodation, bringing your High Atlas Mountains day trip to a close.",
+        "es": "Llegada a Marrakech, donde te dejaremos en tu alojamiento, poniendo fin a tu excursión de un día por el Alto Atlas.",
+        "it": "Arrivo a Marrakech, dove sarai riaccompagnato al tuo alloggio, a conclusione della tua escursione di un giorno sull’Alto Atlante."
+      },
+      "label": {
+        "en": "7:00 PM",
+        "es": "7:00 PM",
+        "it": "7:00 PM"
+      }
+    }
+  ],
+  "itinerary_note": {
+    "en": "This itinerary offers a perfect blend of culture, history, and adventure, making it a memorable experience in Morocco’s High Atlas region",
+    "es": "Este itinerario ofrece la combinación perfecta de cultura, historia y aventura, para una experiencia inolvidable en la región del Alto Atlas de Marruecos",
+    "it": "Questo itinerario offre il perfetto mix di cultura, storia e avventura, per un’esperienza indimenticabile nella regione dell’Alto Atlante in Marocco"
+  },
+  "included": [
+    {
+      "en": "Pick-up & drop off at/from your accommodation",
+      "es": "Recogida y regreso a tu alojamiento",
+      "it": "Prelievo e rientro presso il tuo alloggio"
+    },
+    {
+      "en": "Transport by private modern vehicle with A/C",
+      "es": "Transporte en vehículo privado moderno con aire acondicionado",
+      "it": "Trasporto in veicolo privato moderno con aria condizionata"
+    },
+    {
+      "en": "Experienced English/Spanish speaking Driver/Guide",
+      "es": "Chófer/guía con experiencia que habla inglés y español",
+      "it": "Autista/guida esperto che parla inglese e spagnolo"
+    },
+    {
+      "en": "Car Fuel",
+      "es": "Combustible",
+      "it": "Carburante"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Early morning pick-up from your accommodation",
+        "es": "Recogida a primera hora en tu alojamiento",
+        "it": "Prelievo di buon mattino presso il tuo alloggio"
+      }
+    },
+    {
+      "name": "Tizi n’Tichka",
+      "description": {
+        "en": "High Atlas pass at 2,260 m",
+        "es": "Puerto del Alto Atlas a 2.260 m",
+        "it": "Passo dell’Alto Atlante a 2.260 m"
+      }
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "description": {
+        "en": "UNESCO kasbah, free time and lunch",
+        "es": "Kasbah UNESCO, tiempo libre y almuerzo",
+        "it": "Kasbah UNESCO, tempo libero e pranzo"
+      }
+    },
+    {
+      "name": "Ouarzazate",
+      "description": {
+        "en": "Taourirt Kasbah and optional camel ride",
+        "es": "Kasbah de Taourirt y paseo en camello opcional",
+        "it": "Kasbah di Taourirt e giro in cammello facoltativo"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Drop-off at your accommodation",
+        "es": "Regreso a tu alojamiento",
+        "it": "Rientro al tuo alloggio"
+      }
+    }
+  ],
+  "map_route": [
+    "Marrakech, Morocco",
+    "Tizi n'Tichka, Morocco",
+    "Ait Ben Haddou, Morocco",
+    "Ouarzazate, Morocco",
+    "Marrakech, Morocco"
+  ],
+  "planner": {
+    "show": true,
+    "days": 1,
+    "start": "marrakech",
+    "tags": [
+      "mountains",
+      "cities"
+    ]
+  }
+}

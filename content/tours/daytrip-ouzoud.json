@@ -1,0 +1,274 @@
+{
+  "title": "Ouzoud Waterfalls Day Trip",
+  "type": "daytrip",
+  "category": "daytrip",
+  "order": 603,
+  "show_on_home": true,
+  "home_extra": [],
+  "price": "",
+  "image": "/images/dt-ouzoud.jpg",
+  "image_position": "center 55%",
+  "meta_description": "Ouzoud Waterfalls day trip from Marrakech: the 110-metre falls, a guided walk with Barbary monkeys, swimming in the river pools, lunch with a view and an optional boat ride.",
+  "eyebrow": {
+    "en": "Marrakech · Ouzoud Waterfalls · Marrakech",
+    "es": "Marrakech · Cascadas de Ouzoud · Marrakech",
+    "it": "Marrakech · Cascate di Ouzoud · Marrakech"
+  },
+  "title_line1": {
+    "en": "Ouzoud Waterfalls",
+    "es": "Excursión a las",
+    "it": "Escursione alle"
+  },
+  "title_line2": {
+    "en": "Day Trip",
+    "es": "cascadas de Ouzoud",
+    "it": "cascate di Ouzoud"
+  },
+  "duration": {
+    "en": "Full day",
+    "es": "Día completo",
+    "it": "Giornata intera"
+  },
+  "duration_short": {
+    "en": "Full day",
+    "es": "Día completo",
+    "it": "Giornata intera"
+  },
+  "start": "Marrakech",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "Ouzoud Waterfalls Day Trip",
+      "es": "Excursión a las cascadas de Ouzoud",
+      "it": "Escursione alle cascate di Ouzoud"
+    },
+    "highlights": {
+      "en": "",
+      "es": "",
+      "it": ""
+    },
+    "route": [
+      "Marrakech"
+    ],
+    "image_alt": "Ouzoud Waterfalls Day Trip from Marrakech, Morocco"
+  },
+  "overview": [
+    {
+      "en": "Experience Ouzoud Waterfalls day trip from Marrakech, where you’ll discover one of Morocco’s most beloved natural gems. The Ouzoud Falls, cascading from a height of 110 meters, offer fantastic photo opportunities and a chance to dive into refreshing river pools. You can also meet the playful local monkeys along the way. After soaking in the beauty of the waterfalls, treat yourself to a delicious Tagine at a nearby café while enjoying the magnificent view of the falls in the background!",
+      "es": "Vive la excursión de un día a las cascadas de Ouzoud desde Marrakech y descubre una de las joyas naturales más queridas de Marruecos. Las cascadas de Ouzoud, que caen desde 110 metros de altura, ofrecen fantásticas oportunidades para hacer fotos y la posibilidad de darse un chapuzón en sus refrescantes pozas. Por el camino también conocerás a los juguetones monos de la zona. Después de disfrutar de la belleza de las cascadas, date el gusto de un delicioso tajín en un café cercano, ¡con la magnífica vista de las cascadas de fondo!",
+      "it": "Vivi l’escursione di un giorno alle cascate di Ouzoud da Marrakech e scopri uno dei gioielli naturali più amati del Marocco. Le cascate di Ouzoud, che scendono da un’altezza di 110 metri, offrono fantastiche occasioni per scattare foto e la possibilità di tuffarsi nelle rinfrescanti piscine naturali del fiume. Lungo il percorso incontrerai anche le vivaci scimmie del posto. Dopo aver ammirato la bellezza delle cascate, concediti un delizioso tajine in un caffè vicino, con la magnifica vista delle cascate sullo sfondo!"
+    }
+  ],
+  "highlights": [],
+  "route": [
+    "Marrakech",
+    "Ouzoud Waterfalls",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Departure from Marrakech",
+        "es": "Salida de Marrakech",
+        "it": "Partenza da Marrakech"
+      },
+      "text": {
+        "en": "Your journey begins with a convenient pick-up from your accommodation in Marrakech. Set off on a comfortable drive towards the Ouzoud Waterfalls, located around 2.5 hours away. Along the way, enjoy the scenic views of the Atlas Mountains and charming Berber villages.",
+        "es": "Tu viaje comienza con la recogida en tu alojamiento de Marrakech. Emprenderás un cómodo trayecto hacia las cascadas de Ouzoud, a unas 2,5 horas de distancia. Por el camino, disfruta de las vistas de las montañas del Atlas y de encantadores pueblos bereberes.",
+        "it": "Il tuo viaggio inizia con il comodo prelievo presso il tuo alloggio a Marrakech. Partirai per un piacevole tragitto verso le cascate di Ouzoud, a circa 2 ore e mezza di distanza. Lungo la strada, goditi i panorami sulle montagne dell’Atlante e sui graziosi villaggi berberi."
+      },
+      "label": {
+        "en": "9:00 AM",
+        "es": "9:00 AM",
+        "it": "9:00 AM"
+      }
+    },
+    {
+      "title": {
+        "en": "Arrival at Ouzoud Waterfalls",
+        "es": "Llegada a las cascadas de Ouzoud",
+        "it": "Arrivo alle cascate di Ouzoud"
+      },
+      "text": {
+        "en": "Upon arrival, you'll be greeted by the stunning sight of the 110-meter-high Ouzoud Falls. The lush surroundings and thundering cascades create a peaceful and awe-inspiring atmosphere.",
+        "es": "Al llegar, te recibirá la impresionante imagen de las cascadas de Ouzoud, de 110 metros de altura. La exuberante vegetación y el estruendo del agua crean un ambiente tranquilo y sobrecogedor.",
+        "it": "All’arrivo ti accoglierà lo spettacolo delle cascate di Ouzoud, alte 110 metri. La vegetazione rigogliosa e il fragore delle cascate creano un’atmosfera serena e suggestiva."
+      },
+      "label": {
+        "en": "11:30 AM",
+        "es": "11:30 AM",
+        "it": "11:30 AM"
+      }
+    },
+    {
+      "title": {
+        "en": "Guided Walk and Monkey Spotting",
+        "es": "Paseo guiado y avistamiento de monos",
+        "it": "Passeggiata guidata e incontro con le scimmie"
+      },
+      "text": {
+        "en": "Join a guided walk down the trail towards the base of the waterfalls. Along the way, learn about the local flora and fauna and encounter playful Barbary monkeys. Be sure to have your camera ready for some great photo opportunities.",
+        "es": "Únete a un paseo guiado por el sendero que baja hasta la base de las cascadas. Por el camino, conocerás la flora y la fauna locales y te encontrarás con los juguetones macacos de Berbería. Ten la cámara preparada para hacer fotos estupendas.",
+        "it": "Partecipa a una passeggiata guidata lungo il sentiero che scende fino ai piedi delle cascate. Lungo il percorso scoprirai la flora e la fauna locali e incontrerai i vivaci macachi berberi. Tieni la macchina fotografica pronta per scatti bellissimi."
+      },
+      "label": {
+        "en": "12:00 PM",
+        "es": "12:00 PM",
+        "it": "12:00 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Free Time and Swimming",
+        "es": "Tiempo libre y baño",
+        "it": "Tempo libero e bagno"
+      },
+      "text": {
+        "en": "Take some time to explore the area at your own pace. Relax by the river, enjoy the views, or take a refreshing swim in the natural pools at the bottom of the falls. The cool water is perfect for a dip on a warm day.",
+        "es": "Tómate tu tiempo para explorar la zona a tu ritmo. Relájate junto al río, disfruta de las vistas o date un baño refrescante en las pozas naturales al pie de las cascadas. El agua fresca es perfecta para un chapuzón en un día de calor.",
+        "it": "Prenditi del tempo per esplorare la zona con calma. Rilassati lungo il fiume, goditi il panorama o fai un bagno rinfrescante nelle piscine naturali ai piedi delle cascate. L’acqua fresca è perfetta per un tuffo in una giornata calda."
+      },
+      "label": {
+        "en": "1:00 PM",
+        "es": "1:00 PM",
+        "it": "1:00 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Lunch with a View",
+        "es": "Almuerzo con vistas",
+        "it": "Pranzo con vista"
+      },
+      "text": {
+        "en": "Enjoy a delicious Moroccan meal at a local café with a spectacular view of the waterfalls. Savor traditional dishes such as Tagine, while soaking in the serene ambiance of the surrounding nature.",
+        "es": "Disfruta de una deliciosa comida marroquí en un café local con una vista espectacular de las cascadas. Saborea platos tradicionales como el tajín mientras te empapas del ambiente sereno de la naturaleza que te rodea.",
+        "it": "Goditi un delizioso pasto marocchino in un caffè locale con una vista spettacolare sulle cascate. Assapora piatti tradizionali come il tajine, immerso nell’atmosfera serena della natura circostante."
+      },
+      "label": {
+        "en": "2:00 PM",
+        "es": "2:00 PM",
+        "it": "2:00 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Optional Boat Ride or Leisure Time",
+        "es": "Paseo en barca opcional o tiempo libre",
+        "it": "Giro in barca facoltativo o tempo libero"
+      },
+      "text": {
+        "en": "After lunch, choose to take an optional boat ride that brings you closer to the foot of the falls for a unique perspective, or simply relax by the water, taking in the beauty of the scenery.",
+        "es": "Después del almuerzo, puedes hacer un paseo opcional en barca que te acerca al pie de las cascadas para verlas desde una perspectiva única, o simplemente relajarte junto al agua contemplando la belleza del paisaje.",
+        "it": "Dopo pranzo, puoi scegliere un giro in barca facoltativo che ti porta ai piedi delle cascate per una prospettiva unica, oppure semplicemente rilassarti vicino all’acqua ammirando la bellezza del paesaggio."
+      },
+      "label": {
+        "en": "3:30 PM",
+        "es": "3:30 PM",
+        "it": "3:30 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Departure from Ouzoud",
+        "es": "Salida de Ouzoud",
+        "it": "Partenza da Ouzoud"
+      },
+      "text": {
+        "en": "After a day filled with nature and relaxation, it’s time to head back to Marrakech. Enjoy the peaceful drive through the countryside as you reflect on the day’s adventure.",
+        "es": "Después de un día lleno de naturaleza y relax, llega la hora de volver a Marrakech. Disfruta del tranquilo trayecto por el campo mientras recuerdas la aventura del día.",
+        "it": "Dopo una giornata all’insegna della natura e del relax, è ora di tornare a Marrakech. Goditi il tranquillo viaggio attraverso la campagna ripensando all’avventura della giornata."
+      },
+      "label": {
+        "en": "4:30 PM",
+        "es": "4:30 PM",
+        "it": "4:30 PM"
+      }
+    },
+    {
+      "title": {
+        "en": "Arrival in Marrakech",
+        "es": "Llegada a Marrakech",
+        "it": "Arrivo a Marrakech"
+      },
+      "text": {
+        "en": "Arrive back in Marrakech, where you will be dropped off at your accommodation, concluding your memorable day trip to Ouzoud Waterfalls.",
+        "es": "Llegada a Marrakech, donde te dejaremos en tu alojamiento, poniendo fin a tu memorable excursión de un día a las cascadas de Ouzoud.",
+        "it": "Arrivo a Marrakech, dove sarai riaccompagnato al tuo alloggio, a conclusione della tua indimenticabile escursione di un giorno alle cascate di Ouzoud."
+      },
+      "label": {
+        "en": "7:00 PM",
+        "es": "7:00 PM",
+        "it": "7:00 PM"
+      }
+    }
+  ],
+  "itinerary_note": {
+    "en": "This itinerary offers the perfect mix of adventure, scenic beauty, and relaxation, making it an unforgettable escape from the city.",
+    "es": "Este itinerario ofrece la combinación perfecta de aventura, paisajes y relax, para una escapada inolvidable lejos de la ciudad.",
+    "it": "Questo itinerario offre il perfetto mix di avventura, paesaggi e relax, per una fuga indimenticabile dalla città."
+  },
+  "included": [
+    {
+      "en": "Pick-up & drop off at/from your accommodation",
+      "es": "Recogida y regreso a tu alojamiento",
+      "it": "Prelievo e rientro presso il tuo alloggio"
+    },
+    {
+      "en": "Transport by private modern vehicle with A/C",
+      "es": "Transporte en vehículo privado moderno con aire acondicionado",
+      "it": "Trasporto in veicolo privato moderno con aria condizionata"
+    },
+    {
+      "en": "Experienced English/Spanish speaking Driver/Guide",
+      "es": "Chófer/guía con experiencia que habla inglés y español",
+      "it": "Autista/guida esperto che parla inglese e spagnolo"
+    },
+    {
+      "en": "Car Fuel",
+      "es": "Combustible",
+      "it": "Carburante"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Pick-up from your accommodation",
+        "es": "Recogida en tu alojamiento",
+        "it": "Prelievo presso il tuo alloggio"
+      }
+    },
+    {
+      "name": "Ouzoud Waterfalls",
+      "description": {
+        "en": "Guided walk, monkeys, swimming, lunch with a view and optional boat ride",
+        "es": "Paseo guiado, monos, baño, almuerzo con vistas y barca opcional",
+        "it": "Passeggiata guidata, scimmie, bagno, pranzo con vista e barca facoltativa"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Drop-off at your accommodation",
+        "es": "Regreso a tu alojamiento",
+        "it": "Rientro al tuo alloggio"
+      }
+    }
+  ],
+  "map_route": [
+    "Marrakech, Morocco",
+    "Cascades d'Ouzoud, Morocco",
+    "Marrakech, Morocco"
+  ],
+  "planner": {
+    "show": true,
+    "days": 1,
+    "start": "marrakech",
+    "tags": [
+      "mountains"
+    ]
+  }
+}

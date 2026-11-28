@@ -1,0 +1,297 @@
+{
+  "title": "Ourika Valley Day Trip",
+  "type": "daytrip",
+  "category": "daytrip",
+  "order": 605,
+  "show_on_home": true,
+  "home_extra": [],
+  "price": "",
+  "image": "/images/dt-ourika.jpg",
+  "image_position": "center 38%",
+  "meta_description": "Ourika Valley day trip from Marrakech: High Atlas views, the Ourika waterfalls, Berber villages and markets, and a traditional lunch in a family-run restaurant.",
+  "eyebrow": {
+    "en": "Marrakech · Ourika Valley · Marrakech",
+    "es": "Marrakech · Valle del Ourika · Marrakech",
+    "it": "Marrakech · Valle dell’Ourika · Marrakech"
+  },
+  "title_line1": {
+    "en": "Ourika Valley",
+    "es": "Excursión de un día",
+    "it": "Escursione di un giorno"
+  },
+  "title_line2": {
+    "en": "Day Trip",
+    "es": "al valle del Ourika",
+    "it": "nella valle dell’Ourika"
+  },
+  "duration": {
+    "en": "Full day",
+    "es": "Día completo",
+    "it": "Giornata intera"
+  },
+  "duration_short": {
+    "en": "Full day",
+    "es": "Día completo",
+    "it": "Giornata intera"
+  },
+  "start": "Marrakech",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "Ourika Valley Day Trip",
+      "es": "Excursión al valle de Ourika",
+      "it": "Escursione nella valle dell'Ourika"
+    },
+    "highlights": {
+      "en": "",
+      "es": "",
+      "it": ""
+    },
+    "route": [
+      "Marrakech"
+    ],
+    "image_alt": "Ourika Valley & Atlas Day Trip from Marrakech, Morocco"
+  },
+  "overview": [
+    {
+      "en": "A day trip to the Ourika Valley is a chance to leave the busy city and see the rural heart of Morocco. Just a short drive from Marrakech, the valley offers green landscapes, mountain views and authentic Berber culture, for a day of walking and relaxing.",
+      "es": "Una excursión de un día al valle del Ourika es la ocasión de dejar atrás el bullicio de la ciudad y conocer el corazón rural de Marruecos. A poca distancia en coche de Marrakech, el valle ofrece paisajes verdes, vistas a las montañas y auténtica cultura bereber, para un día de paseo y descanso.",
+      "it": "Un’escursione di un giorno nella valle dell’Ourika è l’occasione per lasciare la città frenetica e scoprire il cuore rurale del Marocco. A breve distanza in auto da Marrakech, la valle offre paesaggi verdi, viste sulle montagne e autentica cultura berbera, per una giornata di passeggiate e relax."
+    },
+    {
+      "en": "About 1 hour each way by road.",
+      "es": "Aproximadamente 1 hora de carretera en cada sentido.",
+      "it": "Circa 1 ora di strada per ogni tratta."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "Stunning waterfalls",
+        "es": "Cascadas impresionantes",
+        "it": "Cascate spettacolari"
+      },
+      "detail": {
+        "en": "Visit the famous Ourika waterfalls for a fresh, natural break.",
+        "es": "Visita las famosas cascadas del Ourika para una pausa fresca y natural.",
+        "it": "Visita le famose cascate dell’Ourika per una pausa fresca e naturale."
+      }
+    },
+    {
+      "title": {
+        "en": "Berber villages",
+        "es": "Pueblos bereberes",
+        "it": "Villaggi berberi"
+      },
+      "detail": {
+        "en": "Discover traditional Berber culture and the way of life in the valley.",
+        "es": "Descubre la cultura bereber tradicional y el modo de vida del valle.",
+        "it": "Scopri la cultura berbera tradizionale e lo stile di vita della valle."
+      }
+    },
+    {
+      "title": {
+        "en": "Scenic drive",
+        "es": "Ruta panorámica",
+        "it": "Strada panoramica"
+      },
+      "detail": {
+        "en": "Views of the High Atlas mountains and the green valley.",
+        "es": "Vistas de las montañas del Alto Atlas y del valle verde.",
+        "it": "Viste sulle montagne dell’Alto Atlante e sulla valle verde."
+      }
+    },
+    {
+      "title": {
+        "en": "Traditional cuisine",
+        "es": "Cocina tradicional",
+        "it": "Cucina tradizionale"
+      },
+      "detail": {
+        "en": "A traditional Moroccan meal with local specialities such as tagine and couscous.",
+        "es": "Una comida marroquí tradicional con especialidades locales como el tajín y el cuscús.",
+        "it": "Un pasto marocchino tradizionale con specialità locali come tajine e cuscus."
+      }
+    }
+  ],
+  "route": [
+    "Marrakech",
+    "Ourika Valley",
+    "Ourika Waterfalls",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Departure from Marrakech",
+        "es": "Salida de Marrakech",
+        "it": "Partenza da Marrakech"
+      },
+      "text": {
+        "en": "You are picked up at your hotel in Marrakech. After a short introduction to the day, the drive into the Ourika Valley begins, through the High Atlas mountains, with a look at rural life on the way. Stop at panoramic viewpoints to take photos, and pass traditional villages where life moves at a slower pace. Deeper in the valley you find green fields, fragrant herbs and tall trees, a strong contrast to the dry land around Marrakech.",
+        "es": "Te recogemos en tu hotel de Marrakech. Tras una breve presentación del día, comienza el trayecto hacia el valle del Ourika, a través de las montañas del Alto Atlas, descubriendo la vida rural por el camino. Haz paradas en miradores panorámicos para tomar fotos y atraviesa pueblos tradicionales donde la vida va a otro ritmo. Más adentro del valle encontrarás campos verdes, hierbas aromáticas y árboles altos, un gran contraste con la tierra seca que rodea Marrakech.",
+        "it": "Ti veniamo a prendere in hotel a Marrakech. Dopo una breve presentazione della giornata, inizia il tragitto verso la valle dell’Ourika, attraverso le montagne dell’Alto Atlante, scoprendo la vita rurale lungo la strada. Fermati nei punti panoramici per scattare foto e attraversa villaggi tradizionali dove la vita scorre più lenta. Più all’interno della valle troverai campi verdi, erbe profumate e alberi alti, un forte contrasto con la terra arida intorno a Marrakech."
+      },
+      "label": {
+        "en": "Morning",
+        "es": "Mañana",
+        "it": "Mattina"
+      }
+    },
+    {
+      "title": {
+        "en": "The Ourika Waterfalls",
+        "es": "Las cascadas del Ourika",
+        "it": "Le cascate dell’Ourika"
+      },
+      "text": {
+        "en": "On arrival, visit the waterfalls, one of the best-known places in the valley, set among rocks and greenery. You can hike up for a closer view, feel the fresh air and the cool mist, and hear from your guide about the falls and how the local Berber community has lived with nature for centuries. The hike is fairly easy, though the path can be rocky. If you prefer, enjoy the view from a café at the base of the falls with a fresh mint tea and a light snack.",
+        "es": "A la llegada, visita las cascadas, uno de los lugares más conocidos del valle, entre rocas y vegetación. Puedes subir caminando para verlas de cerca, sentir el aire fresco y la bruma, y escuchar a tu guía hablar de las cascadas y de cómo la comunidad bereber local ha convivido con la naturaleza durante siglos. La subida es bastante fácil, aunque el sendero puede ser pedregoso. Si lo prefieres, disfruta de la vista desde un café al pie de las cascadas con un té a la menta y un tentempié.",
+        "it": "All’arrivo visita le cascate, uno dei luoghi più conosciuti della valle, tra rocce e vegetazione. Puoi salire a piedi per vederle da vicino, sentire l’aria fresca e la nebbiolina, e ascoltare la tua guida raccontare le cascate e come la comunità berbera locale abbia vissuto in armonia con la natura per secoli. La salita è abbastanza facile, anche se il sentiero può essere roccioso. Se preferisci, goditi la vista da un caffè ai piedi delle cascate con un tè alla menta e uno spuntino."
+      },
+      "label": {
+        "en": "Late morning",
+        "es": "Media mañana",
+        "it": "Tarda mattinata"
+      }
+    },
+    {
+      "title": {
+        "en": "Lunch in a Berber restaurant",
+        "es": "Almuerzo en un restaurante bereber",
+        "it": "Pranzo in un ristorante berbero"
+      },
+      "text": {
+        "en": "Enjoy a traditional Moroccan lunch at one of the small family-run restaurants in the valley, often with views of the landscape. The meal usually includes tagine, a slow-cooked stew of meat or vegetables, couscous with vegetables and meat, and mint tea.",
+        "es": "Disfruta de un almuerzo marroquí tradicional en uno de los pequeños restaurantes familiares del valle, a menudo con vistas al paisaje. La comida suele incluir tajín, un guiso de carne o verduras cocinado a fuego lento, cuscús con verduras y carne, y té a la menta.",
+        "it": "Goditi un pranzo marocchino tradizionale in uno dei piccoli ristoranti a gestione familiare della valle, spesso con vista sul paesaggio. Il pasto comprende di solito il tajine, uno stufato di carne o verdure cotto a fuoco lento, cuscus con verdure e carne, e tè alla menta."
+      },
+      "label": {
+        "en": "Midday",
+        "es": "Mediodía",
+        "it": "Mezzogiorno"
+      }
+    },
+    {
+      "title": {
+        "en": "Local markets and villages",
+        "es": "Mercados y pueblos locales",
+        "it": "Mercati e villaggi locali"
+      },
+      "text": {
+        "en": "After lunch, walk through the Berber markets or villages along the valley. Shop for handicrafts such as pottery, jewellery and woven rugs, wander between the small adobe houses and meet local people, who are known for their hospitality. Your guide can tell you about farming, architecture and daily life in the valley.",
+        "es": "Después del almuerzo, pasea por los mercados o pueblos bereberes del valle. Compra artesanía como cerámica, joyas y alfombras tejidas, camina entre las pequeñas casas de adobe y conoce a la gente del lugar, famosa por su hospitalidad. Tu guía te hablará de la agricultura, la arquitectura y la vida cotidiana del valle.",
+        "it": "Dopo pranzo, passeggia tra i mercati o i villaggi berberi lungo la valle. Acquista artigianato come ceramiche, gioielli e tappeti tessuti, cammina tra le piccole case in terra cruda e incontra la gente del posto, nota per la sua ospitalità. La tua guida ti parlerà dell’agricoltura, dell’architettura e della vita quotidiana nella valle."
+      },
+      "label": {
+        "en": "Afternoon",
+        "es": "Tarde",
+        "it": "Pomeriggio"
+      }
+    },
+    {
+      "title": {
+        "en": "Return to Marrakech",
+        "es": "Regreso a Marrakech",
+        "it": "Rientro a Marrakech"
+      },
+      "text": {
+        "en": "In the late afternoon you drive back through the mountain roads and villages. You are back in Marrakech in the late afternoon or early evening, with time to rest.",
+        "es": "A última hora de la tarde regresas por las carreteras de montaña y los pueblos. Llegarás a Marrakech al final de la tarde o a primera hora de la noche, con tiempo para descansar.",
+        "it": "Nel tardo pomeriggio si rientra lungo le strade di montagna e i villaggi. Sarai di nuovo a Marrakech nel tardo pomeriggio o in prima serata, con il tempo per riposare."
+      },
+      "label": {
+        "en": "Late afternoon",
+        "es": "Última hora de la tarde",
+        "it": "Tardo pomeriggio"
+      }
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Round-trip transportation in an air-conditioned vehicle",
+      "es": "Transporte de ida y vuelta en un vehículo con aire acondicionado",
+      "it": "Trasporto andata e ritorno in un veicolo con aria condizionata"
+    },
+    {
+      "en": "Experienced English-speaking driver and guide, who shares insights about the valley",
+      "es": "Chófer y guía con experiencia de habla inglesa, que te cuenta todo sobre el valle",
+      "it": "Autista e guida esperto di lingua inglese, che ti racconta la valle"
+    },
+    {
+      "en": "Hotel pick-up and drop-off in Marrakech",
+      "es": "Recogida y regreso al hotel en Marrakech",
+      "it": "Prelievo e rientro in hotel a Marrakech"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [
+    {
+      "en": "Meals and drinks",
+      "es": "Comidas y bebidas",
+      "it": "Pasti e bevande"
+    },
+    {
+      "en": "Entrance fees",
+      "es": "Entradas",
+      "it": "Biglietti d’ingresso"
+    },
+    {
+      "en": "Personal expenses",
+      "es": "Gastos personales",
+      "it": "Spese personali"
+    }
+  ],
+  "stops": [
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Pick-up from your hotel",
+        "es": "Recogida en tu hotel",
+        "it": "Prelievo in hotel"
+      }
+    },
+    {
+      "name": "Ourika Valley",
+      "description": {
+        "en": "Viewpoints, Berber villages and markets",
+        "es": "Miradores, pueblos y mercados bereberes",
+        "it": "Punti panoramici, villaggi e mercati berberi"
+      }
+    },
+    {
+      "name": "Ourika Waterfalls",
+      "description": {
+        "en": "Waterfalls hike and lunch in the valley",
+        "es": "Subida a las cascadas y almuerzo en el valle",
+        "it": "Salita alle cascate e pranzo nella valle"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Drop-off at your hotel",
+        "es": "Regreso a tu hotel",
+        "it": "Rientro in hotel"
+      }
+    }
+  ],
+  "map_route": [
+    "Marrakech, Morocco",
+    "Setti Fatma, Morocco",
+    "Marrakech, Morocco"
+  ],
+  "planner": {
+    "show": true,
+    "days": 1,
+    "start": "marrakech",
+    "tags": [
+      "mountains"
+    ]
+  }
+}

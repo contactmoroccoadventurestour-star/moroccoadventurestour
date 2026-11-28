@@ -1,0 +1,335 @@
+{
+  "title": "2 Days from Fes to Merzouga Desert",
+  "type": "tour",
+  "category": "fes",
+  "order": 100,
+  "show_on_home": true,
+  "home_extra": [
+    "shared"
+  ],
+  "price": "",
+  "image": "/images/tour-fes-merzouga2.jpg",
+  "image_position": "center 55%",
+  "meta_description": "Private 2-day Sahara trip from Fes: Ifrane, the Azrou cedar forest, Midelt, the Ziz Valley, a sunset camel ride and night in the Erg Chebbi dunes, Rissani and Erfoud, back to Fes.",
+  "eyebrow": {
+    "en": "Private tour · a quick escape to the dunes",
+    "es": "Tour privado · una escapada rápida a las dunas",
+    "it": "Tour privato · una fuga veloce tra le dune"
+  },
+  "title_line1": {
+    "en": "2 Days Desert Trip",
+    "es": "2 días en el desierto",
+    "it": "2 giorni nel deserto"
+  },
+  "title_line2": {
+    "en": "from Fes to Merzouga",
+    "es": "de Fez a Merzouga",
+    "it": "da Fes a Merzouga"
+  },
+  "duration": {
+    "en": "2 days · 1 night",
+    "es": "2 días · 1 noche",
+    "it": "2 giorni · 1 notte"
+  },
+  "duration_short": {
+    "en": "2 days",
+    "es": "2 días",
+    "it": "2 giorni"
+  },
+  "start": "Fes",
+  "end": "Fes",
+  "card": {
+    "title": {
+      "en": "2 Days Fes to Merzouga Desert",
+      "es": "2 días de Fez al desierto de Merzouga",
+      "it": "2 giorni da Fes al deserto di Merzouga"
+    },
+    "highlights": {
+      "en": "Ifrane · Azrou cedar forest · Ziz Valley · night in Erg Chebbi",
+      "es": "Ifrane · bosque de cedros de Azrou · valle del Ziz · noche en Erg Chebbi",
+      "it": "Ifrane · foresta di cedri di Azrou · valle dello Ziz · notte a Erg Chebbi"
+    },
+    "route": [
+      "Fes",
+      "Merzouga"
+    ],
+    "image_alt": "2 Days Fes to Merzouga Desert"
+  },
+  "overview": [
+    {
+      "en": "The shortest way to sleep in the Sahara when you are staying in Fes. In two days you cross the Middle Atlas, ride a camel into the golden dunes of Erg Chebbi at sunset and spend a night under the stars, before driving back to your riad.",
+      "es": "La forma más corta de dormir en el Sáhara si estás en Fez. En dos días cruzas el Medio Atlas, entras en camello a las dunas doradas de Erg Chebbi al atardecer y pasas una noche bajo las estrellas antes de volver a tu riad.",
+      "it": "Il modo più breve per dormire nel Sahara se sei a Fes. In due giorni attraversi il Medio Atlante, entri in cammello tra le dune dorate di Erg Chebbi al tramonto e passi una notte sotto le stelle, prima di tornare al tuo riad."
+    },
+    {
+      "en": "The road south is a journey in itself: the alpine town of Ifrane, the cedar forest of Azrou and its Barbary macaques, the mountain town of Midelt and the long palm groves of the Ziz Valley, until the first dunes appear on the horizon.",
+      "es": "La carretera hacia el sur es un viaje en sí: el pueblo alpino de Ifrane, el bosque de cedros de Azrou y sus macacos, la ciudad de montaña de Midelt y los largos palmerales del valle del Ziz, hasta que aparecen las primeras dunas en el horizonte.",
+      "it": "La strada verso sud è già un viaggio: la cittadina alpina di Ifrane, la foresta di cedri di Azrou e le sue bertucce, la città di montagna di Midelt e i lunghi palmeti della valle dello Ziz, fino a quando all’orizzonte compaiono le prime dune."
+    },
+    {
+      "en": "A good choice if your time is short. Keep in mind that both days are long drives, around eight hours each way with stops.",
+      "es": "Una buena opción si tienes poco tiempo. Ten en cuenta que los dos días son de mucha carretera, unas ocho horas cada trayecto con paradas.",
+      "it": "Una buona scelta se hai poco tempo. Tieni presente che entrambi i giorni sono lunghi in auto, circa otto ore per tratta con le soste."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "Ifrane, the Switzerland of Morocco",
+        "es": "Ifrane, la Suiza de Marruecos",
+        "it": "Ifrane, la Svizzera del Marocco"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Barbary macaques in the cedar forest",
+        "es": "Macacos en el bosque de cedros",
+        "it": "Bertucce nella foresta di cedri"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Ziz Valley palm groves",
+        "es": "Palmerales del valle del Ziz",
+        "it": "Palmeti della valle dello Ziz"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Sunset camel ride in Erg Chebbi",
+        "es": "Camello al atardecer en Erg Chebbi",
+        "it": "Cammello al tramonto a Erg Chebbi"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Night in a desert camp",
+        "es": "Noche en un campamento",
+        "it": "Notte in un campo tendato"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Sunrise over the dunes",
+        "es": "Amanecer sobre las dunas",
+        "it": "Alba sulle dune"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Fes",
+    "Ifrane",
+    "Midelt",
+    "Merzouga",
+    "Rissani",
+    "Fes"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Fes – Ifrane – Midelt – Ziz Valley – Merzouga",
+        "es": "Fez – Ifrane – Midelt – valle del Ziz – Merzouga",
+        "it": "Fes – Ifrane – Midelt – valle dello Ziz – Merzouga"
+      },
+      "text": {
+        "en": "Pick-up from your riad in the morning and drive into the Middle Atlas. Stop in Ifrane, a quiet, tidy town with an alpine feel, then look for Barbary macaques in the cedar forest near Azrou. After a break in Midelt, follow the Ziz Valley and its palm groves, with photo stops at the viewpoints, past Erfoud to Merzouga. In the late afternoon, ride a camel into the Erg Chebbi dunes to watch the sunset, then reach your camp for dinner and a night under the stars.",
+        "es": "Te recogemos en tu riad por la mañana y entramos en el Medio Atlas. Paramos en Ifrane, un pueblo tranquilo y limpio con aire alpino, y buscamos macacos de Berbería en el bosque de cedros de Azrou. Tras una pausa en Midelt, seguimos el valle del Ziz y sus palmerales, con paradas en los miradores, y pasamos por Erfoud hasta Merzouga. A última hora de la tarde entras en camello a las dunas de Erg Chebbi para ver el atardecer y llegas al campamento para cenar y dormir bajo las estrellas.",
+        "it": "Ti preleviamo al riad al mattino ed entriamo nel Medio Atlante. Sosta a Ifrane, cittadina tranquilla e ordinata dall’aria alpina, poi cerchiamo le bertucce nella foresta di cedri vicino ad Azrou. Dopo una pausa a Midelt seguiamo la valle dello Ziz e i suoi palmeti, con soste ai belvedere, e passando per Erfoud arriviamo a Merzouga. Nel tardo pomeriggio entri in cammello tra le dune di Erg Chebbi per il tramonto e raggiungi il campo per cena e notte sotto le stelle."
+      },
+      "overnight": {
+        "en": "Desert camp in Erg Chebbi",
+        "es": "Campamento en Erg Chebbi",
+        "it": "Campo tendato a Erg Chebbi"
+      },
+      "breakfast": false,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga – Rissani – Erfoud – Midelt – Fes",
+        "es": "Merzouga – Rissani – Erfoud – Midelt – Fez",
+        "it": "Merzouga – Rissani – Erfoud – Midelt – Fes"
+      },
+      "text": {
+        "en": "Wake early for sunrise over the dunes, then have breakfast at camp. Leave the desert by camel or 4×4 and drive through Rissani, with its old market, and Erfoud, known for its fossils. Head north again along the Ziz Valley, over the Middle Atlas via Midelt and Ifrane, and arrive back at your riad in Fes in the evening.",
+        "es": "Te levantas temprano para el amanecer sobre las dunas y desayunas en el campamento. Sales del desierto en camello o en 4×4 y pasamos por Rissani, con su viejo mercado, y Erfoud, conocido por sus fósiles. Volvemos al norte por el valle del Ziz, cruzamos el Medio Atlas por Midelt e Ifrane y llegamos a tu riad en Fez por la noche.",
+        "it": "Sveglia presto per l’alba sulle dune, poi colazione al campo. Lasci il deserto in cammello o in 4×4 e passiamo da Rissani, con il suo antico mercato, ed Erfoud, nota per i fossili. Torniamo a nord lungo la valle dello Ziz, attraversiamo il Medio Atlante via Midelt e Ifrane e rientriamo al tuo riad a Fes in serata."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Pick-up and drop-off at your riad or hotel in Fes",
+      "es": "Recogida y regreso a tu riad u hotel en Fez",
+      "it": "Prelievo e rientro al tuo riad o hotel a Fes"
+    },
+    {
+      "en": "Private modern air-conditioned vehicle, fuel included",
+      "es": "Vehículo privado moderno con aire acondicionado, combustible incluido",
+      "it": "Veicolo privato moderno climatizzato, carburante incluso"
+    },
+    {
+      "en": "Experienced English or Spanish-speaking driver-guide",
+      "es": "Conductor-guía con experiencia que habla inglés o español",
+      "it": "Autista-guida esperto che parla inglese o spagnolo"
+    },
+    {
+      "en": "Sunset camel ride into the dunes",
+      "es": "Paseo en camello al atardecer por las dunas",
+      "it": "Escursione in cammello al tramonto tra le dune"
+    },
+    {
+      "en": "4×4 transfer to and from the camp, as an alternative to camels",
+      "es": "Traslado en 4×4 al campamento, como alternativa al camello",
+      "it": "Trasferimento in 4×4 al campo, in alternativa al cammello"
+    },
+    {
+      "en": "1 night in a desert camp in Erg Chebbi",
+      "es": "1 noche en un campamento en Erg Chebbi",
+      "it": "1 notte in un campo tendato a Erg Chebbi"
+    },
+    {
+      "en": "Dinner and breakfast at the camp",
+      "es": "Cena y desayuno en el campamento",
+      "it": "Cena e colazione al campo"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Fes",
+      "description": {
+        "en": "Start",
+        "es": "Salida",
+        "it": "Partenza"
+      }
+    },
+    {
+      "name": "Ifrane",
+      "description": {
+        "en": "Switzerland of Morocco",
+        "es": "La Suiza de Marruecos",
+        "it": "La Svizzera del Marocco"
+      }
+    },
+    {
+      "name": "Azrou",
+      "description": {
+        "en": "Cedar forest",
+        "es": "Bosque de cedros",
+        "it": "Foresta di cedri"
+      }
+    },
+    {
+      "name": "Midelt",
+      "description": {
+        "en": "Mountain town",
+        "es": "Ciudad de montaña",
+        "it": "Città di montagna"
+      }
+    },
+    {
+      "name": "Ziz Valley",
+      "description": {
+        "en": "Palm oasis",
+        "es": "Oasis de palmeras",
+        "it": "Oasi di palme"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Desert camp · night 1",
+        "es": "Campamento · noche 1",
+        "it": "Campo tendato · notte 1"
+      }
+    },
+    {
+      "name": "Rissani",
+      "description": {
+        "en": "Old market",
+        "es": "Viejo mercado",
+        "it": "Antico mercato"
+      }
+    },
+    {
+      "name": "Erfoud",
+      "description": {
+        "en": "Fossil town",
+        "es": "Ciudad de los fósiles",
+        "it": "Città dei fossili"
+      }
+    },
+    {
+      "name": "Fes",
+      "description": {
+        "en": "End",
+        "es": "Fin",
+        "it": "Fine"
+      }
+    }
+  ],
+  "map_route": [
+    "Fes",
+    "Ifrane",
+    "Azrou",
+    "Midelt",
+    "Errachidia",
+    "Erfoud",
+    "Merzouga",
+    "Rissani",
+    "Midelt",
+    "Fes"
+  ],
+  "planner": {
+    "show": true,
+    "days": 2,
+    "start": "fes",
+    "tags": [
+      "desert"
+    ]
+  }
+}

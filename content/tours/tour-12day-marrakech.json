@@ -1,0 +1,555 @@
+{
+  "title": "12 Days From Marrakech",
+  "type": "tour",
+  "category": "marrakech",
+  "order": 6,
+  "show_on_home": true,
+  "home_extra": [
+    "authentic"
+  ],
+  "price": "",
+  "image": "/images/tour-mk12.jpg",
+  "image_position": "center 40%",
+  "meta_description": "Private 12-day tour from Marrakech: Marrakech with a local guide, Ait Ben Haddou, Todra Gorges, two nights in Merzouga with a camel trek and desert camp, Fes, Volubilis, Meknes, Rabat and Casablanca.",
+  "eyebrow": {
+    "en": "Private grand tour",
+    "es": "Gran tour privado",
+    "it": "Grand tour privato"
+  },
+  "title_line1": {
+    "en": "12 Days from Marrakech",
+    "es": "12 días desde Marrakech",
+    "it": "12 giorni da Marrakech"
+  },
+  "title_line2": {
+    "en": "Imperial Cities & Sahara",
+    "es": "Ciudades imperiales y Sáhara",
+    "it": "Città imperiali e Sahara"
+  },
+  "duration": {
+    "en": "12 days · 11 nights",
+    "es": "12 días · 11 noches",
+    "it": "12 giorni · 11 notti"
+  },
+  "duration_short": {
+    "en": "12 days",
+    "es": "12 días",
+    "it": "12 giorni"
+  },
+  "start": "Marrakech",
+  "end": "Marrakech",
+  "card": {
+    "title": {
+      "en": "12 Days From Marrakech",
+      "es": "12 días desde Marrakech",
+      "it": "12 giorni da Marrakech"
+    },
+    "highlights": {
+      "en": "Marrakech · Todra · Erg Chebbi camp · Fes · Volubilis · Rabat · Casablanca",
+      "es": "Marrakech · Todra · campamento en Erg Chebbi · Fez · Volubilis · Rabat · Casablanca",
+      "it": "Marrakech · Todra · campo a Erg Chebbi · Fes · Volubilis · Rabat · Casablanca"
+    },
+    "route": [
+      "Marrakech",
+      "Merzouga",
+      "Fes",
+      "Rabat"
+    ],
+    "image_alt": "12 Days From Marrakech: imperial cities and Sahara"
+  },
+  "overview": [
+    {
+      "en": "Twelve days to see Morocco properly: the red city of Marrakech, the kasbahs of the south, the great dunes of the Sahara, the imperial cities of the north and the Atlantic capitals — at a relaxed pace, with time to stop and look.",
+      "es": "Doce días para conocer Marruecos de verdad: la ciudad roja de Marrakech, las kasbahs del sur, las grandes dunas del Sáhara, las ciudades imperiales del norte y las capitales atlánticas, a un ritmo tranquilo y con tiempo para detenerse.",
+      "it": "Dodici giorni per conoscere davvero il Marocco: la città rossa di Marrakech, le kasbah del sud, le grandi dune del Sahara, le città imperiali del nord e le capitali atlantiche, con calma e tempo per fermarsi."
+    },
+    {
+      "en": "You start with two days in Marrakech, including a guided walk through the medina and a visit to the Majorelle Garden. Then the road crosses the High Atlas to Ait Ben Haddou and Ouarzazate, and continues through the Rose Valley and the Todra Gorges to Merzouga.",
+      "es": "Empiezas con dos días en Marrakech, con un paseo guiado por la medina y una visita al Jardín Majorelle. Después la carretera cruza el Alto Atlas hasta Ait Ben Haddou y Ouarzazate, y sigue por el valle de las Rosas y las gargantas del Todra hasta Merzouga.",
+      "it": "Inizi con due giorni a Marrakech, con una passeggiata guidata nella medina e la visita al Giardino Majorelle. Poi la strada attraversa l’Alto Atlante fino ad Ait Ben Haddou e Ouarzazate, e prosegue per la valle delle Rose e le gole del Todra fino a Merzouga."
+    },
+    {
+      "en": "In the Sahara you take your time: Gnawa music in Khamlia, a visit to a nomad family, and a camel trek into the Erg Chebbi dunes for a night in a desert camp, with sunset and sunrise over the sand.",
+      "es": "En el Sáhara vas sin prisa: música gnawa en Khamlia, visita a una familia nómada y un paseo en camello por las dunas de Erg Chebbi para pasar una noche en un campamento, con atardecer y amanecer sobre la arena.",
+      "it": "Nel Sahara te la prendi con calma: musica gnawa a Khamlia, visita a una famiglia nomade e un’escursione in cammello tra le dune di Erg Chebbi per una notte in un campo tendato, con tramonto e alba sulla sabbia."
+    },
+    {
+      "en": "The second half takes you north through the Ziz Valley, Midelt and the cedar forests of Azrou to Fes, then on to Volubilis, Meknes, Rabat and Casablanca, before a final free day back in Marrakech.",
+      "es": "La segunda parte te lleva al norte por el valle del Ziz, Midelt y los bosques de cedros de Azrou hasta Fez, y luego a Volubilis, Meknes, Rabat y Casablanca, antes de un último día libre en Marrakech.",
+      "it": "La seconda parte ti porta a nord attraverso la valle dello Ziz, Midelt e le foreste di cedri di Azrou fino a Fes, poi a Volubilis, Meknes, Rabat e Casablanca, prima di un ultimo giorno libero a Marrakech."
+    }
+  ],
+  "highlights": [
+    {
+      "title": {
+        "en": "Marrakech medina & Majorelle",
+        "es": "Medina de Marrakech y Majorelle",
+        "it": "Medina di Marrakech e Majorelle"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Ait Ben Haddou & Todra Gorges",
+        "es": "Ait Ben Haddou y gargantas del Todra",
+        "it": "Ait Ben Haddou e gole del Todra"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Gnawa music in Khamlia",
+        "es": "Música gnawa en Khamlia",
+        "it": "Musica gnawa a Khamlia"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Camel trek & desert camp",
+        "es": "Camello y campamento en el desierto",
+        "it": "Cammello e campo nel deserto"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Fes medina with a local guide",
+        "es": "Medina de Fez con guía local",
+        "it": "Medina di Fes con guida locale"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    },
+    {
+      "title": {
+        "en": "Volubilis, Rabat & Casablanca",
+        "es": "Volubilis, Rabat y Casablanca",
+        "it": "Volubilis, Rabat e Casablanca"
+      },
+      "detail": {
+        "en": "",
+        "es": "",
+        "it": ""
+      }
+    }
+  ],
+  "route": [
+    "Marrakech",
+    "Ouarzazate",
+    "Merzouga",
+    "Midelt",
+    "Fes",
+    "Rabat",
+    "Casablanca",
+    "Marrakech"
+  ],
+  "days": [
+    {
+      "title": {
+        "en": "Welcome to Marrakech",
+        "es": "Bienvenida a Marrakech",
+        "it": "Benvenuti a Marrakech"
+      },
+      "text": {
+        "en": "We meet you at the airport and drive you to your hotel or riad. The rest of the day is yours to settle in and enjoy your first evening in the Red City.",
+        "es": "Te recibimos en el aeropuerto y te llevamos a tu hotel o riad. El resto del día es tuyo para instalarte y disfrutar de tu primera noche en la Ciudad Roja.",
+        "it": "Ti accogliamo in aeroporto e ti accompagniamo al tuo hotel o riad. Il resto della giornata è tuo per sistemarti e goderti la prima sera nella Città Rossa."
+      },
+      "overnight": {
+        "en": "Hotel or riad in Marrakech",
+        "es": "Hotel o riad en Marrakech",
+        "it": "Hotel o riad a Marrakech"
+      },
+      "breakfast": false,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Marrakech with a local guide",
+        "es": "Marrakech con guía local",
+        "it": "Marrakech con guida locale"
+      },
+      "text": {
+        "en": "A local guide meets you in the medina for a walking tour of the old town. After lunch in the heart of the medina, visit the Majorelle Garden before a free evening in Marrakech.",
+        "es": "Un guía local te espera en la medina para un paseo por la ciudad antigua. Tras el almuerzo en el corazón de la medina, visitas el Jardín Majorelle antes de una tarde libre en Marrakech.",
+        "it": "Una guida locale ti aspetta nella medina per una passeggiata nella città antica. Dopo il pranzo nel cuore della medina, visiti il Giardino Majorelle prima di una serata libera a Marrakech."
+      },
+      "overnight": {
+        "en": "Hotel or riad in Marrakech",
+        "es": "Hotel o riad en Marrakech",
+        "it": "Hotel o riad a Marrakech"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Marrakech – Ait Ben Haddou – Ouarzazate",
+        "es": "Marrakech – Ait Ben Haddou – Ouarzazate",
+        "it": "Marrakech – Ait Ben Haddou – Ouarzazate"
+      },
+      "text": {
+        "en": "We cross the High Atlas over the Tizi n’Tichka pass to the kasbah of Ait Ben Haddou, then continue to Ouarzazate and its film studios. Night in Ouarzazate.",
+        "es": "Cruzamos el Alto Atlas por el puerto de Tizi n’Tichka hasta la kasbah de Ait Ben Haddou y seguimos a Ouarzazate y sus estudios de cine. Noche en Ouarzazate.",
+        "it": "Attraversiamo l’Alto Atlante sul passo del Tizi n’Tichka fino alla kasbah di Ait Ben Haddou, poi proseguiamo per Ouarzazate e i suoi studi cinematografici. Notte a Ouarzazate."
+      },
+      "overnight": {
+        "en": "Hotel in Ouarzazate",
+        "es": "Hotel en Ouarzazate",
+        "it": "Hotel a Ouarzazate"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Ouarzazate – Todra Gorges – Merzouga",
+        "es": "Ouarzazate – gargantas del Todra – Merzouga",
+        "it": "Ouarzazate – gole del Todra – Merzouga"
+      },
+      "text": {
+        "en": "Drive through the Rose Valley and stop at the Todra Gorges to walk between the high rock walls. In the evening you reach Merzouga, at the foot of the Erg Chebbi dunes.",
+        "es": "Atravesamos el valle de las Rosas y paramos en las gargantas del Todra para caminar entre sus altas paredes. Por la tarde llegas a Merzouga, al pie de las dunas de Erg Chebbi.",
+        "it": "Attraversiamo la valle delle Rose e ci fermiamo alle gole del Todra per camminare tra le alte pareti. In serata arrivi a Merzouga, ai piedi delle dune di Erg Chebbi."
+      },
+      "overnight": {
+        "en": "Hotel in Merzouga",
+        "es": "Hotel en Merzouga",
+        "it": "Hotel a Merzouga"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Exploring the Merzouga area",
+        "es": "Explorando la región de Merzouga",
+        "it": "Alla scoperta di Merzouga"
+      },
+      "text": {
+        "en": "A day around the desert: visit the village of Khamlia to listen to Gnawa music, meet a nomad family, discover palm-fringed oases and the landscapes around Erg Chebbi.",
+        "es": "Un día alrededor del desierto: visitas el pueblo de Khamlia para escuchar música gnawa, conoces a una familia nómada y descubres oasis de palmeras y los paisajes de Erg Chebbi.",
+        "it": "Una giornata intorno al deserto: visiti il villaggio di Khamlia per ascoltare musica gnawa, incontri una famiglia nomade e scopri oasi di palme e i paesaggi di Erg Chebbi."
+      },
+      "overnight": {
+        "en": "Hotel in Merzouga",
+        "es": "Hotel en Merzouga",
+        "it": "Hotel a Merzouga"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Camel trek & night in the desert",
+        "es": "Camello y noche en el desierto",
+        "it": "Cammello e notte nel deserto"
+      },
+      "text": {
+        "en": "In the afternoon you ride camels into the highest dunes of Morocco to reach the camp for sunset. Dinner is a traditional Moroccan meal, followed by Berber drums around the fire and a night under a sky full of stars.",
+        "es": "Por la tarde montas en camello hacia las dunas más altas de Marruecos para llegar al campamento al atardecer. Cena tradicional marroquí, tambores bereberes junto al fuego y una noche bajo un cielo lleno de estrellas.",
+        "it": "Nel pomeriggio entri in cammello tra le dune più alte del Marocco e raggiungi il campo al tramonto. Cena tradizionale marocchina, tamburi berberi attorno al fuoco e una notte sotto un cielo pieno di stelle."
+      },
+      "overnight": {
+        "en": "Desert camp in Erg Chebbi",
+        "es": "Campamento en Erg Chebbi",
+        "it": "Campo tendato a Erg Chebbi"
+      },
+      "breakfast": true,
+      "dinner": true
+    },
+    {
+      "title": {
+        "en": "Merzouga – Rissani – Ziz Valley – Midelt",
+        "es": "Merzouga – Rissani – valle del Ziz – Midelt",
+        "it": "Merzouga – Rissani – valle dello Ziz – Midelt"
+      },
+      "text": {
+        "en": "Sunrise over the dunes and breakfast at the camp. We head north through the market town of Rissani, Erfoud, the palm groves of the Ziz Valley and Errachidia to Midelt.",
+        "es": "Amanecer sobre las dunas y desayuno en el campamento. Vamos hacia el norte por el mercado de Rissani, Erfoud, los palmerales del valle del Ziz y Errachidia hasta Midelt.",
+        "it": "Alba sulle dune e colazione al campo. Saliamo verso nord passando per il mercato di Rissani, Erfoud, i palmeti della valle dello Ziz ed Errachidia fino a Midelt."
+      },
+      "overnight": {
+        "en": "Hotel in Midelt",
+        "es": "Hotel en Midelt",
+        "it": "Hotel a Midelt"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Midelt – Azrou cedar forest – Fes",
+        "es": "Midelt – bosque de cedros de Azrou – Fez",
+        "it": "Midelt – foresta di cedri di Azrou – Fes"
+      },
+      "text": {
+        "en": "Cross the Middle Atlas, stop in the cedar forest of Azrou to see the Barbary macaques, pass through Ifrane and arrive in Fes.",
+        "es": "Cruzamos el Medio Atlas, paramos en el bosque de cedros de Azrou para ver los macacos, pasamos por Ifrane y llegamos a Fez.",
+        "it": "Attraversiamo il Medio Atlante, ci fermiamo nella foresta di cedri di Azrou per vedere i macachi, passiamo per Ifrane e arriviamo a Fes."
+      },
+      "overnight": {
+        "en": "Hotel or riad in Fes",
+        "es": "Hotel o riad en Fez",
+        "it": "Hotel o riad a Fes"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Fes with a local guide",
+        "es": "Fez con guía local",
+        "it": "Fes con guida locale"
+      },
+      "text": {
+        "en": "Explore the medieval medina of Fes with a local guide, including the tanneries and the ceramics workshops. Night in a traditional riad.",
+        "es": "Recorres la medina medieval de Fez con un guía local, incluidas las curtidurías y los talleres de cerámica. Noche en un riad tradicional.",
+        "it": "Esplori la medina medievale di Fes con una guida locale, comprese le concerie e i laboratori di ceramica. Notte in un riad tradizionale."
+      },
+      "overnight": {
+        "en": "Riad in Fes",
+        "es": "Riad en Fez",
+        "it": "Riad a Fes"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Fes – Volubilis – Meknes – Rabat",
+        "es": "Fez – Volubilis – Meknes – Rabat",
+        "it": "Fes – Volubilis – Meknes – Rabat"
+      },
+      "text": {
+        "en": "Visit the Roman ruins of Volubilis, have lunch in the imperial city of Meknes, then continue to Rabat, the capital, for the night.",
+        "es": "Visitamos las ruinas romanas de Volubilis, almorzamos en la ciudad imperial de Meknes y seguimos a Rabat, la capital, para pasar la noche.",
+        "it": "Visitiamo le rovine romane di Volubilis, pranziamo nella città imperiale di Meknes e proseguiamo per Rabat, la capitale, per la notte."
+      },
+      "overnight": {
+        "en": "Hotel in Rabat",
+        "es": "Hotel en Rabat",
+        "it": "Hotel a Rabat"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Rabat – Casablanca – Marrakech",
+        "es": "Rabat – Casablanca – Marrakech",
+        "it": "Rabat – Casablanca – Marrakech"
+      },
+      "text": {
+        "en": "Discover the historic sites of Rabat, then drive along the Atlantic to Casablanca for lunch or a drink by the ocean, before the road back to Marrakech.",
+        "es": "Descubres los lugares históricos de Rabat y sigues por el Atlántico hasta Casablanca para comer o tomar algo junto al océano, antes de volver a Marrakech.",
+        "it": "Scopri i luoghi storici di Rabat, poi lungo l’Atlantico fino a Casablanca per un pranzo o un drink sull’oceano, prima di rientrare a Marrakech."
+      },
+      "overnight": {
+        "en": "Hotel or riad in Marrakech",
+        "es": "Hotel o riad en Marrakech",
+        "it": "Hotel o riad a Marrakech"
+      },
+      "breakfast": true,
+      "dinner": false
+    },
+    {
+      "title": {
+        "en": "Free day & departure",
+        "es": "Día libre y salida",
+        "it": "Giornata libera e partenza"
+      },
+      "text": {
+        "en": "Time for last-minute shopping in the souks and packing, then we drive you to the airport for your flight home.",
+        "es": "Tiempo para las últimas compras en los zocos y hacer la maleta; después te llevamos al aeropuerto para tu vuelo.",
+        "it": "Tempo per gli ultimi acquisti nei souk e per fare le valigie, poi ti accompagniamo in aeroporto per il volo di ritorno."
+      },
+      "overnight": {
+        "en": "",
+        "es": "",
+        "it": ""
+      },
+      "breakfast": true,
+      "dinner": false
+    }
+  ],
+  "itinerary_note": {
+    "en": "",
+    "es": "",
+    "it": ""
+  },
+  "included": [
+    {
+      "en": "Airport pick-up and drop-off in Marrakech",
+      "es": "Recogida y regreso al aeropuerto de Marrakech",
+      "it": "Trasferimenti da e per l’aeroporto di Marrakech"
+    },
+    {
+      "en": "Private modern vehicle with A/C, fuel included",
+      "es": "Vehículo privado moderno con A/C, combustible incluido",
+      "it": "Veicolo privato moderno con A/C, carburante incluso"
+    },
+    {
+      "en": "Experienced English/Spanish-speaking driver-guide",
+      "es": "Conductor-guía con experiencia que habla inglés y español",
+      "it": "Autista-guida esperto che parla inglese e spagnolo"
+    },
+    {
+      "en": "Camel trek (one camel per person) & sunset ride",
+      "es": "Paseo en camello (uno por persona) y atardecer",
+      "it": "Escursione in cammello (uno a persona) e tramonto"
+    },
+    {
+      "en": "10 nights in a private room at a hotel or riad",
+      "es": "10 noches en habitación privada en hotel o riad",
+      "it": "10 notti in camera privata in hotel o riad"
+    },
+    {
+      "en": "1 night in a desert camp, in the tent type you prefer",
+      "es": "1 noche en campamento, en el tipo de tienda que prefieras",
+      "it": "1 notte in campo tendato, nel tipo di tenda che preferisci"
+    },
+    {
+      "en": "Optional 4×4 transfer to the camp instead of the camels",
+      "es": "Traslado opcional en 4×4 al campamento en lugar de camellos",
+      "it": "Trasferimento facoltativo in 4×4 al campo al posto dei cammelli"
+    }
+  ],
+  "not_included_extra": [],
+  "not_included": [],
+  "stops": [
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Start · nights 1–2",
+        "es": "Salida · noches 1–2",
+        "it": "Partenza · notti 1–2"
+      }
+    },
+    {
+      "name": "Ait Ben Haddou",
+      "description": {
+        "en": "UNESCO kasbah",
+        "es": "Kasbah UNESCO",
+        "it": "Kasbah UNESCO"
+      }
+    },
+    {
+      "name": "Ouarzazate",
+      "description": {
+        "en": "Night 3",
+        "es": "Noche 3",
+        "it": "Notte 3"
+      }
+    },
+    {
+      "name": "Todra Gorges",
+      "description": {
+        "en": "Rock canyon",
+        "es": "Cañón de roca",
+        "it": "Canyon di roccia"
+      }
+    },
+    {
+      "name": "Merzouga",
+      "description": {
+        "en": "Nights 4–6 · desert camp",
+        "es": "Noches 4–6 · campamento",
+        "it": "Notti 4–6 · campo tendato"
+      }
+    },
+    {
+      "name": "Midelt",
+      "description": {
+        "en": "Night 7",
+        "es": "Noche 7",
+        "it": "Notte 7"
+      }
+    },
+    {
+      "name": "Fes",
+      "description": {
+        "en": "Nights 8–9",
+        "es": "Noches 8–9",
+        "it": "Notti 8–9"
+      }
+    },
+    {
+      "name": "Volubilis & Meknes",
+      "description": {
+        "en": "Roman ruins · imperial city",
+        "es": "Ruinas romanas · ciudad imperial",
+        "it": "Rovine romane · città imperiale"
+      }
+    },
+    {
+      "name": "Rabat",
+      "description": {
+        "en": "Night 10",
+        "es": "Noche 10",
+        "it": "Notte 10"
+      }
+    },
+    {
+      "name": "Casablanca",
+      "description": {
+        "en": "Atlantic coast",
+        "es": "Costa atlántica",
+        "it": "Costa atlantica"
+      }
+    },
+    {
+      "name": "Marrakech",
+      "description": {
+        "en": "Night 11 · end",
+        "es": "Noche 11 · fin",
+        "it": "Notte 11 · fine"
+      }
+    }
+  ],
+  "map_route": [
+    "Marrakech",
+    "Ait Ben Haddou",
+    "Ouarzazate",
+    "Tinghir",
+    "Merzouga",
+    "Midelt",
+    "Azrou",
+    "Fes",
+    "Volubilis",
+    "Meknes",
+    "Rabat",
+    "Casablanca",
+    "Marrakech"
+  ],
+  "planner": {
+    "show": true,
+    "days": 12,
+    "start": "marrakech",
+    "tags": [
+      "desert",
+      "cities",
+      "mountains"
+    ]
+  }
+}
